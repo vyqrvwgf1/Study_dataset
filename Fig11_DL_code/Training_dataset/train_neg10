@@ -1,0 +1,2899 @@
+Some exercise and sample
+Basic structure for a REST client using the Silex microframework to consume the sample https://github.com/fjalvarezdd/SilexRestServer  For documentation review please go to https://github.com/fjalvarezdd/SilexRestClient/wiki
+Some posts in Russian
+Simple blog application written using Django
+
+This is a fork of Common Open Research Emulator (CORE) from http://www.nrl.navy.mil/itd/ncs/products/core  A description from the project page: "The Common Open Research Emulator (CORE) is a tool for emulating networks on one or more machines. You can con
+A very simple Rails 3 sample app using my fork of the Paths of Glory achievement system gem.
+The example files for Building Android Apps with HTML, CSS, and JavaScript
+Small web application using xmpp, nodejs and angularjs.
+SearchPhp - Pimcore Website Search (fork of official Pimcore plugin http://www.pimcore.org/resources/extensions/detail/SearchPhp)
+This library is a lua client for SC-Server. It is a simple client that implements most of the interface of SC-Server.
+
+Test repo for testing gerrit replication
+
+My home directory dotfiles, bin files, etc.
+The first app for the Ruby on Rails Tutorial
+My personal config files.
+
+Swan setup for tutorial
+Script to convert Logs from Amazon S3 to CLF
+A port of my hlbsp project (rendering BSP v30 files from Halflife and it's mods (expecially CS 1.6)) to JS and WebGL (It's currently a project for school)
+A 2D rigid body simulator written in C++.
+Development standards documents
+Github mirror of "operations/debs/python-phabricator" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing
+Wordpress theme for S2A website
+A collection of practice exams for exams in core curriculum CS courses at RIT.
+Clans/Teams Plugin for Minecraft Bukkit Servers, NOTE: This project has now been split into 2 projects, TeamCraft(basic team structures and commands) https://github.com/Satrosity/TeamCraft and KingdomCraft (addon to TeamCraft, will have area commands, sco
+Only for testing purpose
+[deprecated] can be replace with v2 of i18next
+\N
+Documentation of the Guild Wars 2 Archive file (gw2.dat)
+Demo project for trying out Java annotation processing
+A british set of libraries + widgets for dealing with colour
+Simple, tree-structured configuration file parser
+A collection of personal SlackBuilds.
+Documentation bundled with KISS IDE
+Collection of salt state files for use and testing
+GNOME 3 extension to create a new application instance with the wheel button.
+Mirror of SC repo for our own sanity (fixing warnings etc)
+These are my dotfiles. There are many like it, but this one is mine.
+
+NOTE: maya2renderer is moved to https://github.com/maya2renderer/maya2renderer
+Example of a scalable robotframework test suite, following the example at http://net.tutsplus.com/tutorials/tools-and-tips/get-test-infected-with-selenium-2/ but using RobotFramework
+My attempt at a Github page
+
+my personal website
+Outlet is a simple Lisp-like programming language
+A small javascript bookmarklet to replace video.xin.msn.com's Flash Player with the HTML5 <video /> tag
+Bombolone is a tasty Content Management System for Python based on Flask, MongoDB, AngularJS, Sass and Bootstrap. It's designed to be a simple, flexible toolset for projects of any size.
+Kohana 3.2 basic CRUD / scaffold
+A simple sanitiser/sanitizer for NodeJS
+My VIM configuration & plugins
+
+This is a test to work on repo configurations
+Small helper script for exporting MySQL databases.
+An example showing how to send, receive and play audio data via websockets
+An adoption of my e4 contacts demo for GWT, using the GWT MVP architecture with activities, places, event bus, etc.
+USE THE UPSTREAM GIT REPO INSTEAD http://root.cern.ch/git/root.git or here https://github.com/root-mirror/root. Mirror of CERN's ROOT svn repository, updates are run hourly. master branch is svn trunk. Branch branches/dev is suppossed to be a set of branc
+
+Simple ToDo Application using Google App Engine
+WordPress.org Plugin Mirror
+my vim config files
+A basic "facebook-like" standalone wall (posts, comments, like/unlike) with php/pdo/ldap, html, css and javascript/jquery
+Todoist.com backup
+A minor mode for octave which highlights "echoing" lines
+On-the-fly documentation
+collection of scripts for personal use!
+When the object or arg to a delayed_job is a Mongoid document, store only a small stub of the object instead of the full serialization.
+my dotfiles
+
+
+Simple, fast and extensible tweening library for SFML
+
+
+
+
+
+KSP Interstellar Near Future Integration which is a Fork of Boris-Barboris/KSPInterstellar
+
+
+(Temporary) Maven Repository
+Cookbook Page Project
+rails project from the odin project
+nodejs on AWS, practice project
+
+
+
+
+
+
+
+
+
+
+My personal tech blog
+
+My personal blog
+just a simple test
+Old repo for my personal portfolio site. No longer updated.
+
+My demo
+a simple to-do-list using jquery
+Simple JS, HTML, CSS, PHP and mySQL
+A simple Library Managment System developed by using Java. Adding / managing book entries, add / managing members etc. has been done by connecting to a SQL database.
+A simple browser based markdown editor. Enter markdown on the left, get HTML on the right. Hit the Save button to export it.
+
+(FINISHED) :computer: My first NW.js app. Just for test (I was bored and anxious of learning something new)
+Computer Networks Course Projects
+This is a test repo
+
+Swift implementation of basic container view controller
+Personal Site for Matt Gerstman
+Temp repo for practicing Uncle Bob's Clean Architecture on iOS
+
+
+
+Small tool to determine OS Version
+I wrote my resume in LaTeX based on the one by Alessandro Plasmati <https://www.sharelatex.com/templates/cv-or-resume/professional-cv>.
+
+Fundamentals of Computing I
+Swift Conventions and Style Guide
+My personal list of essential packages for Arch Linux
+
+
+
+A simple python script that will update your twitter account with Bitcoin, Litecoin or any other Altcoin price.
+Example of using System.js
+This is a project created to make web development more simple, I think there are a lot of duplication in web development. If we can abstract the common part as module and next time with some providing configuration file like(XML, YAML etc), we can generat
+A simple wrapper for localconfig that allows for reading config from a remote server
+Personal Repo to store daily /r/dailyprogrammer challenges
+
+Created new REPO
+
+CO318 network programming 2 course 1st group project ( With Kanchana Gamage )
+Just a project following a rails tutorial...
+Android example with Portals user login
+
+
+My github site
+
+The classical todo example in various frameworks, basically for learning and demo purpose.
+Simple Flora project using a 12-LED ring and Compass module to always point north.
+
+/* I decided to start this new year, playing with Java. I will use this class later for a clock component */
+Simple, mobile first CSS framework
+
+
+All of my answers to the problems at Project Euler.
+This is my first responsitory.
+small ideas in code and not code
+My Resume/Portfolio
+some exercises from .js roadtrip on Code School
+
+I am reading "Python for Informatics: Exploring Information"
+:floppy_disk: List of coding resources. 
+Too young. Too simple. Sometimes naive. A SQL DBMS as a course project.
+Sets up my development environment
+
+Manny's Magical Master Manager is an aid to manage the small details of DMing for you, so you can focus on the real work. Currently available as a text-based interface, a GUI is planned eventually.
+
+
+My fairly broken test repo written for a frankensteined xcode-theos weapon of mass destruction
+Practice App that builds Cellular Automatons
+A very simple Java program that allows you to find the IP address of the computer that you are using.
+A small Java program that enables you to open a window on your default browser.
+
+
+my first repository
+say hello to github
+HasanOzgan's Personal Web Site
+
+Testing Git workflow
+My code and Fritzing schematics from going through the Arduino starter kit.
+A repository to test the development of responsive navbars
+My first Android Wear Disaster
+This just to try uploading my project
+
+my test project
+
+
+development work 
+A simple to do list written in Swift for experimenting
+
+
+
+
+
+
+
+Simple To Do List 
+Code for raspberry pi object tracking. Developed for McMaster sumobot competition 2014/2015.
+
+
+Puppet manifest for setting up new machines
+Coursera online course - R Programming
+This class can be used to check the validaty of Swedish Person number.
+
+
+
+
+
+Tools and code that is for personal use - may not make much sense to anyone else
+
+
+
+
+
+Basic Space Invaders clone written in Love2D 
+
+Test Project
+
+
+Sample Repository created to learn Git
+Java source following The Cherno's Game Programming tutorials: https://www.youtube.com/watch?v=GFYT7Lqt1h8&list=PLlrATfBNZ98eOOCk2fOFg7Qg5yoQfFAdf
+
+
+
+
+just my first github
+Based on OneMonthRails tutorial, building a Ruby web app
+Tutorial
+
+
+AdKiT Basic Version for web development
+This is an assignment for Calgary University GSWL
+docker repo
+A very simple Vagrant box for Rails development
+
+Personal configurations for Chrom[e|ium] OS
+Demo Drawer Menu Material Design
+
+GitHub practice
+my first foray into git. I'm gitty. *rimshot*
+
+
+Source code for lessons and assignments of Udacity-Twitter course "Real-Time Analytics with Apache Storm".
+just another demo
+Almost 200 common file icon free to download.
+Some code to start learning new functionality in Java 8
+happy school days
+
+Simple web application like twitter
+Final Project Wireless Systems and Networks course
+
+
+
+Testing the github.io and Jekyll
+
+
+Lightweight - simple PHP lib to handle multi-threading
+A C# Portable class library to access Hue devices.
+First repository based on tutorial guide
+Udacity Git/GitHub training course reflections
+
+
+
+
+
+
+Duke's personal page
+Fork from https://github.com/rstacruz/nprogress.git
+get used to Business Intelligence, this is my final project of BI class.
+A small python script that controls a DSLR to take up to 31 pictures for HDR processing
+
+
+
+
+Website for Neon Family Church
+this is a github test repo
+this repository is used to learn git
+Awesome Space Storage Inventory Management
+Move your body is a kinect game when kinect sdk haven't appeared and used openni
+Python script used in my project ROBOCar which won the "Best Project Award of 2013"at  aDAVitya 13, DAVIET's technical fest.
+
+A python version of simple implementation of matlab. Used for familiarizing with pylab.
+Some Python scripts I wrote to learn Python.
+test for clone
+Simple server & client applications in Ruby.
+Simple server & client applications in Ruby.
+This is a parent project as a library. It's a summary of my Android development experience. It concludes lots of tool classes, such as some classes about SharedPreference, IO, Download, Network and so on. Of course, some custom widgets, like RoundedImageV
+
+Just another Repository
+
+This is core java project for testing my core java apis
+A writtenMorse and normal morse code converter.
+learning to use the Django web framework along with Ubuntu.
+Testing
+Demo TODO app to test mithril
+My first! This is also the repository for my Cash Register code in Minecraft.
+MITx course on Computational Thinking and Data Science
+Simple todo list.
+An HTML game
+My first git program
+rails test, just for fun
+
+
+
+
+
+
+Framework practices.
+
+The VDBA documentation.
+R-programming materials and assignments from the coursera data science specialization
+This repository for different datastructure implementation in java.
+Simple php page for booking-processes.
+this is the first git project
+
+RAPID is a set of tools for the alignment, and analysis of genomic regions with small RNA clusters derived from small RNA sequencing data.
+learning git
+This is my First repository made for experimental purposes only
+Application being built to learn git
+
+My testing repository
+Android learning project, trying to create example catalog
+Collection of all problem solving practices that I do.
+Uyghur Language Processing Guide for Developers
+
+
+
+Simple application implementing longest prefix match for finding corresponding ASN to given IP address.
+
+My super sample app to test out Jenkins.
+
+Basic App
+my first repository, study use github
+
+
+Test repository for Atlanta Macros
+
+This repo is used to extract web content
+Just my experiments with Haskell
+
+
+
+
+
+Original demonstration application for DrawKit.
+
+solr config
+Rails Demo App on ETSY During Training
+This is used to scrap webcontent
+a config file and skin for atom.io
+
+Learning angular with typescript and requirejs based on Dan Wahlin example
+First Git-Hub repository just to know
+REST Javascript Example App for OpenAM
+Puppet config for crobot on arch linux
+test
+An app developed during the training sessions on Ruby on Rails 
+The .gitignore file we use for our Android projects created with Android Studio.
+Project for testing Kundera and CMT JTA
+Super simple client-only cursor pagination for Meteor
+
+A first try to a HTML helper for simple tables
+
+simple python script to get a list of jobs and their status and store in sqlite database
+
+Simple time measurement and collection utilities in scala
+
+
+
+a school project
+Practice - Blog For Stuff
+
+A collection of algorithms and functions written for PHP
+
+Learning to work with Rails engines. An engine made out of the inbox functionality in the MailServer Project.
+Github Tutorial
+My first repository
+An example for a plugin framework implementation
+Some drawings for CNC machine I used to enhance my house
+[ Python ] Static Simple PostScript interpreter for CptS 355 (Programming Language Design).
+The Xp Game sources, translated in dutch
+For learning KUE
+fork of http://www.policyd-weight.org 
+Examples for the Java Programming Basics course
+
+
+
+
+Hey my first repository! I finally understood what repository means ;P
+
+Notes about learning ROS (Robot Operating System)
+
+Personal website
+
+
+noInfoPath formview module
+noInfoPath sync module
+New to git hub!checking it out!
+This is a repo to test out project specific web pages through a git repo
+
+
+Scrivere file di Logs
+
+my first PHP learning APP
+A small 10 mintue text adventure crafted in python
+The Learn Rails tutorial
+Magento demo, using vagrant
+
+
+A quick start code & guide for using Spring Boot and build a simple REST API from ground up in few minutes
+
+My first repo
+MySQL project from CS class
+A small program for our stap project.
+test sample of pluralsight intro to node.js
+
+
+the first github project
+A simple and specific script I wrote that looks at an input text file for Names and Email addresses and builds an output text file using tab delimited columns for Firstname Surname and Email Address fields.
+
+
+
+photo's organizer and backup
+
+First game created using Unity
+
+
+
+
+python test
+This is a demo app to play with Travis CI
+2015 Kidozen demo of a vendors CRM application
+
+Simple console aplication in javascript to create youtube song playlist based on csv file with artist and songs
+Small private tools
+ISO/IEC 2000 APL Required Character Set
+
+
+
+
+[WIP] ORM built around the unit of work pattern and a bring-your-own-persistence philosophy.
+Copy of PHP-SRC updated with a fix for read/write timeouts on openssl extension. Branches exist for the latest stable release of 5.5.20 and 5.6.4   I can add additional branches if requested. NOTE: These changes have been merged into the current 5.5, 5.6,
+clone from oreilly jenkins book
+mdust from DFCI Gene Indices Software Tools (not my project; original link: ftp://occams.dfci.harvard.edu/pub/bio/tgi/software/seqclean/)
+
+A simple catchy layout for your online resume
+BurJS is a small and easy to use framework for building client side applications and lets you bind all your favorite libraries together.
+a simple application which improves the process of learning e.g. words or dates by heart
+Personal coding projects I have done.
+Working directory of  Physics bachelor students of the University of  Amsterdam following an Astronomy-Astrophysics workshop
+First repository
+Randomly playing around with data science tutorials
+
+Test for Extensions Manager
+
+
+
+
+This is a repo of my engineer's thesis. All rights belong to Lodz University of Technology. 
+
+this is my first repo.
+Just a test to be sure everything is set up and working correctly
+
+basic web theme for my profile and noBlackMagic.com
+dummy repository
+
+
+Following the Angular/Satellizer/Node/Mongo tutorial on hackhands: https://hackhands.com/building-instagram-clone-angularjs-satellizer-nodejs-mongodb/
+opencv with python
+
+
+
+
+TinyXML fork
+
+
+
+
+BIddo is an online car dealing website
+Personal dotfiles
+A bootable text based challenger version .
+As it says on the tin: notes on GitHub
+Just another repository
+
+
+This is sacred secret private stuff. I would be honored if you ask first or at least notify me.
+My first attempt at a website. Starting from scratch html
+Personal Portfolio Website
+my vim
+A (basic) Polymer based arc layout web-component.
+pet project
+A set of python scripts to convert csv files from various financial institutions to qfx.
+Hexo Source for
+ Configurations of various applications (e.g. nginx, memcached, W3TC, etc.) on small vps server powering my wordpress site..
+Commercial Development in South Shore
+Compilation of school programming projects from 2014 onwards
+Basic PHP Template For Iron Worker
+My first repository
+
+The first app for Ruby on Rails Tutorial
+Git repository for demo
+A basic Grunt file which can be modified for any project
+A small chrome extension to display and keep track of tabs count across all windows.
+A small guide to help those looking to hire a developer or designer for iOS work. While tailored for iOS, many questions could be used for Android developers or designers as well. A great self-test if you're looking to keep current or practice for your ow
+
+
+Docker files for my blog on VPS
+
+this is the first time using github
+Custom Wordpress theme development for flyrbord.com
+Weather Forecaster is a simple weather application I am creating following the trick and tips of the Sunchine Udacity application.Enjoy! :)
+
+
+
+
+Service Classifre for KDD's 99 Dataset, which split both training and test datasets based on service names on new files
+Just some WebRTC tests.
+
+
+
+Little repository to play with Git
+
+ios tutorials
+Wedding app for Jacob and Katie
+Improving our QA process from complicated Google Spreadsheets to a simple app.
+
+
+
+Randomly generates a language with grammar rules and a small dictionary of words.
+Primary test
+
+"Iteadstudio" Duel Relay & Mosfet Shield,Comes with a pretty useless library for checking each parts functionality,here is a slightly better one I wrote.(turns on and off each relay and mosfet with delays)
+Ruby on Rails Tutorial
+
+setting vpn and secure mail
+It'll include test about Android development
+An example theme to display Wundersite content
+udacity course HTML/CSS
+Java port of an old Amiga Basic program I typed in back in the 80's
+My first steps in programming
+puppet open >3.7
+
+Web page for STT 2810
+karma clone
+projects for this class
+A small webapp which zips and returns your multiple file.
+My personal webpage.
+A small udacity webapp to browse download courses using udacity api.
+All the mini projects finished during the course "Data Communication And Networks" (Spring 2013)
+
+
+The Website
+
+
+Personal recommendations for your LJ reading list
+Super-Simple jQuery plugin which finds the tallest child in a given container and sets its height on all the other children. 
+Projet Android 2014-2015
+Source code from Tien Nguyen's tutorial.
+Practice respository
+just playing around
+Open Source Model Railway Control system
+
+FRC 2015 robototes robot code.
+
+things I write that I use
+
+Learning
+Project Euler Problem 32 find sum of pandigital products containing 1-9
+SASS Framework from tutsplus course
+Hotel reservation system by jango
+dotfiles
+This package is deprecated in favor of https://github.com/astronomerio/meteor-astronomer
+
+DEPRECATED! USE MDCSS INSTEAD! PHP Styleguide.
+
+Code for the current 2015 Team 2836 Robot
+
+We will use the issue tracker of this repository to serve as the mailing list
+
+
+
+This simple JS Module previews the uploaded images, before the actual upload of files
+Dot files!
+Repository for my personal docker containers.
+
+
+
+A curated list of awesome Deep Learning projects tutorials and communities.
+Learning the basics of C
+A dumping place for various fonts I decide to tinker with.
+Dashboard for small private servers
+Create and send a simple text message
+
+SHP file of parcels with situs address attached provided via public records request by local government in Lassen County California
+Supporting files for testing index sizes post-ingest
+Generates sample projects from a Github repository with some added user configuration
+All of my dotfiles
+
+Source code for html
+
+
+A sample Laravel 5 app.
+Projet de stage 2014-2015 (Node.js)
+Notes and testing from Udacity's How to Use Git and GitHub class
+Jackrabbit 2.9 with PostgreSQL example project
+emacs 23 config
+Clone
+
+C basic helpers
+
+
+Simple ruby script to query OMDB and add years to movie filenames.
+Basic project template for GAE webapp2 projects
+You can report people for any reason you desire!
+Node.js server for REST api to control my home automation project
+A scientific calculator coded in Java. This calculator includes all the basic functions and many other useful operations such as slope, line length, midpoint, median, mode, mean, cubic root, vector, range calculations as well as binary to decimal conversi
+cd repository test 01
+
+Code + Tutorials on computer science related topics. Hobby while in school studying CS, but may be informative to some...
+A basic repository for playing with git
+Database System Projects for Spring 2013 at University at Buffalo
+personal web site
+Exercise files repo for the JavaScript from Scratch course on PluralSight 
+
+data visualization & representation, fordham college at lincoln center, fall 2015.
+My dotfiles
+This is where Micah and pals learn how to program in java in eclipse
+A very simple script that adds CR to hunks in a diff, so it can be applied using patch to files with CRLF line terminators 
+stats & charts and maybe predictions, just for fun
+test your uploads
+
+Sample DebugDiag analysis rules - C# and Xaml
+simple multicore raytracer demo based from raytracing code from scratchpixel
+This demonstrates how you can use the Adapter pattern to have 2 or more different interfaces communicate with each other.
+Team 1793 Robot Source Code for 2015 FRC Competition
+
+Just learning for a personal project
+Simple todo app made with angular on local storage.
+exrabbit usage example
+Create a list of Software Engineering topics so that I can divide them among the 4 SE courses that we teach in our Software Development concentration.
+
+Saving the raw files of my podcast to the web
+Main Repository for Coding Ground
+Learning Twitter's bootstrap
+
+
+Christmas card created for my wife for Christmas of 2014.  It contains a little game when you click on the panda button at the end of the card.
+Repo for Calvin College 2015 Interim course "Learning from Data"
+Practice code in java and javascript
+Blog
+My get helped repo :)
+
+
+OWS API (WMS/WFS) benchmark and stress test
+Winter 2015 session of ART341 at Portland State University
+
+CS 261 Assignment files Fall 2013 OSU
+A flash-based multimedia presentation following visual design elements and principles about a card game called Tabiah
+An experimental fully persistent Map that reifies time in collection access in Scala
+ultra-simple script to update Hombrew(apt-get for OS X)
+numerical methods for PDEs final project, Columbia University, fall 2014
+Operating Systems Projects 
+Off-season testing was done on one of our spare drivetrains from the 2014 season. New classes to generate polynomials and bezier curves for the robot to follow were created. Testing of the Command Based Template worked out well. We will switch to that for
+
+Provides A Simple CloudFlare Module For Laravel 5
+Version Control
+just messing around for learning purposes
+
+
+A repository which hosts the great contents of opensecuritytraining.info - for people who for some reason can not download the content from the original website, and for distribution's sake.
+Conversion app by tutorial from Derek Banas
+
+
+A small, simple and fast log shipper.
+
+My first test repository
+A simple utility for managing a pool of resources (e.g. servers) polling against a service and conserving work
+
+Script interpreter to small ETL tasks
+my personal website
+Rust tutorial guessing game.
+CS619 ProjectRemote Version
+
+
+My blog posts published in www.javiersoto.me
+Old and new java projects
+
+
+Simple priority types for python
+The material I covered when learning how to web dev. 
+Codes Practice
+A collection of scripts used for a project.
+:person_with_blond_hair: My personal website.
+A collection of sample projects using Spring Boot and Other Goodies 
+My first repository on GitHub
+Basic HTML using PHP test for Heroku
+Some backgrounds. For who needs more space in their visions and desktops. 
+Programming practice
+Just a testing repo.
+New to this community, I hope to explore the vast world of programming
+
+Dimensions of various RC parts I've used for reference purposes
+
+
+
+
+This is a basic Rails app to test Judge Gem
+Collection of personal config scripts for development
+github.io repo
+Personal Website
+
+Used to learn IOS programming
+testing git 
+A collection of CS/Software Engineering Projects created
+Interesting Code samples in node.js
+BYU ECEn 360 Electromagnetics - Winter 2015
+Random applications used for learning purposes
+frontend-nanodegree-resume
+
+
+A simple Javascript file for benchmarking functions against one another
+Status checker for some common services.
+
+Repository for all the projects made by Project G
+
+
+Azure Websites Deployment Demo
+Nothing to see here.... just playing around learning node.js, MySQL and Cloud9 IDE
+Simple particle engine written in order to learn Cinder
+
+
+code samples from the book "JMX in Action"
+Open Web Testing Project
+BlackJack Game as final project in Intro to Ruby, Lesson 1
+Doing the How to use a content provider Udacity class: https://www.udacity.com/course/viewer#!/c-ud258/
+Practice Repo for Scala
+
+A simple historical stock price plotter made with matplotlib library in Python. Can be run from command line.
+Solutions for Project Euler problems in Haskell (2014)
+HTML & CSS class page.
+A Simple Configuration File Parser in C++11
+
+Small Javascript script simplified
+My Little Resume
+
+Examples of some "porcelain" git commands implemented with python bindings (pygit2) to the libgit2 library.
+My personal config for the Friendly Interactive Shell
+[FORGE] Test for energy API
+Tests, schemas, and documentation for the Flow Base Programming Network Protocol
+Collection of configuration files git controlled for quick setup and propagation
+Test repository
+
+
+learning using GitHub.
+A simple C# program for Windows, for checking the devices in a local network (currently discontinued)
+Simon's Stamp Collection App -- helps us learn GIT
+
+A small Node.js script that finds product ingedients
+My user page
+Connect Four game written with partner during ICS 32 at UC Irvine/Simple Networking in Python
+My implementation of the classic battleship.
+
+
+first repository on GitHub
+
+
+
+Collection of my various scripts for Blender
+Challenging but I am just regular in JS.
+This is a simple game I created using JavaScript to test the reaction time of clicking on a shape after it appears on the screen.
+A copy of all posts that go on to the site (and drafts).
+Boundaries is a small Corona SDK project showing how to calculate min/max visible X & Y values and actual screen dimensions
+
+
+This is my code when i'm on university. I built it to learning Java.
+Django 1.7 Hacker News Clone
+This sample shows you how to add a DebugSettings flyout into the SettingsPane when running under DEBUG in order to clear application data (local, roaming, temporary, local cache, local settings and roamign setting).
+Source files for my home page and blog.
+Sample FreeBSD kernel module: hello world
+learn and test how to use git and github
+Program for finding palindromes in a specified range in a specified positional numeral system by the radix (from 2 to 36).It was a school homework, done at night Jan 2-3, 2015.
+Postgresql vagrant configuration for hot standby, backup and cloning
+
+git in practice
+A fake project that's part of the Git Essential course at Tuts+ Premium
+
+Simple implementation of a crit-bit tree in C
+Documentation site and example code for using the TwitterOAuth library.
+Learning Ember.js
+
+2015 FRC robot code for team 2412, the Robototes.
+
+Udacity Git Course
+
+Github mirror of MediaWiki extension SemanticForms - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
+Playing around with React and Material Design
+
+ :school: NMCT BA Project
+
+
+A simple theme to get your WordPress site up and running in no time.
+Practice repository for Udacity course 'How to Use Git and GitHub'
+Read-only release history for Map-Metro-Plugin-Map-Athens
+An app to help with textbook and resource access for my math class
+Course assigment for computer networks.
+A simple and less-data presale system for hacker events and all other live events.
+A pretty-printing library for laying out text in two dimensions, using a simple box model.
+Demonstration of null object pattern for presentation
+2015 FIRST Robotics Robot Code. 
+
+Version UTF-8 de fab
+
+\N
+
+Translation project and CodeCharge Studio IDE.
+
+A basic functionality clone of instagram that I made during an iOS course I took. Uses parse backend and implements user registration, user authentication, and queries. Includes follower system and user feed system implementation. Also has pop-up alerts, 
+
+TicTacToe game for C++ learning
+A free software educational application for training elementary school students into basic arithmetic operations
+Flash2PHP provide a really simple way of connecting a client app with a server side. 
+WordPress.org Plugin Mirror
+Software for testing the blinkbox Books website.
+
+My personal page
+"First Head: Design Patterns" book training source files
+Oxwall plugin, this plugin powers up basic Oxwall video plugin with useful tweaks
+Copy of wkhtmltopdf-amd64 binary
+[DS @ FMI] A custom FileSystem project for the Data Structures course.
+OpenGL demo of a point rendering and texture filtering technique called Surface Splatting.
+Mirror of http://drupal.org/project/wizard_helper provided by hubdrop.
+collection of handy scripts often used in DB/A activities
+Repository of Richard Bird's problems with quickcheck properties.
+Port of Blockly to generate Java code (for and edx course)
+Basic structure for building HTML sites using Middleman, HAML/SASS, and HTML5 Boilerplate
+Simple Java Swing Program for running your HQL and SQL Queries.
+Git clone of DeSmuME hosted on SourceForge. Given that no change has been made there since 2015-03-18 this should be up-to-date, but I can't guarantee it :)
+ Basic functions for handling mime-types in Erlang, JavaScript, Perl, PHP, Python, Ruby, Java
+  Language files for modest
+A list of stupid and useless examples using doctrine2
+ccrawler: a web crawler with eventlet
+NetHack 4 is an open, community-maintained version of the classic roguelike game NetHack.  This is my working repo for contributing to it.  (If you are looking for the official NH4 repository, see nethack4.org.)
+Spring Security and Angular JS:: A tutorial on how to use Spring Security with a single page application with various backend architectures, ranging from a simple single server to an API gateway with OAuth2 authentication.
+a university course evaluation system written in Python using Django
+We are MOVING to a new repo at https://github.com/octothemes/classic-dark
+
+Math Quiz is a simple fun game for those who want to improve their Math skills. This application is targeted to toddlers, babies, young people and those who want to try it out. As of now, this project is just simple but with everybody's collaboration, thi
+SivaLabs: A project for my personal use.
+my blog application source.
+
+A Java helper library I developed to help me in my various personal projects.
+
+Just my useful scripts
+A very small danbooru style image gallery.
+\N
+\N
+Simple web problem that reads RSS feeds and combines them into one RSS feed. Also supports simple HTML rendering of the generated RSS feed.
+An unofficial list of papers accepted to POPL 2013.
+DEPRECATED: See scireum/sirius
+\N
+A fork of 'Basecamp theme' comes from redmine's alternative theme. (sigh)
+
+
+mirror of git://git.p.engu.in/laurentb/brutha
+
+Demo app showing how the Rails CVE-2013-5664 vulnerability works.
+my own version of the zenburn theme for emacs
+A small sample application showing two different architectures: multi-layer vs flow-design.
+A simple CMS powered by Google Drive (PHP version)
+Random text generation using ngram probabilities
+Simple command line tool to log work hours using MongoDB
+PHP micro framework study
+The backup repository for the Lootsie Website
+Fork of the Fung Institute up-to-date version of the Fleming disambiguation engine
+Collection of useful ruby code snippets
+An example of implementation of a Module Pattern of Javascript. Leave some comments or questions.
+DEPRECATED Transparency Camp by Sunlight Foundation XXX
+Bundle for the Doctrine OXM project (deprecated) - use https://github.com/doctrine/DoctrineOXMBundle
+
+Brush up knowledges of Node.js
+This repository contains the fonts created by me.
+Easier test writing for C/C++
+Deprecated: look at sharadmv/quizbowl
+Testes com CSS3 para simular no browser algo parecido com o app Flipboard
+Simple sinatra site with a script to check if the Bing API is functioning properly
+Dummy repo with a redirect to new home for the original project.
+Configuration files for tools I use (e.g. vim).
+A demo Facebook connect application using the MultiPass library made w/ the Silex micro-framework.
+Repository of tests for the Web-based Inquiry Science Environment (WISE)
+Contains Verify - fast and extensible class for simple method arguments asserts. Example: Verify.Args(new { param1, param2 }).NotNull()
+blog
+
+stupid simple library for running queries against the Splunk API.
+[DEPRECATED] Fun, fast, secure web development on top of Clojure/Ring
+Flask using Github's gist as blog data store
+
+
+an small particle system realized in javascript, with an small demo 
+damn simple config file parser for python
+Copy of @thomasdavis / backbonetutorials / modular-backbone-updated example with Twitter's bootstrap
+a simple jquery tooltip plugin
+a mini blog system run on GAE
+MIUI v4 Russian Translation
+mirror github / launchpad projects
+Small example testing associations in Rails
+Pelican Theme Demos
+MOVED TO https://bitbucket.org/acoustid/musicbrainz-acoustid
+(Deprecated) ElggCollection API
+A small Wordpress Gallery
+Hidden Secure Settings for Android
+These are some of the set up scripts for my OpenERP cloud
+A couple of simple helper classes to help in writing RESTful PHP Libraries.
+Swedish translation for the upcoming 2.2 release of Processwire with multi-language support.
+Account Control Panel (fork)
+microDuke is a simple, standalone, multi-threaded, small web server written in Java.
+A specification for code documenting tools
+Database School Project
+test
+create a static HTML copy of a tumblr blog
+Basic tab delimited import function for Wakanda
+Example Code for Volume Rendering Tutorial
+
+This example codes show you how to add 'do not backup' attribute to your files and directory.
+A simple Ruby script to backup the entirety of a GitHub project to a local folder.
+
+Web pages and other files for UW program in Python Programming
+Example code for the General Architecture for Text Engineering (GATE)
+Personal development tree for gnome-settings-daemon
+Assignments and other work for UW course, Internet Programming in Python
+Computer Science Testing System written for the University of Winnipeg
+My own big js & php adventure!
+Add process management to `list-processes'
+A simple link saver application.
+
+A small command-line python script that creates a local backup of your Flickr data.  It mirrors images, titles, description, tags, albums and collections.
+Very Simple for jQuery Radio Image Select
+My ad-hoc ruby, awk and shell scripts 
+Create simple editable CMS content blocks in node.js. Wrapper for Create.js CMS framework.
+My .vim
+A MultiWorld/MultiCurrency economy plugin for Craftbukkit * DEPRECATED. Go in http://github.com/greatman/Craftconomy3 *
+
+
+
+Coursera "Algorithms: Design and Analysis, Part 2" programming assignments
+my dotfiles
+My Jekyll Site
+
+Small dropin library to translate utf8-strings into offsets in glyph-table.
+
+My own linux config
+This repo contains a first Demo for hands on  seminary
+
+My VIM files.
+my python scripts
+code I write while learning ruby
+Dotfiles
+\N
+incubator of new projects, some concept proves and tests
+MO JS tutorial
+demo
+A simple SQL-based queue for Rhino.ServiceBus
+An experiment to standardize individual donor names in campaign finance data using simple graph theory and machine learning.
+a repo to practice some php skills
+
+Testing Git commands
+Notes from everyday work
+Basic configuration management in Python
+New-Style 6.006 Problem Sets
+A blog dedicated to teaching designers how to write quality JavaScript based on jQuery examples.
+test for GitHub practice
+
+"Clone" of the RPG Maker XP Tileset Flag Interface
+
+\N
+web page about the author
+some sources :-)
+
+\N
+Simple php site base template.
+Scripts both written by myself and stolen from others. In 'dev' branch, lots of scripts are directly from others without any modification by me. I include them just for my convenience.
+Collection of files I need publicly uploaded.
+
+[DEPRECATED] A simple Android background service that keeps your GPS online for some specified amount of time.
+GUI Samples with JSF, Richfaces, JQuery, CSS3, etc.
+
+ps3 game translation team
+
+
+\N
+User settings backup
+dot files
+Another template engine for PHP...
+This is a `git svn` mirror of the now dead Eternity SVN repository.  For more active development, please see team-eternity/eternity.
+I am an AUR package maintainer. See my packages!
+Config files for a riced up Arch setup.
+This is a code storage of ATF tools learning group.
+The Logger is a simple program that I created for logging activity throughout the day in a simple text file.
+Modified version of Zend. In the future, this repo should go away and be a fork of Zend.
+
+Blog
+Ruby on Rails Tutorial sample application
+Repository to store emacs config files
+
+Personal dwm
+Vim configuration
+Testing Validity of a cross
+overleap.js is a small JavaScript library to add blank space at the bottom of a webpage. With overleap.js, your visitors can scroll/page your website in a more native way.
+A few ruby exercises asked by a potential employer
+My first app for Ruby on Rails Tutorial
+Ruby on Rails demo application
+Simple implementation of the memory filesystem for the Java 7 NIO Filesystem API
+Easy online photo backup and albums.
+Jonathan Rascher's resume
+Intro to jQuery presentation
+An old-school sample HTML text generator
+just a test - never mind
+An experiment w/ PEG.js: a simple language 2 express a strategy 2 shorten a tweet to 140 chars
+A demo iPad app to showcase retail-specific features.
+Faster testing rake task
+Github page
+My *nix Dot Files
+Personal Website
+A collection of free software and free culture badges
+A test perl code base for evaluating git
+A copy of my bash profile for anyone who cares to take a look
+python library to manage small sets of vm
+Simple script that allows you to put a limit on the number of words in a textarea field
+Ruby on Rails Tutorial demo application
+A Sample application using the new Android Beam feature in Android 4.0+ that relays a message to another device
+Ruby on Rails Tutorial first application
+A small app for scraping Wikipedia to find elderly Michigan alums
+Ruby on Rails Tutorial sample application
+A challenge for myself: terminal battleship (like, battleship in a terminal. Not killing battleship.)
+Example Rails project for use with the GithubCodeFixer project
+Tutorial App from Michael Hartl's book
+Data pattern generator for software testing and analysis
+Html Guide for the "Chaos macht Schule"-Project in DD, Germany
+vim setting & plugins
+Light colorscheme for GUI Vim
+My experimental fork of GPSEE
+A collection of bash scripts that ease the use of screen sharing through SSH
+University Work
+The first app for RoR Tutorial
+Small web experiments. Testing various APIs and JS libraries.
+Gnome 2 themes
+Emacs epackage extension's Yellow Pages (packages' sources list)
+First app for Ruby on Rails Tutorial
+Small helper script for importing MySQL databases.
+Some resources for teaching javascript to my kids -- maybe works for others?
+Some of my solutions to the exercises in http://pragprog.com/book/btlang/seven-languages-in-seven-weeks
+bbsnode is a simple BBS like 2ch based on node.js,Express,Redis
+
+a collection of useful ressources to start a new website from
+Simple class for time operations
+An example of an offline HTML application
+Demo blog de Ruby on rails
+Learn to program with Rails
+A super simple web app that removes non-ASCII chars from pasted text. Written in Clojure/Noir.
+Various config files I use
+nodejs dependency testing
+copy of sources in Test-Driven Javascript Development written by Christian Johansen
+Scheme Testing Suite
+A collection of sample projects from Yojimbo Corp blog posts
+Re-code the depot sample from the book Agile web development with Rails
+My dotfiles
+
+A simple example demonstrating Cucumber-JVM using Java Step Definitions
+My First Repo
+My collection of aliases and functions
+DEPRECATED - Follow Link for New Project
+
+Ruby on Rails tutorial sample application
+
+my dotfiles
+Meet Vertexer, a simple 3D grid with which you can place paths in: 3D. Vertexer has vim-like controls and functionality. It also includes a library to generate POV-Ray files.
+The first app for Ruby on Rails Tutorial 
+zsh conf using zsh-git as a submodule, and more conf
+This app is only a shortcut to your basecamp classic account. (Google Chrome Extension)
+first repository
+Vim package, including vim config file and plugins
+my solutions to project euler problems
+Demo application
+First App from railstutorial
+
+My personal textmate bundle with some nice enhancements
+PHP Code Obfuscater
+
+A small Google Chrome extension that prepends the week number to each calendar row.
+A configuration set created for users new to FreeSWITCH. It doesn't expose what FreeSWITCH is truly capable of, but I hope new users won't get scared with this configuration set.
+Vim configuration
+The first app for the Ruby on Rails Tutorial
+A simple text-based adventure game. A Practice lisp program.
+snippet code, useful code, best practice code, good structure and examples
+Demo application - microblog
+test
+
+Sample Rails App
+collection of php Files used (outside of framework) that I can use in teeny-tiny projects
+Basic User Api example Really old, don't touch this, it won't work with the current API
+Ruby on Rails demo app
+My ubuntu config settings that I usually use setting up a new vm or machine
+A collection of Flash Card Decks for use with the Anki SRS system
+my personal portfolio site
+landing page for eschulte.github.com
+
+my macvim plugins
+
+example of google javascript api
+ManageR-plugin (QGIS) fork that includes soRvi-specific GUI goodies
+
+This is my VFW git files
+My CV/Resume and its LaTeX template
+Config files, my way.
+Eventworks development framework
+my dotfiles
+A fork of http://www.devbridge.com/projects/autocomplete/jquery/. Added a callback function after each ajax call completes.
+*deprecated* My MacPorts
+Economy plugin for tracking market prices and setting server store prices
+system dialogowy RPG
+Ruby on Rails sample, Chapter 3
+I'm just learning rails... this is my sandbox to play in
+The first app for the Ruby on Rails Tutorial
+University project writen in C#
+My Dotfiles
+Ruby on Rails Tutorial sample application
+combining examples from the book
+Seven languages in seven weeks projects
+The mobile portal page prototype is an implementation of a simple Wikipedia home page for portable devices.
+A small parser of "TODO"-like statements in source code.
+A simple Twitter viewer demo
+Converts Gmail to Google Spreadsheets
+
+Fork of TinyRadius - a Java-based Radius server library
+PHP Test Test Program
+Very simple and minimalist backend for a blog engine
+Small web-app for learning languages nice and easy
+
+Scripts for installing Node.js on different platforms
+Tool to publish posts on a Wordpress blog from the command line.
+API documentation for spinoff
+A tool for generating valid HTML sites via the command line. Like a blog, but harder to use.
+Octopus Replication Example
+Pulling from https://github.com/mapbox/carto/tree/master/build/vim-carto
+just for test
+Rails Tutorial, sample app
+Projeto de git do custo on-line
+Small script I use to extract rar archives
+Learning to use KML and Google Maps
+
+my first project, test github's features :)
+theme template of my blog built upon emlog. 
+Conf Puppet Client
+Clone of forum.pravda.com.ua
+
+Ruby on Rails Tutorial sample application
+Simple game to help you practice your hiragana memorisation
+A collection of simple app examples for iOS 4
+
+New sample application from tutorial book
+simple logger for python but with new approach for logging per module
+Testing environment for the OpenJUMP GIS.
+school.hh.ru-java-stdlib translation to Python.
+Simple Twitter bot to correct people when they misspeak about pete and his sakes
+Ruby on Rails tutorial sample application
+Vim command to open a file anywhere on the system with just a few hints
+
+
+Ruby on Rails tutorial demo application
+An introduction to recursive functions using python
+Little project used to learn Scala. A association football management game.
+
+The first app for Ruby on Rails Tutorial
+\N
+Google Reader clone with pluggable sharing and favorites
+My resume in Latex
+
+Iuid a simple uid generator and storage
+repo for london python coding dojo Season 3 Episode 5 (5th Jan 2012)
+My dot files.
+GitHub clone for Digaboard to apply some small fixes
+my linux dotfiles
+Some of my Javascript utility stuffs, written in CoffeeScript.
+This is a test project
+Programmatically generate documentation for your Puppet Modules
+Kodak image sensor component with sensor driver, sensor control and basic image processing
+Ruby on Rails
+This is a practice repo since I am new to all this
+
+Ruby on Rails Tutorial Sample Application
+My Git Page
+A Small Ruby Image Library
+blank rails project with fave gems and settings as a starting point...
+for testing JSON based apiRequest()'s
+Download and makeup program guides of a few channels for the next week
+DEPRECATED since 5.4.2. Nuxeo Platform High Availability
+My dotfiles
+A simple jQuery plugin for keyboard scrolling through different sections in a webpage.
+
+test
+My own CSS base when starting a new project
+Ruby on Rails Tutorial demonstration application
+School papers
+Most valuable pieces of my setup
+An implementation of the caching assignment from Telus
+
+
+Contains javascript file to be included in your webpage where dynamic element is being created. It has a function which does it all.
+
+Simple OSX LaunchAgent to automatically set the Location based on a wireless SSID
+A simple web server writing in javascript using the node wrapper for V8 engine 
+my personal zsh configurations, nothing to see here, move along.
+Temporary repository for new code related to goamz (launchpad)
+git repository for FoneMonkey with minor changes for our project
+Ruby on Rails Tutorial sample application
+A simple python applet for mate-panel
+Project Euler solutions in Python
+bash scripts
+Simple example of using the Graph API on the server side with PHP for Pluralsight
+Simple raytracer
+Powerful and lightweight bootstrap/autoloader class for PHP5.
+Samples to test various JQuery UI widgets (Tab, accordian etc). MVC3 application.
+A place where Gran Turismo players can share settings and events
+Ruby on Rails Sample Application
+crazy, but works: it packs irclog, reindxr and ircbot all together
+Pyramid plugin for HTTP Basic access authentication
+Ruby on Rails tutorial first application
+Git mirror of Voce voice interaction library, with my improvements (link goes to upstream)
+
+Blocks of Maven dependencies, for quickly adding dependencies to projects
+Ruby on Rails tutorial Demo Application
+Some useful scripts for converting media files, using rtorrent and else
+Nginx config files for Dahnielson.com
+ BXR is an open source, ruby on rails file management system.
+my php app framework
+A Completely Javascript framework
+An Implementation for a simple educational system using java, intended to contain all major concepts and techniques in the language. This is originally a homework for third year students in Damascus University.
+minimal example demonstrating scala on android with opengl es
+Demo Application for Devise Presentation
+demo for isotope_contacts
+My first github app
+The second app for Ruby on Rails Tutorial.
+simple programming language written in Java
+Simple text ignoring on Android. Free to modify and redistribute and mangle and slaughter, just don't impersonate Outer Earth Interactive.
+Redmine theme for ALMinium
+Zelda clone
+First project
+A native Mac typing test
+
+all my configuration files
+Ruby on Rails sample tutorial application
+Code. Creating backup and version controlling it across branches. Pushing to work across machines. 
+
+Push to Server
+Learning to code Python the hard way examples. Allowing me to practice from work or home. =)
+
+just a test sample
+
+
+tools to data mining news of websit
+Code featured on the Fourth Moment blog
+Main documentation for Participant Scheduling System
+
+
+
+Web app for managing files on my server
+\N
+MIUI v4 Ukraine Translation
+sitepoint mobile book tutorial in rails
+Fork to bring patches to utidylib project that has been inactive for 7 years
+My own little framework
+Basic CRM/Intranet system
+r code for analysis of jw file
+PFC documentation
+Ett Fem i Rad spel. 
+The source code of my personal page
+I got... 365 problems (to solve).
+HBase Manager provides a simple GU Interface to interact with HBase Database. With HBM we can do all the basic actions like Table Create/Alter/Drop/Truncate and Data Modifications like Insert/Delete/Update.  The Scan Operation can be fully customized with
+Backup scripts for Linux using rsync
+Simple .NET e-commerce playground repository
+
+Battlegrounds for mozilla.com work (mirror of http://svn.mozilla.org/projects/mozilla.com/)
+iOS App
+Documentation for the Grid'5000 API
+repository progetti android
+
+simple script to generate an ical/ics file of road cyling events in 2012 
+
+private stuff for test, temp storage
+My VIM dot files
+Making markdown text files pretty. This is pretty much a clone of https://github.com/sanand0/markdress so the credit should go to him. I was surprised at how easy it was to implement in node.
+My dotfiles
+Some of those CLI Tools
+the first app for ruby on rails tutorial
+Keeps dot files under version control
+
+Stuff which I collect and use in daily basis and not related to any specific projects
+Ruby on Rails Tutorial sample application
+
+My personnal .dotfiles and other config stuff.
+My university project on a GPS iphone application
+CoffeeScript code for example applications of "Professional XMPP Programming with JavaScript and jQuery"
+Backup documents stored on www.e-boks.dk
+Challenges solved in python (:
+Misc. Ruby Benchmarks
+node.js client for st9
+personal twit backup website
+
+Joseph Reagle New Media Culture Class
+
+
+my dot files
+Projects for Mobile Computing
+Large file storage with Git
+
+Rails tutorial project
+
+Fork of http://www.technipelago.se/content/technipelago/blog/44
+My Chef repo for developing cookbooks related to HPC and scientific computing
+fork of master branch from git://slackbuilds.org/slackbuilds.git (read more on wiki). If you want to fork do it only with master (the other branches are temporary and are always rebased on master). alternative interface http://cgit.ponce.cc/slackbuilds/
+A collection of short programs that demonstrate some basic functionality
+Just a simple jQuery plugin to mimic the "Back to Top" feature of WordPress.com. Looking to rewrite with Vanilla JS
+A simple chess game. I built this mostly to get familiar with the D3 graphics library. A demo is online at jake-chess.herokuapp.com
+
+A simple 404 page that uses the URI as input to generate a 404 message.
+Libraries for Qpid C++ client applications
+a collection of text shotcuts for tech industry stock quotes, with a focus on Asia.
+
+set of scripts to install development software on to a vanilla Ubuntu installation
+
+
+Some general facts in mathematics.
+Fork of Jeff Sharkey's script to highlight Android adb logcat output for the console.
+Simplistic memory-only sync adapter for Backbone. It's a drop-in replacement for Backbone.Sync() to handle saving to memory.  Use for testing or volatile data that need no persistence.
+Github mirror of MediaWiki extension CategorySortHeaders - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
+A collection of config files I'd like to keep in sync
+This repo has moved to https://github.com/projectbismark/bismark-packages
+Jekyll source for my personal blog
+Just for messing around and learning
+Bootstrapped WordPress Theme
+
+Ruby on Rails Tutorial sample application
+Collection of random hacks which aid in understanding the compiler/language
+My solutions to The Linux Programming Interface Exercises
+TurtleBot Documentation for ROS Groovy
+Github decoration. Just for fun
+Allows content to be submitted using Markdown, a simple plain-text syntax that is transformed into valid HTML. http://drupal.org/project/markdown
+My notes and code backup chrome web application
+Gnuplotting wordpress theme
+multiple Config files save
+Goto CSS declaration in an open *.css file
+
+
+A personal Java swing variation of the popular card game 21
+my dotfiles
+freeorion svn mirror
+Fork of http://code.google.com/p/throttled-smtp-appender/ but with threadsafety bugs fixed
+
+Personal Vim plugin extension
+Perl Script - A quick little perl backup wrapper for s3cmd sync
+Directory structure and template files for starting a new WordPress theme or child theme.
+Front-end Web Development Project 2: Online Resume
+openmoko u-boot fork with support for iPAQ h1940 and rx1950
+\N
+My C learning notes
+My dot files
+A clone of the javaparser project, since that seemed dead. All submitted patches are accepted.
+PHP and web development blog.
+An example of how to use your finger to blur some parts of an UIImage
+
+ Web frontend for MPD and Mopidy 
+Bono's Github Page.
+
+created during lesson 3 for hw2 
+
+A set of scripts that will rapidly deploy Ubuntu servers / desktops to my personal liking
+
+
+
+
+
+
+Google App Engine Buildout Demo
+Small library to copy images from a remove host to local mashine.
+Assignment 4 for Coursera Full Stack Web Development - AngularJS
+First Node module
+This is my branding research.
+example code for working with the IGIndex (ig.com, igindex.co.uk) restful API
+
+Steven BLOG
+The template list for l3e-cli.
+MkrViewer is a simple yet powerful markdown viewer for mobile (and desktop) platforms.
+This is a required repository for the Launch School curriculum. It is intended to be a repo to store your solutions to chapter exercises to show the TA's during assessments.
+
+Files used in atom video
+Sample C++ application that demonstrates list vs vector.
+My github page user site
+Everything that you have saved in your computer now a one place to go. NO More having to download different apps to save different things. This one does it all!!!
+Belated attempt to solve Advent of Code 2015
+A curated list of questions for developers, engineers and IT professionals to ask while being interviewed.
+
+The Odin Project practice: http://www.theodinproject.com/ruby-programming/data-structures-and-algorithms?ref=lnav
+Storing various test code from Python courses - use at your own risk
+
+Tiny project for me to keep track of changes to my website.
+
+This is a template for README.md files for projects.
+This is a test to check the CD setting in Azure from GitHub
+
+
+Python Sphinx Read The Docs Theme
+This is a repository for my personal website.  
+The home site of author S.C. Barrus
+A collection of code and projects for the RaspberryPi
+CPT375 CakePHP Assignment 2015
+3rd C++ College Project
+
+Jumpstart labs blogger course
+
+
+My resume
+Example code how to connect LDAP server and perform search operation
+
+A Project From Things Learned From Chrome Dev Summit 2015
+My Predictive Analytics project for General Assembly Data Science course using NaNoWriMo data
+A simple chess program.
+This is a easy simple way to start any react projects or playgrounds. Just follow the README.md and enjoy
+A PHP implementation of CoinPayments API wrapped up into a simple to use class.
+HomePage For My Portfolio And Work.
+Code for an tutorial to hide or show an HTML5 element, such as <div>, <span>, <iframe>, and more
+
+A simple Rails Repository pattern implementation
+A sample project to accompany a blog series
+Small applet for rotating the screen on Unity Desktop
+Yu Research Group Website
+Sources for Docker images
+An example React application (with test)
+An example of using the Embeddable Search Engine to index and search PDFs
+A simple interactive text-based assistant to demonstrate common API uses.
+
+Some code to resolve my homeworks of the MongoDB course 
+Various notes regarding AllJoyn development
+This repo contains an iPython notebook which generates PDF pages of small labels for pinned insect specimens from data stored in an iNaturalist project.
+A repository created following the tutorial: https://guides.github.com/activities/hello-world/
+C++
+Demo for the <ng2-markdown> component
+
+
+A repository used to hold the files I've put together for updating firmware of a Neato XV Rev 113/Cruz board
+Example of project for AdminLib
+
+setup file for Ubuntu system
+this is my attempt to redesign the existing homepage for placesbrands dot com and make it responsive
+
+
+Cs229 and CS221 project, Stanford, 2015
+
+
+my first git-hub hello-world
+my new personal website for 2016
+
+A respository for learning git.
+A ruby linked list implementation
+A directory I use to keep the code I write for doing http://www.adventofcode.com's 25 days of code exercises.
+site wordpress
+This repository contains all the programs I have created in Java and C using Data Structures
+sky's blog
+An Arduino library for creating simple sequences.
+
+Just for practice
+(prime group jq 01) jQuery assignment, building a fruit market. (Worked with John, Sam, and Ashley)
+A translation of Apple's sample code PocketCoreImage into Swift
+Fork feed
+Dotfiles to be managed by stow.
+Personal Website
+
+programming problems/contests code
+
+It is created for the purpose of testing. Reference to the OpenCV 3.0 is added. 
+
+This is an example site for the Intro to Front-end Web Development Course at The Flatiron School.
+My attempt at creating a procedurally generated rogue-like
+
+
+A small collection of methods to perform math operations on colors
+
+
+Public repository for http://hdblogger1.blogspot.com/
+Learning android studio and git
+
+
+random tidbits as i work through perl6intro's syntax & features intro
+copy paste to new comps for env on terminal sheel
+
+Part of The Odin Project. The "Building Blocks Project" in the "Basic Ruby" section of "Ruby Programming."  
+For practice, I created this subscription-based Ruby on Rails web application utilizing ecommerce and software as a service models.
+This is a test repo
+SAMPL1 Database used for Benchmarking Hydration free energy calculations
+My Personal Homepage
+A clone of the popular mobile game Flappy Bird, using libGDX framework.
+Multipart resume site
+My first repository
+My experiments with Twilio's Voice, Client, SMS and Connect APIs.
+
+Small Javascript checkers game
+
+A personal clone of the HLStats project source code. Use the `1.65` tag for the last stable release.
+
+The sample app from the Ruby on Rails Tutorial
+
+ContentProvider sample
+
+
+
+
+
+This is a repository to store sample packer and vagrant build scrpts
+my own dotfiles 
+A simple demo repository
+
+Example Rails app for socket_helpers gem. Running at http://socket_helpers_example.herokuapp.com
+A personal website.
+my dotfiles
+Be Colorful GitHub Pages
+"Fork me on GitHub" CSS ribbon Assets for Yii Framework 2.
+leetcode repo
+
+
+
+thinMatrix openGL game tutorial
+
+Simple way to chart json data!
+
+Documentation repo for Zhibaihe packages.
+5 unbalanced audio input switching via I2C, with 2 high voltage relays. 
+Implementation of a basic Java Chat using Java IO.
+
+A script made up of the work of several different minds used to read a .csv file to SSH into Cisco IOS devices and tftp their configs to a remote server. Requires PyCrypto, Paramiko, and Python 3. With some small modifications can be used to fully automat
+Just a demo on how to use Spring Boot to reverse engineer a MYSQL database
+thinking around your job offer at a tech company
+Test repo
+repo for my course
+
+
+This is an example site for the Intro to Front-end Web Development Course at The Flatiron School.
+
+Sample crud operations in rails
+A terminal session with the host running SPJS. As of version 1.87 of SPJS you can send/receive basic terminal commands to host operating system. This widget is a front-end UI for the terminal from ChiliPeppr.
+Example using Chef to Setup a Website
+
+A basic geometry package written in Go
+My first attempt at React Native. A simple guessing game using the Etsy API.
+A work in proggress of a repo that allows you to share code and store it in a very user friendly place.
+
+profile and dot files for linux
+
+A fork of https://github.com/agoldst/tex adding support for the modern beamer theme (https://github.com/matze/mtheme)
+This is a simple todo application, but the new features will be added to the application in time. It's built by Laravel framework
+
+Trying a Stanford course out. http://web.stanford.edu/class/cs106a/index.html
+
+Setup with Express and React in ES6 with webpack and nodemon with basic Login and Database
+101 Programming Foundations at LaunchSchool.com
+
+Some thoughts about dream 
+Tetris in Javascript, because I was bored.
+A simple and easy demonstration for using PHP with MySQL over localhost. This project ReportCard Tool performs the insertion, Deletion, Updation, Searching over MySQL database with help of interface provided by html and PHP.  
+
+
+
+
+
+
+
+
+
+the project is to learn basic skills  with Udacity
+One-liners for use with Rackspace Private Cloud
+
+example shows how to deploy gradle app on heroku
+simple module loading
+Google Homepage Clone
+My first web app
+
+Just another repository
+Java Projects
+
+
+Sample module for adding custom category attribute to Magento 2
+
+terrible fork of DanMcInerney/wifijammer
+
+A translation of Apple's sample code HeadsUpUI into Swift
+Seok-Lyong Lee's Page
+A trial during my ios course 
+Simple Neopixel rainbow pattern for the ATtiny85
+
+
+Repository for my dev environment dotfiles
+Just some random work done by me
+
+
+learning ruby koans
+basic settings
+personal solutions for Advent Of Code 2015
+
+
+lot of small independant projects
+
+
+My DBC Phase 0 github pages site!
+
+
+Demo app rendering react on the server
+
+My first project on Github
+My files for the course "Front-End JavaScript Frameworks: AngularJS" on Coursera.
+Plusdeal API Sample Code
+First Repository
+
+
+
+For proposed Node.js Testing Working Group. Hopefully can be moved to nodejs org before too long...
+Normal the rasppi setting and config 
+This is my first repository
+Personal website template
+
+My quick solutions with Erlang for Advent of Code 2015
+
+Joomla Framework Testing
+https://github.com/celluloid/celluloid
+hare u can get all the project file of php tutorials series in hindi
+
+
+vue.js gulp webpack demo
+
+
+
+
+
+:octocat:This a personal blogs powered by GitHub which is the freest place to share views and make notes for any programmer!
+test code of customer register and staff list, ect by phpand Mysql
+
+Sample repo for workshop purpose
+Java game. Created to practice project development, OOP principles, etc
+
+Very simple C# 6.0 console application to merge all MP3 files within a directory into a MP3 file with the same name.
+An app that runs jmeter scripts programatically created for demonstration purpose. 
+Welcome repo for ReviewNinja to help you get started. Feel free to delete when you're done, we won't take it personally.
+First test proj
+php simple login without database
+this respositroy contails sources file
+gt's repository for student-made tests and course notes
+Some documentation for modding Duck Game.
+material reddit clone
+A test application for a 2D modular character creator subsystem for 2D games!
+
+
+New Repo
+Contains example code for the edX Advanced XAML course
+
+Online backup datastore of all my programs. Feel free to rummage through :)
+Solving Advent of Code 2015 in Ruby
+Sefitalia website
+iOs9 Swift 2 - Learning 
+My dotfiles
+Solution to hackerrank programming questions -> PHP
+A basic site layout with the Susy engine
+Ansible playbook for setting up a Linux dev machine for web development
+
+Simple Node.js application with Redis as data store to demonstate docker hosting with sloppy.io
+
+Simple voting app created as part of FreeCodeCamp course.
+this is my first depoistory
+Vagrant Lamp stack for project work
+
+A responsive resume
+learning the basics of npm
+Fork of 1pass (1Password-compatible password management tool) by Ryan C. Gordon
+
+
+A Plex Media Server docker image.
+practice
+
+Final assignment for Cousera "Responsive Website Basics: Code with HTML, CSS, and JavaScript" class
+my daughter's website
+
+my first repository on github
+Nyaa personal site.
+A sample flask blog
+Simple SPA example with Rails+Redux+React+Router+Webpack
+
+summary and ppt for the book Learning Agile
+My portfolio I created for Treehouse's web design track.
+
+My test projects of frameworks written in Java language.
+App made by learning Michael Hartl's Rails Tutorial.
+
+Dotfiles
+prjects of our labs in Buaa University
+
+OpenGL Experiment showing the first 20 generations of the 'Dragon Curve' math fractal.
+
+The solution for an assignment in course - "Timekla tehnologijas 2"
+A repo for testing webhooks
+Beginning Level Team Treehouse Android Course App.
+
+
+
+
+
+
+
+
+C# Style Guide
+
+
+
+Web development stack with apache, mysql, php
+
+My own self blog and content for your Data Analytics Learning
+
+my web projects
+
+To use in the course for learning Android
+Test projects
+The simple but versatile Text Reader for UWP
+SkyWarp in PE server
+My first blog
+
+My own self blog and content for your Data Analytics Learning
+A Simple Row and Column Grouped HTML Table Generating Library
+
+spring-security-with-boot-example
+St.Anthony's Catholic Church of Shenzhen Web Demo
+
+
+
+
+
+
+For practicing HTML, CSS, JS, and the like.
+Simple parser for HakerNews site
+this is just for test
+
+
+
+Firmware for a Midi Keyboard I built using my 3D Printer and a Teensy 3.2
+Hello-World Repo 1
+
+
+For the deepstream / Amazon Web Services Simple Notification Service Tutorial
+
+
+
+
+IBInspectable_IBDesignable_Demo is a Sample code use IBInspectable and IBDesignable on Objective-C 
+BarCode and QrCode demo using ZBar
+
+This is a new seas project app created during Ruby on Rails course
+My local configurations for extending thoughtbot/dotfiles.
+Zheng's blog created by Hexo
+Personal collection of adblock filters
+A simple Resume Template
+
+This is a skeleton of Angular2 application with some basic features, approaches, etc.
+
+
+NEW SIMPSONS
+AngularJS 2 quickstart
+Eloquent Java Script Exercises
+Google clound messaging with Chrome - Notification demo
+React Sample Apps
+Test for issue https://github.com/spring-cloud/spring-cloud-config/issues/314.
+Detecting communities in Facebook ego-networks - Project for the "Statistical Analysis of Network Data" course by Eric Kolaczyk at ENSAE ParisTech (visiting professor from Boston University)
+
+Trying to learn some basic Python
+Sammelsorium of code used in various projects
+
+A small utility to add battery status and git status in zsh prompt
+learning c#
+a solution to code-chef problem of max profit earned from a quiz
+
+My Resume
+
+first app 
+A simple event system for Minecraft Client
+A simple initial cookbook for testing chef functionalities
+My current vim config
+My own Repo for very strange and chujowy projects
+
+
+My arduino's projects
+
+
+
+C programming
+Steps in reviewing and refactoring the code in question http://codereview.stackexchange.com/questions/115600/solving-adventcode-day-6-puzzle-toggling-lights-in-a-grid
+.files for vim, zsh, tmux and git
+
+
+
+Basic algorithms written in C#.
+i am learning python
+
+
+This is clone of the Tinder app with basic functionality, using Parse and Facebook SDK.
+a simple tool to make native JavaScript object iterable, e.g. used in for...of
+
+
+just for fun repo
+My personal blog
+Simple guide explaining how to generate a h.248/megaco parser
+
+
+A simple Java app to keep all places you visit I made when I started to learn to code for Android and I have refactored with Eclipse refactoring tools.
+My code for Algorithmic Thinking course, Rice University @ Coursera
+My practice  
+Projects done in order to learn HTML&CSS
+I learn CS2020 from 2/1/2016
+Basic web server with PHP functionality
+Docker Nginx Test.
+
+
+Learning github
+Collection of useful code snippets in various languages, feel free to use or extend :)
+Simple rest client python class
+
+This is a sample on Backtory's back-end as a service product for Unity.
+
+
+Udemy React Tutorial
+A mod that offers a base for building fastest like maps.
+My Cucumber Selenium example
+
+
+
+
+
+Simple app (15KB) to launch Storage Settings directly from the apps drawer
+test
+
+Demo application for disruptor-net
+
+This is a small class that allows you to decode the Google Polyline Format.
+
+Learning Git-Hub
+It's an simple demo of ray tracing from the book<Fundamentals of Computer Graphics> of Peter Shirley using c++.
+All of the projects I've done in previous courses
+First Githud Repository Trail
+Small tools writed by myself
+
+boostrap 3 template
+php
+
+A hello world example for pygame. The game displays a box that can be moved around with arrow keys.
+
+Java project template
+Docker for githubpages development
+Repository for a project implementing the SIP stack for online communications. Being the 3rd laboratory project for course M7021E at the Lulea University of Technology, Sweden
+
+A very small game engine I have been tinkering with
+Test repo for hook development 
+
+
+A set of scripts that I maintain and use on my systems.  You mgiht find them useful too.
+My first repository on GitHub.
+
+placement task for android dev course 
+test
+Personal Website
+
+This is a bunch of code and data files from attempts to connect a microcontroller to the motor controller of a Jazzy electric wheelchair. NONE OF IT WORKED.
+Full website example.
+
+
+A simple web front-end providing read-only access to download .zip files of projects
+For Udacity "How to Use Git and GitHub" class
+
+A learning all about Lumen project for tracking personal expenses.
+Experimental very basic reactive streams implementation for JavaScript
+Day 2 of Variety Megajam
+R Course - Program Assignment 3
+steam backup covers
+Une demo de git
+
+.gitignore file for Drupal8
+
+
+
+
+vm,Cloud,storage
+
+This is my first time to use GitHub,so I creat a test repository
+my solution to lintcode problems
+A simple ecommerce website created with PHP and Python. Currently under Development
+my-vim setting
+
+I've started using GABBI to test my web application, but I've found it a little difficult to get into.
+
+Treehouse tech degree Project 2
+Practice files related to my study of "The C Programming Language"
+A simple C# application to verify who unfollowed you. Learning purpose only.
+To work through the tutorial
+FRC 2016 Source Code
+School
+
+This is the main project for the Ruby on Rails course
+
+The first main part of my diploma thesis which must be delivered to finish the course Semestral project
+
+takes list of courses needed and tells you what to take next quarter based on ICS course listing website
+my java homework
+Simple web page with Leaflet map and geolocalisation.
+Simple android project to manage my hours at work
+
+
+This the a fine example of my Swipview of tab, and Navigation Drawer.
+ A sample project using Spring Reactor which implements a Async Task Execution Scenario
+
+Life is not what you have gained but what you have done!
+My submission for the google code in task.
+
+My first java script ive made ;)
+
+Private school project/assignment
+A development environment sample for WebPack's Hot Module Replacement with Babel, React, and Sass
+
+
+
+
+
+
+Video Color Sampler - sample video frame colors at runtime
+My version of the Javascript Chess Engine, created from watching video series provided by http://www.bluefever.net/Chess/index.html
+chunks of code from my Data Science Projects...
+This is the demo of isomorphic webapp using React + NodeJS
+Modules with diferent purposes for android projects.
+Example Scala programs demonstrating the use of different monads to query and work with the github api.
+pimp my vim
+
+All the small (may be non userful ;-) ) automating scripts or programs that I made.
+
+A simple chat system written in NodeJS using Sockets and Connect
+This is the test website for my blog
+
+
+
+My New Repo
+Android app made for course DAVE3600 @ HiOA (2015)
+simple angular project to display a list of stocks
+Web object inspector used to automate testing software with Selenium 
+
+
+
+
+General Assembly - Learning Java
+
+
+
+content management website
+This is a hello world project. just for fun.
+Project for Algorithmics course. Bloom and Cuckoo filters used for remembering elements added to list.
+Just testing
+Stockmarket demo app build with ionic framework and firebase
+course project for shaniu
+
+
+
+Fork of the espruino MQTT module
+Irish School transitions as Sankey Diagrams
+Short example of attempt to animate a hive plot that I haven't been able to make work.
+Files for the REACH High Spring 2016 course: Intro to Web Design Using Bootstrap
+A sample repo for use in creating new storage modules for Botkit
+Head First C# series
+Programming in Scala book, tutorials code
+
+An example of using emacs org mode (babel/tangle) to set up a docker shell session and generate/run an image.
+resume repository
+
+
+
+Android app for practice
+
+practicar ryby sample app
+
+Test 1, 2, 3
+
+Notes for 'RxJS - Javascript library for functional reactive programming' book ( http://xgrommx.github.io/rx-book/ )
+This repository is created just to understand how a repository is to be created in GitHub.
+simple form validator based on javascript validation API
+A sample project to learn angular js
+The GetHub Hello World Tutorial
+Practice programming problems on LeetCode
+
+Golang forms library. It's meant to be for personal use, but if you like it you can use it.
+Fullforms is a simple RESTful API which will give you access to lots of fullforms and meanings of shortforms via simple http request.
+
+Algorithms: Design and Analysis, Stanford University @ Coursera
+A dumping ground for old projects I wrote for my undergrad at The University of Pittsburgh. Nostalgia, youth, poor variable naming. It's all here.
+
+A simple balloon popper game for toddlers built using the concepts explained in "Mastering Android Game Development"
+
+
+This repository is about to practice programs from HackerRank.
+A simple python based application to execute code to remote device via ssh
+my dotfiles
+basic angularjs search app repo
+
+
+first repository
+Typicode Fetcher. A tiny project for FOSSASIA/Google Code-In 2015.
+
+My DailyVenture site
+A custom hosts file with security in mind
+Git and GitHub tutorial repository from Udacity
+App to store information on new acquaintances so that you don't forget their names
+First github repository
+Repo for my Advanced databases assignment. Almost finished anyway but I want the timestamp before submission 
+Programs created during first year at University of Maryland
+New test repo
+
+simple data access framework written in java
+Swift 2 implementation of the Stanford iOS course's graphing calculator assignment
+A list of simple Ansible roles we use in our project 
+My solutions for the project euler problems written in C/C++.
+
+Sniffing SIP traffic and forwarding it via TCP to a statistics server (e.g. for creating CDRs)
+Archive of little projects I've made to play with new languages (computer and human) or work through a text.
+
+for testing
+Sample AS/Intellij Android project using retrolambda and Lightweight-Stream-API
+My /etc dir backup
+Online e-Learning for Elderly Final Prototype Repository
+A PHP sample showing how to extract viewables from the Autodesk OSS storage to your local machine
+
+My first Pokedex had a lot of merge issues so I created a new repository to work with
+Learn Stuff - Software engineering - design patterns code samples.
+Testing Spring JDBC + CDI
+Docker image for compiling Java webapps and deploying to installed Tomcat
+Irwin Brady's Text, as of the end of 2015.
+
+Toy example of D3 used for making a browser game. Hits performance limitation pretty fast. 
+A simple busy indicator which can be trigger from any child or navigated page in react native application
+My practice from books
+UHC documentation (split off from UHC repo)
+My backup of configs in $HOME
+Test server
+testing repository
+Small project as exercise for school
+This is a simple address-demo for exploratory purposes.
+Simple Fading Testimonials Widget (Wordpress Plugin)
+My github page
+Docker images for physical computing (Raspberry Pi 2 GPIO)
+
+The source code for my Android app, Wave Runner
+Personal Home Page
+A simple SSH-like server
+KGViewSeparators is a small helper library that helps to quickly insert separators into a view. No subclassing required!
+My first repository
+
+
+
+
+
+All of my android work. Includes Toast exercise, SQLite exercise, 
+Example scripts for OpenCV (Python).
+
+
+A simple Java software module for processing package dependencies.
+
+This is a simple C# program that find the average of an array and the highest and lowest value of an array with the help of functions
+Documentation (Python tutorial and how to use Reeborg) in multiple languages
+Android app to display the contents of your Google Calendar on a Simple Nook eReader (although it should also work on other Android based eReaders).
+Implementations of the most well known algorithms applied in Machine Learning in Octave/MATLAB. 
+My final project for ECE241 (U of T). It's a single-player version of the arcade game "Pong" implemented in Verilog.
+Apache Docker image with configurable ServerName
+My dot emacs
+Hadoop tasks repository for Parallel and Distributed Computing course at MIPT 2015
+
+
+testing
+A basic ionic hybrid app
+My first test repository
+
+A fork of NFCLockscreenoffEnabler for Marshmallow
+Coursework for coursera machine learning class
+Testing specific features of https://github.com/miekg/dns
+style guide for New England VegFest
+My dotfiles
+Simple SSIS for VIsual Studio 2013
+This is an example site for the intro to Front-end Web Development Course at Flatiron School.
+some fun experiments
+
+
+My personal blog where I talk about technical concepts related to being a front-end web developer
+Personal blog
+Simple React app for GitHub search API
+
+
+Golang code for simple Monte Carlo simulations 
+A set of 'HelloWorld' demos using various GWT and SmartGWT architectures including HTTP and DMI
+
+A basic App showing Fragment Display properties in Android
+
+
+See YouTube: https://github.com/michaelbiafore/RemoteExample.git
+
+A small app built with flask for the final project of ud330 Full Stack Foundations class for udacity. 
+This repo contains the codes that I write for learning the MEAN full stack framework
+
+
+ A curated list of awesome actionhero.js resources!
+Simple java server websocket and client websocket
+
+Setlist Data Connector for Tableau
+
+A multi channel log emitter(a clone of my php snitchin) written in GO
+My Java repository
+
+develop react-redux to learning any more
+Steps in reviewing and refactoring the code in question http://codereview.stackexchange.com/questions/115012/report-for-a-restaurant-showing-hourly-sales-information-for-a-given-timespan
+My first repository on GitHub
+Setting up a new Mac
+Assignment from freecodecamp.org, to create a small api microservice that parses the requesting browser's header and returns os, ip address, and language. http://www.freecodecamp.com/challenges/basejump-request-header-parser-microservice
+
+Small script that allows you to download movies from the ZDF mediathek
+Few react components to compare github stars evolution of popular github repositories
+My practice of testing website payoneer.com using howitzer cucumber.
+
+A collection of the files for a sample website about wolves. It does not work.
+A lightweight Node/Angular2 app to let my friends and family know what foods I can eat
+Udacity Course Work
+
+
+Setting up sprites and platform controls in easeljs
+First Playing with Github desktop
+Example web server from node.js developer course
+Osvaldo Malvizzati Painter - Personal Website
+linux dotfiles managed via gnu stow
+A client webpage which turns mathematical expression trees to artsy animated GIFs.
+
+
+My Personal Website
+
+
+
+
+A simple example of an app created using Ransack and Rex.
+A list of papers I read in 2016
+
+Simple flickr app create with ES2015
+I'm experimenting react native. This project is work in progress...
+My own utility collections
+
+Test program 
+
+A simple i18n translation and localization library for React+Fluxible applications.
+Profile website
+Curso Git da Code Education
+
+A simple flashlight app for Android
+python the hard way tutorial/book
+Simple Docker image for testing SSL certificates
+
+Simple dockerfile for use with wercker to compile android 6.0 projects
+Intro and Next Steps in Foundation
+Backup copies for various projects i  fiddle with.
+
+My personal Docker containers I use for development.
+Very basic implementation of personal site built with Django
+Source code for my blog
+Download script for grabbing data out of a twonky media server
+
+Source code developed during summer internship.
+Shite I make while being really bored
+Optimizer for Pythonlike language, for Compilation Theory course.
+
+
+
+Demo project for a blog post on using Ninject with Prism for Xamarin Forms
+
+
+
+
+Simple Snake Game with Phaser using Typescript.
+:truck: Mimetype + data -> React Component
+
+I have created a demo interview app using Meteorjs and Kurento. Sample 5 interview questions are there. Once the user clicks on start button, he /she can see see a question which has  to answered within 3 minutes or else it will disappear. Kurento media s
+
+
+Attempting to create a github based blog for all of my coding meanderings
+basic project boilerplate
+OS X Config files
+
+Program for testing Classifiers implemented in Weka using Cross-validation
+
+
+Git starting
+
+An example of a blog written in Ruby on Rails
+
+Finagle practice
+Guidelines for pitching Project 2 ideas
+
+:wrench: My usual Jekyll set up
+
+A template vector library sample in C++ to use vectors
+Reflections from the "How to Use Git and GitHub" course. Udacity.
+Following Udemy React Course - learn-and-understand-reactjs
+Basic libevdev binding for node.js
+Small web app with example of components creation with reactJS
+My first repository on GitHub
+
+
+Small educational scripts to teach programming, some math, possibly some physics.
+Python course
+
+Python Automation GUI Experiment (PAGE)
+main page of website
+Get basic stats for each repo in a GitHub organization as org-mode tables
+My personal website
+compiler I wrote for University class
+UDP flooder written in python 2
+
+A personal guide on how to get started making games by Jonathan Topf
+
+Template for testing pgxntool with pgxntool-test
+Template repository for building Ansible roles off of, including good unit testing and documentation.
+
+Tests towards doing basic pyglet rendering tasks faster through data orientation and numpy
+Simple API for both iOS 7 upwarps, wrapping UIAlertView and UIAlertController
+
+
+New Folder created
+A translation of Apple's sample code Using UIImagePickerController to Select Pictures and Take Photos into Swift
+
+Practice Project
+A simple blog/website practice project powered by Node and the Express framework.
+A simple neural networks written with regularization and unit testing in python.
+Docker image for raspberry pi - pigpio service
+
+
+Predictive aiming test case for @EntropicFlip
+Simple tool for setting up reminders. Works in the background, allows to create/modify/delete reminders and their reoccurences. Application created in VS 2015.  Feel free to contribute.
+Using HTML and JS Create the Standard Animation Practice of Making a Ball Bounce
+
+A simple web todo list application employing jQuery, CSS and HTML
+Pelican Theme for my personal site (http://crowdersoup.com)
+
+
+Small database based on local .json files
+
+small web parser that gets all the top jobs and visualizes the various salaries for each position
+Mi first application created using Ruby on Rails.
+Tests for the dxLib repository on GitHub
+
+JS implementation of examples from "A Programmer's Geometry"
+
+
+
+
+personal site
+
+This is my CakePHP blog
+
+
+A simple encrypted password manager created with node-js
+My First jquery lab
+An excerpt from my Summer 2015 REU project with the BU Bioinformatics Department (BRITE REU).
+Project created using Intellij
+
+Repository for an Simple Test PHP Application
+
+
+A collection of links of my preferred web tooling.
+Simple application to take notes
+Final Project for the CS225 Computer Science/Java class
+
+Initial set up playbook for CentOS 7
+
+Simple implementation of the game of cribbage
+
+Algorithms Robert Sedgewick Course Work
+a website playground with bugs for QA testing
+
+My repository containing Python scripts. 
+
+Qt test application for asynchronous local file reading
+Simple rummy implementation in C++
+my blog code
+Just some basic server shiet to mess around with
+Home server dockerfiles
+This repo is part of Coursera's Machine Learning Course.
+
+Inheritance, Access modifiers in inheritance, super keyword, class hierarchy in Java
+My vim config
+A look at how to build a simple order book using C++,with testing being done using Google Test
+This is the first app we build in the iOS course
+
+Example of project for AdminLib
+
+
+
+
+Mirror copy of the Debian packaging of python-q
+
+Fork of https://code.google.com/p/io-2012-slides/
+
+Learning Play framework in Java
+
+This is the first app we built in the iOS course
+
+Testing out iOS SpriteKit 
+Demonstration of how the .Net geometry-api-cs computational geometry library can be used as a RabbitMQ worker
+Resume for David R Prothero in Bootstrap and Angular.js
+Small app based on the SDK's StackWidget example to bring the old ProTips widget forward to ICS.
+personal site and blog
+Small, quick chat server as an Erlang exercise
+This repository contains the EmulationStation theme "Carbon"
+GitHub clone of SVN repo http://trac-hacks.org/svn/sumstatsplugin (cloned by http://svn2github.com/)
+git clone of sybrenstubel's flickapi hg repo (https://bitbucket.org/sybren/flickrapi/)
+Sphinx documentation for the Tinkerforge system
+Advanced lesson in iOS 9 Devslopes class about auto layout and constraints in Xcode.
+Learning: to show how to use template in C++
+A complete, yet simple, starter for Angular 2 using webpack 2
+Super simple (static) web service to grab VAT rates for all EU Member States, in preparation of the new 2015 VAT regulation.
+A curated list of awesome Assembler
+takes list of courses needed and tells you what to take next quarter based on ICS course listing website
+a free and open-source calculus textbook
+To track development I do for the Windows platform
+Bubbles that do text and image transfer things.
+Example script - how to use the ESP8266 as IoT device
+fast.js is a simple, tested, ready-to-used javascript algorithm library for any node.js and browser.
+Playing around with generic collections in java$cript
+
+A collection of small C programs
+An Unprofessional Blog Engine Created With ASP.NET MVC By Tugberk Ugurlu
+My github pages site.
+Repository used as support for my studies about MVC with Hibernate and JSF, based on the book Caelum FJ-26
+Sagittarius fork
+
+First Draft of LmntrX Official App. Changes may be made to this repo. May be modified or replaced.
+
+ My solutions, written in Python, to the problems posted on Project Euler -- a series of math problems which can only be solved using a computer.
+My Emacs config
+My personal Vim installation, following the same procedures as the Janus project
+fork of gojsonpointer with support for structs
+Arnold Worldwide training repo for git and github
+Mirror of http://dvcs.w3.org/hg/webdriver/ 
+My personal vim files.
+This repository has been deprecated, please use one of the separate ANDS application-specific software repositories listed at: http://github.com/au-research/
+tecgraf's iup src repo mirror
+
+My personal blog
+
+A stripped down cmsMake which *only* makes, nothing more.
+Simple command line tool for generating safe passwords from a master password
+Just a bit of code I would like to share. For example my server side Google Analytics tracker written in PHP.
+
+My dotfiles
+blog
+test
+crawler4j fork from Google code
+
+Core part of Jackson that defines Streaming API as well as basic shared abstractions
+my dot files
+My vim dotfiles, ellipsis.sh compatible.
+jQuery plugin for creating a gallery of zoomable images from an anchor list.
+Contains my dotfiles
+My fork of OpenWRT 12.09 Attitude Adjustment branch
+Keep track of your personal wine list
+Documentation about the Grml Server
+Simple PHP API to use Wunderground service
+Multiplayer Boggle Clone
+Michael Hartl's Ruby on Rails Tutorial Sample Application
+Mirror of git://git.sv.gnu.org/inetutils.git
+My custom devel config files, dot files and helpers needed to only have to install it on a new machine and start geeking
+Simple documentation generation for Brat
+Mirror of https://git.netfilter.org/libnetfilter_log
+everzet (life|work) dotfiles
+My resume
+Example scaffolding for hosting Ruby applications on Windows Azure
+Small Python script that takes a list of directories zips them and uploads the zip to a ftp server. Also deleting all zips older than the configured stale option. Thought it could be useful to someone out there.
+Soluciones para problemas en http://coj.uci.cu
+A simple demo of a web page interacting with sleepy mongoose REST api using JQuery. Instructions for Mac OSX running MAMP.
+this is just a mirror of https://bitbucket.org/hasufell/hasufell-overlay
+various pieces of code used by many of my projects
+My personal vim configuration
+A git mirror of official flickrapi hg repository (https://bitbucket.org/sybren/flickrapi) with some additional customizations.
+Used for some changes for the swiss pirate party, based on a "git svn clone http://svn.code.sf.net/p/postfixadmin/code/ --stdlayout" and a "git filter-branch --prune-empty --tag-name-filter cat -- --all"
+Programa simple de redes neuronales para java
+Automatically exported from code.google.com/p/wordsearch-android
+Resume in LaTeX.
+Basic plugins for TweakCart2
+
+(inactive and unmaintained) A set of loosely coupled machine learning, data-mining and bioinformatics applications in a broad range of functional languages.
+a collection of graphical effects used in the demoscene
+my dotfiles
+svn clone http://dangerous-prototypes-open-hardware.googlecode.com/svn/trunk/Bus_Pirate
+Pointers to useful, well-written, and otherwise beautiful documentation.
+fork of buildout.eggnet
+My vim files
+My personal emacs configuration, using heavily git submodules for external packages
+test
+Clone of git://anongit.freedesktop.org/gstreamer/gst-plugins-base
+WordPress.org Plugin Mirror
+My main website
+My Blog
+Testium is a very Flexible and Plugin-able Test Automation Engine written in java. It is Open Source and fully supports the XML-based file formats of the Standardized Test Tool Interfaces as described in http://www.testtoolinterfaces.org/. Other file form
+New Flyspray theme proposal
+A blog for node.js.
+A collection of Xcode Templates that I use. Well...so far only Coda and SIMBL plugin
+My vim ultisnips snippets
+Obsolete, see https://github.com/atykhonov/google-translate
+Open source e-commerce and marketplaces made simple on the JVM
+My dotfiles, for my mac
+Finnish translation for Symphony CMS
+LaTex version of resume
+The sachin21's dotfiles
+A simple python script to monitor sensors
+A dark color scheme for Vim.
+A cross-platform clone of the popular Lazy Newb Pack for Dwarf Fortress.
+Various configuration files
+Fork of warsync
+Deprecated, see https://github.com/Stonelinks/stonelinks.github.io
+git - the simple guide
+Reid's DR git clone
+A simple websocket client for send and receive data from a Node Server.
+WordPress.org Plugin Mirror
+
+Vim dotfiles for pathogen and other configurations
+An example website template for managing a band using Ruby on Rails
+Simple issue tracking system written in Rails 3
+This is a fork of the open source agent simulation platform "Gestalt".
+My VIM setup
+Very basic template for new rails projects
+my dotfiles
+
+Copy of the last free wurfl.xml data file
+  This project has been deprecated.
+My Jekyll-based blog
+Fork of https://code.google.com/p/cssjanus/ with modifications required by Khan Academy.
+My vim config
+Personal git mirror of the tmux repository
+Temporary copy of https://code.google.com/p/bastmush/ , nothing to see here, go over there.
+This is a copy of the JNLua repository over on http://code.google.com/p/jnlua/
+This project contains several java ibraries and utilities that are either too small to be hosted in a separate project or are still in an "incubation phase".
+
+
+
+This is a practice Ruby project using cucumber for web-site testing
+Solutions to short programming challenges from http://reddit.com/r/dailyprogrammer
+Create a demo chat app using SocketIO and NodeJS
+Basic Word Game
+
+repo for my cloud pebble apps
+A repo to hold the HSBNE Tumblr blog theme.
+
+
+A fork of the WordPress Simple Colorbox plugin
+dotfiles
+
+A minimalistic theme for Sublime Text that comes in 2 flavours.
+
+Mirror of  vim-scripts /c.vim version 6.1
+A small program that grabs forum titles every minute
+
+vim rc files and configurations
+
+
+my resume
+A wrapper around the basic pattern I generally use for compojure projects
+Sample iOS game developed with Objective-c, colour memory
+
+
+
+
+practice in webGL & common gamedev 
+
+Sample code that shows how to embed a youtube video player in an Objective-c application using UIWebViews
+Dr Cyan is a simple Choose Your Own Adventure engine based on Markdown files.
+
+Collected resources about Facebook's React
+
+This is an initial step to practice Python and Git 
+Depth first maze builder in Scala
+personal website source code
+A simple, yet beautiful, code highlighter for WordPress.
+vim configuration
+a collection of my dotfiles for easy cloning
+Ruby on Rails Tutorial demo app
+Docker config for a ghost setup. Extra: nginx vhost config template with performance optimizations
+edX course programs
+The demo app for Ruby on Rails tutorial
+
+
+Ed Hatrick-Smith's Portfolio site
+http://blog.falafel.com/blogs/BasemEmara/basem-emara/2014/01/02/getting-started-with-web-components
+A collection of post install scripts for configuring security, development environments, and servers on debian. Just here to make things easier. Free Software Only.
+
+
+A simple sinatra boilerplate + twitter bootstrap (v3) to build a simple kick ass website
+Python code based generative art.
+This is an open source project of using Amazon S3 (Simple Storage Service) in milton
+
+Schedule your day to the half hour. Be glorious.
+Modern, clean, and customizable Question2Answer theme
+
+A docker image which my sites are based on.
+my operating system test
+chatrooms sample using NodeJS
+the first app for rails tutorial
+Device config for Xperia L
+
+Code example of  Volley Framework for HTTP requests.
+this is a quicke one hour app to demonstrate what a subscriber to an interactive news site might look like
+
+Programming project for Machine Learning at the TUM in WS13/14.
+Website for FulPruf
+
+
+Was using pixi, switched to phaser.js. Just trying a small game.
+java practice projects
+Landing page for smoke test of new app
+just learning git
+
+
+
+This repo has all my (Java) projects related to graphs
+
+
+
+collaborative repository to practice coding.
+
+
+Precompile your static Middleman site when you push to Heroku
+
+Setup android dev env for mac os x using chef
+An infinity based theme for Conky.
+first version. the format of elements is (int, int). Simplest hash function, just %.
+
+Interactive Multimedia Rich Educational Environment for Special Collection Libraries
+WordPress.org Plugin Mirror
+work of lee
+The test app for the Ruby on Rails Tutorial
+This learning encounter details the process for creating learning encounters using Reveal.js, Git, and GitHub.
+
+
+
+a template for a node.js project with grunt, coffeescript, less, jade
+Powershell CoreService Page Publisher for SDL Tridion 2011
+AngularJS Simple Cart Implementation
+
+my dot emacs
+Just Testing
+New SQYBI.com with Django. Notice that the RoR version is deprecated!
+Simon says game clone
+Repository to store user data. This repository contains scripts/pgms to store user log information in hbase and provides a indexed, unified view of user activity. 
+Django apps running on my sandbox at www.anthonydb.com
+A port of the Hyde Jekyll theme to Statamic
+my blog site
+Mirror of vim-latex from Sourceforge
+The demo app for the Ruby on Rails Tutorial
+Simple Upstart template
+practice with material for technical interviews
+A fork of the WordPress TwentyThirteen Theme
+
+
+Sublime Text config files
+
+
+Project 1 for Stanford University Objective-C course
+Small macros, scripts, etc to make life easier
+.vim 
+
+
+Simple carousel without any complicated stuff around it
+This is my test repo.
+
+
+Links to StyleGuides used by our team
+
+Collection of actionscript 3 utilities
+my user page
+All the XML files required by the QuietTime iPhone App, both in Arabic and in English.
+A demo of how to use the SubscriptionBundle
+A dropbox for small commandline tools and scripts I build. Many for media management like image resizing or server admin, but otherwise a random grab-bag of unrelated stuff. Linux + OSX shortcuts. In git so I can find them again next year.
+LightStor Website
+My test of java web app
+
+Documentation and examples for an introductory workshop about Boost
+
+
+
+my ember.js practice
+
+
+Small script which adapt the brightness of the screen with your web cam.
+
+
+CoderByte Programming Challenges
+
+A Promise based API Abstraction over window.localstorage and chrome.storage.local
+A collection of useful javascript helpers, again.
+new
+This repository will house R code for some programming exercises in a class on Computational Statistics. When I was taking this class, I often thought stumbling upon a repo like this would have been helpful. The work here is largely my own, but obviously 
+Practice App
+My first app :D
+Example repository that is created from an existing project.
+Source code syntax highlighting: C/C++/Prolog/... -- HLX --> HTML. (college course exercise)
+C++ Templates - The Complete Guide
+Example showing use of shoe, dnode and browserify to render cross-browser web page
+Python introduction tutorial with some sample application
+fork from http://sourceforge.net/projects/opascalscript/
+Documentation for the Statamic CMS in Dash Docset format 
+BWTheme - A simple and beautiful theme for Webmin and Usermin made using Bootstrap and Font Awesome
+Ubuntu Server Guide
+Small JS Library to queue CSS3 Animations
+Documentation for the Internet Archive S3 API
+
+just a test
+
+A basic mapper to read/write POJO instances to a very compressed binary file format.  While working on another project, I originally was going to use Jackson to read/write POJO to JSON/XMl, but after looking at the overhead of saving large byte arrays I c
+
+script of R for learning purposes
+testing repository
+Ruby on rails tutorial - first app
+My personal configuration files
+Implementation example of Spring-Hateoas (client wich consume and expose RESTful HATEOAS Service)Source from my article : http://bewilcox.blogspot.fr/2013/12/generer-lexposition-de-vos-entites-jpa.html
+LightStor Standard Documentation
+Lego Mindstorms EV3 hacking, documentation + list of projects.
+first code
+SharePoint 2007/2010/2013 PowerShellscript to copy user permissions on all specified sites/subsites
+GitHub Repo for MercuryOS
+Coursework for CS 590 - Computational Microeconomics. Taught by Vince Conitzer, Duke University, Spring 2014. 
+A demo application for illustrating the use of list view and adapters. It also consists the functionality of callbacks to change the items of the list view. (e.g. working of like/unlike button)
+get off !! this is my personal project
+Code Practice in Java(Still Updating)
+A clone of casper, the default theme in ghost
+these are small scripts that I have written to perform certain scientific computing tasks, namely for a course I have taken on quantitative economics
+Projects List
+jQuery to add active css style once you scroll to specified anchor.
+dot files
+Just a simple Drop Down menu
+Just a few basic quiz questions / solutions to quizzes that I ask potential candidates to look at based on their experience
+
+Notes and example implementations of design patterns in JavaScript
+
+A very simple setup for node
+A basic web page that uses a carousel using the bootstrap framework
+Some exercises taken from http://adriann.github.io/programming_problems.html
+
+A php framwork based on the concept modules, views and controllers(Minus the "clean urls" added true SRP controllers). Made to be as simple as possible while being as flexible as possible. Allows for the easy and choesive creation of websites and apps
+
+
+My solutions to exercises from Kernighan & Richie "The C Programming Language" (Second Edition)
+Git repository for work from 7 weeks 7 languages book
+
+
+
+Documentation wiki for using AppWarp On-Premise
+Various for-fun scripts and projects
+The core bundled adapt theme
+My python scripts
+My github pages repository.
+Small application for Android what helps people learn multiply table. Made it for Android101 course
+School Project - Create a tool that displays information about the disk
+A simple search component for K2
+My first app
+
+
+
+
+Example code for personal use from the book Node in Action.
+Example of using Karma to test client side JS
+My personal page.
+
+
+This was a school assignment.
+gh-pages for williamjwoodall.com, just redirects to wjwwood.io
+
+Set of screens that can be used to perform regression tests of operator interface.
+A simple browser created using java libraries
+A small log for all the coffee I taste
+
+
+
+The first app for the ruby on rails tutorial
+My solutions to the Project Euler Problems
+Demo project using the raphael gwt library.
+Documentation and Resources for the Minecraft Mod Station
+
+Demo of how to list posts with collections in Assemble 
+Simple Sublime Text extension to implement Ctrl/Command-0 function to restore edit window font size to user-defined default.
+My final project for Python course
+Personal page & blog
+repo for recipe storage
+
+This is a fork of KA9Q's FEC library that also compiles on x86_64 and arm.
+Hello world program running under CP/M-80, crosscompiled with SDCC (based on sources from N8VEM)
+
+Template I use to start my scala projects.
+system for my mom to manage her expenses
+
+
+
+
+
+A simple and elegant implementation of Lisp on C#/.Net
+Testing GitHub out
+Programming Practice
+My Jekyll blog, hosted on Github-pages
+My home base on the web.
+Just testing Github Pages
+AngularJS demo with Browserify.
+RailsApps Tutorial
+
+
+
+The documentation for the Bootstrapper package
+All other codes that are done for courseworks and personal fun
+A website / theme for Small Victories.
+My (own) Sheltie Pedigree project written in Java generating all HTML from an XML, no database.
+Rails 4 tutorial
+
+Saves state against an entity in MongoDB with simple constants and helper methods
+A small helper module for image galleries in WordPress, using ACF.
+The first app for Ruby on Rails tutorial
+
+
+practice
+Store data in local storage
+
+The content files for the LCDM website at the University of Illinois.
+
+a backup of the main site
+This tutorial demonstrates how to use the Cloud API in Titanium Mobile. Specifically, the demo project will allow you to send a template based email to any recipient.
+A simple non-configurable OSX kernel extension to prevent sleep
+reprap design repo
+TDD Webdev for Python exercises
+A Makefile to build librumpuser on its own, useful if you want to fork it
+packaging metadata for the freemarker preprocessor template engine
+
+Demo application
+*Nix Security Scanner - a simple security scanner for Linux and Solaris hosts written in Perl that checks both that systems have been hardened and that they have not been compromised.
+My first push to github
+A small app to follow the progress of the family BCS pool.
+
+
+
+
+The first app for the Ruby o Rails Tutorial
+An example registration handler for setting up Salesforce with OpenID Connect
+
+unit test ios id
+first demo app
+vim config for cpp
+The sample app for Ruby on Rails Tutorial
+
+Jan 2014 version of Hartl's First App on Dev Machine, running Ubuntu
+
+Dating Python - A quick start guide to Python programming
+
+TestCoin for testing purpose
+The sample app for the Ruby on Rails Tutorial
+WordPress.org Plugin Mirror
+
+
+Std theme atweb
+Simple module to send emails in background using oorq
+Blog
+
+
+collection of simple ios-samples
+WordPress.org Plugin Mirror
+Zipios++ is a java.util.zip-like C++ library for reading and writing Zip files. Access to individual entries is provided through standard C++ iostreams. A simple read-only virtual file system that mounts regular directories and zip files is also provided.
+Fork of the cleaver project (http://www.sci.utah.edu/cibc-software/cleaver-cibc.html)
+Practice Angular from egghead.io tutorials
+these are short scripts that I have written in C++/C (mostly C++) , for a course called "Problem Solving with C++"... there are also the solutions to www.programming-challenges.com
+
+Code snippets discussed in blog
+
+simple Bukkit plugin
+My final year project for University. A tool for teachers to be able to easily create multiple choice test for their students.
+
+
+My configuration files for StumpWM
+
+
+
+Template Project for Google Glass compatible Android app using OpenCV
+WordPress.org Plugin Mirror
+WordPress.org Plugin Mirror
+WordPress.org Plugin Mirror
+WordPress.org Plugin Mirror
+version of homework 2 and 3 without action of the button 9
+test repository
+
+James puppet code
+Things I learned
+FSOLA - First Steps Of Learning Algorithms
+WordPress.org Plugin Mirror
+
+vim
+WordPress.org Plugin Mirror
+sample client-server application with thread pool
+
+The first app for the Ruby on Rails Tutorial
+
+
+A basic assessment for Adapt that is attached to an article
+A basic scorm tracking plugin for Adapt
+
+
+Sample program(s) to parse logs
+An example of a basic solution setup for a brand new application.
+Simple kernel module to be used in workshop about kernel modules.
+Mirror of git://anongit.freedesktop.org/git/pixman
+WordPress.org Plugin Mirror
+WordPress.org Plugin Mirror
+WordPress.org Plugin Mirror
+Something to demo git use in class
+RFRateMe will help you promote your iPhone/iPad app without irritating your users. It's very simple to install, use and configure (If you need to change the default behavior).
+Basic iphone application and python server for using trilateration (trigonometric and least squares) to determine the point coordinates of the phone.
+Example plug-ins for GammaRay
+Laika Compatible version of reFocus for Plex "Back to Blue Edition". Please switch to the plex_ht branch for the Plex/HT compatible version.
+WordPress.org Plugin Mirror
+Read-only mirror of "rmetrics" from r-forge SVN.
+Mirror of lp:pyopengl
+Keller's Personal Game/Engine
+xgl emacs setting
+My personal repository of tools for solving Project Euler problems
+\N
+Read-only mirror of "countreg" from r-forge SVN.
+QuickBeer brings you beer reviews and descriptions.
+Dotfiles. For me! My dotfiles.
+\N
+A set of Emacs color themes based on Chris Kempson's 'tomorrow' themes
+A clone of Gameboy Tetris using HTML5 canvas written in javascript.
+A simple library for applying transformations to an input stream.
+Working through some stuff in Haskell. Dangerously close to writing my own monad tutorial. They're like a burrito, man.
+Cross-platform Paint.NET clone
+Github mirror of  MediaWiki extension GlobalContributions - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing
+A collection of userscript for different Browsergames.
+swip is a SIP web phone working through a java applet. This is a fork() from sipappletjava.
+WordPress.org Plugin Mirror
+Fork is maintained at https://github.com/guard/guard-brakeman Go there instead
+
+A thin wrapper around the JavaScript Cytoscape Web library for Google Web Toolkit
+WordPress.org Plugin Mirror
+dotfiles such as .vimrc, .zshrc, .tmux.conf, .gitconfig and so on
+a simple blog made with rails
+Demo Applicaiton
+Various scripts I use
+Mirror of http://drupal.org/project/panels_tabs provided by hubdrop.
+WordPress.org Plugin Mirror
+An easy way to include all files within a directory. Note: This is a fork of felixge's require-all which allows for optional includes.
+My Blog source
+work repo for me and urban to have a bit of code control
+The streaming build system for PHP, inspired by @gulpjs.
+
+WordPress.org Plugin Mirror
+
+A Python Turtle program I created
+My personal website
+:video_game: A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
+chuo.me Blog
+WordPress.org Plugin Mirror
+A non_blocking_lock implementation for ActiveRecord adapters (well, just mysql2, at the moment). This is just a quick and dirty extraction due to the Rails 3.2 deprecation of vendor/plugins. README/tests/etc coming later.
+This addon offers you some flavors to customize the colors of your platform easily. A flavor is a group of 4 files: background, borders, colors and fonts, corresponding the CSS properties.
+My emacs configuration, written as literate elisp
+OpenCPU Demo apps.
+(DEPRECATED) My first html game start.
+A set of extern classes for Haxe that wrap the Titanium API (http://developer.appcelerator.com/).
+Clone of the "Entity operations" Drupal module
+deprecated
+A basic Flask app template using MongoEngine
+Collection of developer tools for BrowserID
+vim configuration files
+Basic ZendFramework2 example application using Doctrine2 and the SpiffyDoctrine modules
+A simple octopress blog, more work-related than anything else.
+gap proxy clone from code.google.com/gapproxy
+
+
+vim setting
+simple twitter clone
+Personal Site
+Implementation of a simple Perceptron classifier.
+A minimal online chatroom implemented using HTML5's Websockets with a Ruby back end.   It's pretty basic right now, and probably won't be useful to many people.
+Configuration files for stuff I use.
+
+
+A simple and free CMDB app written in Ruby on Rails
+Simple NodeXT CMS serving as the official Create integration testbed
+Mirror of Alfresco Community Edition (see https://wiki.alfresco.com/wiki/GitHub)
+Project Euler solutions.....
+My Resume in LaTeX
+A simple web based school management system.
+
+Win32 code example to list all the imports within the executable, very useful aid to understanding PE executables and the API calls they are trying to use from various DLL's.
+
+my emacs configs
+Fork of mapsforge - https://code.google.com/p/mapsforge/
+svg-test
+No longer supported see - https://github.com/meh/ruby-tesseract-ocr
+collection of scripts I use to handle locales at Diaspora
