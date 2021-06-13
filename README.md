@@ -1,2 +1,3 @@
 # Study_dataset
-Including all dataset used in our results
+All datasets used in experiments.
+Different folders contain corresponding dataset for figures and tables.
