@@ -1,0 +1,1 @@
+Different folders contains the outputs of RF method and Deep learning methods.
