@@ -1,5 +1,0 @@
-1
-F:/ASE_code/Training_dataset/train_pos
-F:/ASE_code/Training_dataset/train_neg
-F:/ASE_code/Training_dataset/test_pos
-F:/ASE_code/Training_dataset/test_neg
