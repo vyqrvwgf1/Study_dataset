@@ -1,0 +1,2466 @@
+FuelPHP Framework - Composer Framework Component installer
+A Moodle block element which is part of Turnitin's Moodle Direct v2 providing a link to Class Migration functionality for non admin users
+Parse web services and site for managing beef inventory at Cienega Orchards
+Maven HTMLCompressor Plugin to compress HTML/XML files.
+A Teamcity plugin for building Unity3d projects. NOTE: this has an MIT license so feel free to copy / adapt as you need to.
+Bind to the `beforecopy`, `copy`, `aftercopy`, and `copy-error` events, custom DOM-like events for clipboard injection generated using jQuery's Special Events API and ZeroClipboard's Core module.
+
+Websocket client software for socket.io
+XNA real time strategy game with era system and multiplayer support.
+A jQuery Mobile theme for UF
+A text based game for a Dream In Code competition.
+Lightweight unit-testing framework
+Microcontroller Library for LPC2xxx Chips (presently LPC2101/2/3,LPC2104/5/6,LPC2131/2/4/6/8 supported)
+node.js AGI (Asterisk Gateway Interface)
+A modification of Razor (https://github.com/msturgill/razor) for czech Ultima Online shard Auberon
+Go implementation of app.net API
+JQuery easing plugin registration for the Plone CMS
+Wordpress music web site.
+Minimal template for developing packages for Python
+Python implementation of URI Template
+REST supervision app client for android devices. Part of my degree
+Proxy your local web-server and make it publicly available over the internet
+An Arch Linux package for the stopmotion project
+Upload de arquivo utilizando o JSF + Primefaces + Hibernate
+iOS 5 Container View Controller that mimcs the behaviour of the Path 2.0 and Facebook apps.
+
+Javascript client library and app for CKAN data hub software
+internationalisation (i18n) for node.js the easy way (incl. clientside usage)
+Testing application
+A browser extension/add-on to filter tweets. Currently, supporting Google Chrome.and Mozilla Firefox (15+)
+koshinuke java server implementation
+Long expires cache buster plugin for Lumbar
+
+A collection of officially supporter ConDep operations.
+Measured Voice AWS deployment tools
+:izakaya_lantern: ambilight clone for your arduino and some WS2801s using boblight
+Get current weather conditions at your command line
+Helper for add social share feature in your Rails app. Twitter, Facebook, Weibo, Douban, QQ ...
+An extension of Neuro to provide a "sync" component.
+TranscriberAG Debian package files
+A hook/filter system(Similiar to word press hooks/filters). Useful for creating plugins as an example.
+XBee clone using TI CC430F5137 microcontroller
+Emacs setup (CSS / Erlang / HTML / Javascript / Lisp)
+Chrome extension to auto-update your twitter stream without clicking to load new tweets.
+Unofficial GnuTLS with added custom native Visual Studio project build tools. GnuTLS: GnuTLS is a secure communications library implementing the SSL, TLS and DTLS protocols and technologies around them.
+Rails 3.1 admin
+
+A fix for the iOS orientationchange zoom bug.
+MPEG-TS Segmenter for HTTP Live Streaming (iOS)
+Domain::PublicSuffix - Perl module to parse a domain down to root using Mozilla PublicSuffix
+A Leiningen plugin to generate Autodoc pages for your project
+Albion 2 Engine "light"
+Galera Cluster documentation
+Spring MVC sample project, which is using iBatis. Now it's still under construction.
+Your agile time management application - The Pomodoro Technique
+Add app/services to Rails 3 
+Python scripts for generating a bilingual dictionary from a wikipedia dump file.
+A Zend app in which users can have multiple authentication and api providers (Facebook, Twitter, Google)
+
+An open source substitute for Apple's genstrings which can be integrated in Apps.
+iOS OBJ Viewer with LOD features
+
+a javascript rogue-like game
+Use FB to create process registration and create WordPress users (not FB Connect)
+A single process monitor for embedding into a plugin or extension.
+ Warewolf  Easy Service Bus (ESB) is used for designing, orchestrating and implementing communication between software applications. It handles messaging, routing, and service co-ordination in a SOA framework. It's 100% open source and free. This reposito
+
+white elephant helper
+
+WoW Addon - Allows you to choose a colour shader which best suits your type of colourblindness.
+
+school life app
+A pre-configured scripting client environment for the WISEBED experimentation facilities based on the BeanShell Java interpreter
+
+Grails Functional Test Plugin
+Learn how to program by solving & creating physics based puzzles (like Angry Birds)
+A visual guide to the wonders of Unicode
+Rack Middleware which retrieves KML from Rails and produces KMZ for the client.
+A Toto client library for iOS
+Maven Plugin to manage the lifecycle of an XP-Framework project
+A wicked fast and robust AS3 library for playing Animated GIFs in Flash.
+A Latex presentation template which looks like a Keynote presentation
+Mobile application written using the Ionic Framework for an School project.
+Code for SMARTX analysis
+Client-side form validation plugin for jQuery
+Automatically detect connections to wifi hotspots (captive portals) and use configured credentials to keep you logged in.
+Peer-to-Peer secure backup system. Spreads encrypted pieces of a  file over a p2p network.
+An Ace of Spades clone / fork / experiment, written in Python and using Pyglet for OpenGL.
+
+The prestashop html module
+Bookmarking application for windows using wxWidgets and tinyxml2 written in C++
+
+
+Redmine plugin to quickly Create/Edit issues in JS popup
+The project aims to develop java based api for getting historical quotes from Indian stock market. These  apis are targeted to solve the data problems related to back testing of an algorithamic trading strategy. Currently we are using yahoo finances for f
+Festival de Ideias
+App based on Node.js, Express.js, MongoDb, Bootstrap and jQuery.
+Social dynamic particle system in javascript (both client and server)
+An intro application for the Ionic framework
+Dependency injection system for Python
+Advanced application that recovers the Master Passwords of Laptops - http://sourceforge.net/projects/passwordrecoverytool/?source=navbar
+Official API to access Sitra touristic data
+opage site I created with foundation.
+Site
+JavaScript Dev Accelerator Coding Challeng Question 3.   Generate an AngularJS, ReactJS or other JavaScript MV* framework app that allows a user to create, edit, update, and destroy (delete) users. 
+Heavy Development Noob Code C# MineCraft Server
+AT&T Global Network Client on steroids
+Viterbi algorithm which creates a Hidden Markov Model to detect CpG islands within an input DNA Sequence.
+Zor Programming Language
+Java applet that uses linear programming (gurobi) to solve fair cake-cutting problems
+To-do List using Backbone.js
+The JavaScript SDK for cine.io
+Android DP / PX, PX / DP Converter
+App created using larval.
+A Protobuild template for an empty console project.
+Stylesheets for Documentation Pages
+Twin oaks spraying site
+Updates your library with the latest chapters of your favourite mangas
+Addicted to Train Simulator? Finding the game too predictable? Let this tool tell you what your next shift is!
+Webpage source for PGE 334 Reservoir Geomechanics
+A tool to check md5 sums given an untrusted file and a sum that has been received out of band
+
+An AngularJS wrapper around Cloud9's JavaScript code editor.
+A Protobuild template for a cross platform Easily Overlooked MonoGame project.
+a 3n+1 perl implementation
+
+A Star Trek themed, text based game written in Python, which showcases the power of the Raspberry Pi.
+LaTex Resume
+Labs for cs162 Honors Introduction to Programming II
+8fold, a fast-paced numerical puzzle game
+
+Micro-framework for Golang web servers
+This is the site, the thing that makes the OpenItinerary work. Enjoy.
+Some games I've made.
+This project involves the simulation and analysis of two message routing algorithms namely Gossip and PushSum. We use SCALA and AKKA framework to simulate the nodes and the message passing transactions.
+Web page for the This Is Us Project to facilitate students' data entry
+A Sentry notification plugin for HipChat
+
+A hive2 multi host adbc based datasource. This will help in load balancing in round robin fashion while acquiring new connections from each Hive2 server.
+
+Sample Node.js application
+
+twitter sentiment analysis based on paper by pak et al. Also used to learn a little redis
+This program offers the user random articles from Wikipedia to read.
+Old C#/XNA game I was working on.  Unfinished.
+Maintain a set of offscreen cells and use them to help calculating dynamic cell size in sizeForItemAtIndexPath
+
+Source for blog. Middleman site.
+
+Boggle solver written in Java
+Hydroponic culture equipment that can be used in 4 ways (Use/Don't use LED/empty can)
+hson is a Python 3 tool for extracting Hearthstone game data
+ A Python script that render a .svg file into .png files in the correct resolution for Drawables in Android. Developed for
+A little machine-learning project for me and others to better understand neural networks. X should be a nested list of training vectors. Y should be a list of 1/0 points (yes/no).
+use these source files to demonstrate the edts red underline bug.
+
+A mini Netflix clone web app built in Node.js that uses TheMovieDB and Rotten Tomatoes movie data
+A quick word count plugin for Vim, perfect for adding to your statusline
+Collection of scripts for different analysis.
+React + Golang API with Postgres
+Resume template made with latex (theme isn't acheved for now)
+fresh laravel copy
+
+Copy files to a remote host using WinRM
+a crappy javascript particle physics simulator
+Expreso Gran Muralla Website done in HTML/CSS/jQuery
+6.00.1x Introduction to Computer Science and Programming Using Python
+Include some monalphabetic substitute cipher alogrithms, attack on caesar cipher, frequence analysis on monalphabetic substitute cipher and 3x3 Hill cipher.
+async iterators (reduce, map, each) of collection (array, plain object)
+A Git mode plugin built using the ShellCommand plugin, which makes customisation and adding new commands, super easy.
+Flappy Boot is an Atari 2600 game written in 6502 assembly.
+A community-curated list of flexbox issues and cross-browser workarounds for them.
+Microformats 2 Version of Underscores Starter Theme with Indieweb Support
+Assembles SIC and SIC-XE programs into machine code.  Written in Python.
+useful scripts for react development
+This Java program allows you to be able to type in coordinates, and it will verify whether it is a rectangle or not.
+A Game partly based on the DGameFrame 
+Implement a ruby program that returns a string and its substrings e.g. (Below => below, low)
+An open source, plug-in based, and completely modular chat client.
+Allows you to create field that allows multiple selection of records, such as tags, compliant with Bootstrap 3
+Android App for attendance marking at IFS daycare center ( with Janitha Madushan )
+
+
+server side cross filter which will fire required queries directly in respective database
+
+Code for raspberry pi object tracking. Developed for McMaster sumobot competition 2014/2015.
+Test password strength (cracking-time) using real guess-dictionaries and mangling rules.
+Replication in HTML and CSS of a design mockup provided as a PNG image. The responsive functions are based on Bootstrap.
+backbonejs and mojolicious based todo list
+Node.js sending mail over SMTP using Amazon SES
+Simplified Chinese translation project for the Battle for Wesnoth.
+THIS IS A SERVER VERSION YAY
+Input plugin to collect data from Deskcom
+An Unrolled Linked List.
+
+Daily programming exercises from the daily programming reddit page
+Odin project of Google homepage
+tech128's optimized sqlite3 for android
+A kissy template engine for Nodejs/Browser
+
+A parcelify transform, which allows you to import files using the node resolve algorithm.
+macos command line tool of generate qr image and copy to clipboard
+Command-line tool to download Google Spreadsheets as JSON files.
+Find pool tables in a city near you
+
+EditLabel is editable Label control, who's text can be modified at run-time by double-clicking on it.
+Solutions to Rosalind problems using Rust
+For latest version, please refer to http://www.sigchi.org/publications/chipubform/sigchi-extended-abstracts-latex-template/view
+Spark open source program to fetch top urls, hashtags and usermentioned on basis of keywords
+This contains a single javascript file and the bookmarklet code to check a single page for broken links.
+Python Integreatde Selenium Framework
+Public repository for bot.drupal.hu
+a book store (angularjs practice)
+A Chrome Extension to Log Cookies for Further Analysis
+A quick shadowmap class.
+this WordPress plugin allows you to display your delicious bookmarks on a post depending on its categories or tags.
+Faster string utilities implementation for Go
+helper classes for arduino dev. Tested with GTest+GMock.
+This is an extension for wp-pro-quiz plugin of Wordpress. This extension displays individual users score at the bottom of their profile page. 
+Big Data project for analysing India's PM's visit to USA done in collaboration with Apoorva Chauhan
+Fork/continuation of damson_splitter to split up SpineML model for efficient computation
+Java client for the Wink REST API
+jquery resizable
+Ffs - Framework From Scratch built for research purposes. Reinventing the wheel, every functionality without using the power of Open Source
+A set of PHP functions to better deal with accented utf-8 characters
+HTML Canvas Framework
+Working with cookies in a Nginx module http://www.nginxguts.com/2011/01/working-with-cookies/
+Instructional app for Intro to iOS App Development with Swift
+Abandoned. mockup here http://conditionalsupport.makopool.com/
+HTML to Image Conversion API
+Ansible role will help you with installing original vmware-tools form Vmware or fallback to Open VMware Tools (open-vm-tools).
+Chef cookbook for the Distributed Grep web app
+ZF2 logging module
+This is a .NET Micro Framework Library for working with the Amazon S3 Rest API.
+The vehicle information management system
+This NotepadEditEnhanc Of Develope Version.
+code samples OCaml and standard libraries, what I missed when starting with ocaml
+The best practices on a brand new Mac OSX setup for Web Devs.
+A clean Markdown to HTML Website AWK program which is no more complicated then it needs to be
+About update strategy utility can used in app auto-update module
+Website for client9.com 2015
+you can make a android application rapidly
+Format your commit-message and promote from vim
+Repo for sources of pirockinez.com
+Empower your Linux machine to run Pexes
+This is repository for codes used in Opera Library
+Project enables deployment of Spring SAML applications in Google Application Engine.
+An ipython notebook to help with school spelling homework
+Phase 4 Ematrix site. Skeleton, SASS, Cleaner Git. The final frontier of this work.
+irssi scripts
+Get Information from 2X RAS Server (tcp/20002)
+
+NeverCat Wordpress theme, based on Zurb Foundation 5
+jabba the hud. yet another generic hud/ui engine
+Python library to parse Apertium stream format
+Script to explain an Apertium translation in terms of its parts.
+A simplified version of the Ordnance Survey UK parliamentary constituencies shapefile
+When developing web solutions, assets such as JavaScript declarations or HTML templates are frequently written in a location that differs from their desired output location. SuperScript.Container.Mvc allows developers to easily declare these assets in MVC
+php-MySQL based note taking and journaling application
+GitHub Pages Website!
+Suse automation scripts to execute from jenkins
+iOS client for UOless
+kof's sketchbook year 2015
+A multi-platform game framework in C# using Portable Class Libraries
+Some fun with batch
+A Client-Server custom mail service program created under the Toronto District School Board Netowrk. 
+Keeps the zeitgeist of your blog
+Install profile (deprecated: use webfact-make project)
+Copy of the 'rc' shell source (http://tobold.org/article/rc)
+1294's robot and dashboard software for the 2015 season
+Starter ansible template for new site project.
+A plugin for Kerbal Space Program 
+this package is an ANN toolbox,which the early published genoud algorithm and rgenoud package is employed to optimize BP process
+
+Blog application for MOCC class
+Struts email Client
+Bunch of scripts for different purposes
+Upload files to an AWS S3 bucket and sync them to dropbox using an AWS lambda function
+Litvinenko\\Common\\Object class that powers Varien Object class with data validation rules taken from 'illuminate\\validation' package
+Visual novel engine
+A salty-ass 100% verified hacker status python script to turn apple id's into apple crisp #nicememe
+App for university
+Instant message application (client)
+University assignment 
+iOS app for Epiquote webiste, written in Swift
+fourty - planet template pack
+UBJSON extension for Jansson
+
+Arduiono & Raspberry code to run an automated cat feeder
+Wordpress Theme based on the free mystile theme by WooThemes. Requires Wooframework to work properly.
+Formats Cucumber output into format compatible with Xcode Build output so that errors and warnings appear in the Xcode Issues Navigator.  Useful when using Cucumber through the wire protocol to develop in C++, Objective-C or Swift
+Working Cucumber Android Sample Project.
+I was assigned to design and implement a web site for Online Ads Publishing as single page application (SPA) using HTML5 and AngularJS.
+Visual Studio Plug in to add in HLSL source as directly linked source code via a generated C header
+fizzbuzz created using CoffeeScript and mocha for testing
+System of particle with collisions.
+Docker build file creating a image of a box containing web application security scanners.
+Admin Interface for Open Xchange based on AngularJS
+
+tempest scenarios upto 02/01/2015
+Ascii stylesheets making use of ascii.rocks - JS implementation parsing CSS to show ASCII on HTML5 canvas
+Little Framework to load, contain and optimize webforms from Zurmo-CRM
+PhoneCall.Forms.Plugin is a Xamarin Forms plugin from Isham Mohamed
+Scripts for building .Net projects outside of Visual Studio
+Reverse engineered Python API for Weiyun (Tencent's cloud storage service)
+Microsoft Office 365 EWS (Exchange Web Services) Client Library
+Parent application for the 'inbox' engine.
+This is to host a website using pages
+Is a javascript library based on snap.svg that permit to use .svg images files as templates to create web andon/control panels with dynamic data loaded from a json data source.
+Some more advanced longtouch event states for Titanium
+this is repository for all wordpress theme component from PSD to PHP
+Solutions to the Project Euler's problems
+ec2-elastic-ip init script for ubuntu.  This will allow you to set the user-data and hostname for an amazon spot instance
+[Lynda.com] Building a Website with Node.js and Express.js [2014]
+upload component and business solution
+Examples with Facebook React library.
+Debian Wheezy script for configuration of fresh OS with essential applications as well as optional: Postgre 9.1, Webmin, docker.io, RealVNC 5.2.2, TeamViewer 10 & Tomcat 7
+Receives Docker webhooks and forwards them to an AMQP bus
+Development bootstrap for Node.js including MongoDb - using Vagrant and Chef with Berkshelf
+A sample spring-boot app using using spring- mvc/social library to retrieve the favorites of a twitter handle.
+A collection of ZAP scripts provided by the community - pull requests very welcome!
+vagrant  docker host( ubuntu trusty 32bit)  - build libreoffice
+Pelican Theme Masonary Redux
+LpiAssetLoader is a zend framework 2 module that helps manage the loading of front-end custom or bower javascript and css assets.
+Single-page application using AngularJS // buy and sell site
+Pelatihan Android Indonesia - Android Studio
+
+
+Share/Print/Open files with the native activity view controller in your Titanium app
+Python module for turning streams into trees
+noInfoPath data module
+C++ implements for network flow algorithms 
+Sympton Management Beta Version it's an Android app and a Java Spring-based service.
+Sample algorithms
+git hooks for intermixing SVN and git repositories. Intended for use in versioning Unity projects without storing massive amounts of binary files in git.
+Run an ETCD backup task inside a Docker container and upload it to AWS S3.
+Mobile app that provides a medical control with some helps like drugs&doctors guide and reminders
+module form comp register
+Another youtube karaoke application
+A Ruby To Do List
+An open-source implementation for picking files/folders out of an online API
+elixir library for dynamodb
+Java Chip8 language emulator
+Registers docker containers with avahi
+
+Visual Source Safe tools: Log, Annotate(Blame)
+MoneyCalculator project for Softwaare engineer 2 
+Converts one or more DNA bare sequence files (.seq) into one FASTA format file (.fas).
+An Image Filter On iOS
+Extention on CI Upload library for handling multiple file uploading
+O2O DIY IOS app
+SYSTEMS CHECK #7: Rails
+Github page
+Geolocation game prototype based on google maps api
+A Puppet module for managing LibreNMS
+A cms(for webistes) Written in Python (Bootstrap Embedded)
+Simplistic Webcam interface for Raspberry Pi with Camera module, based on NodeJS
+Puppet module for the OpenDaylight SDN controller.
+Marketing Page for Fullstack NH
+node.js file uploader based on https://github.com/felixge/node-formidable
+Nonsensical latin text transformation
+Elasticsearch plugin to list installed plugins
+Platform that aggregates de best technologies to dynamically teach and learn between dynamic groups.
+A MapReduce-powered extension to LIBSVM
+PatternLab Style Guide for OvrC
+Custom Alert view for iOS apps
+A template project structure for a PHP component. Includes config for Travis-CI, Coveralls and Scrutinizer.
+Control an old-school analogue Scalextric set with a MindWave Mobile brain computer interface and an Arduino.
+
+A list of countries, abbreviation codes and text in native language
+Anaconda recipes for computational neuroscience tools.
+Collection of python scripts to allocate tasks and process raw results.
+Framework for building module loaders with very little effort
+codeigniter pagination with jquery
+A data-only container for docker-jira
+docker image for building dropbox's pyston 
+This Project is python script for solaris
+A React Mixin for the BoomQueries Library
+Cloud tools to monitor and manage cloud servers. Great alternative to some expensive tools
+Sala de treinamento
+Cinch plugin for printing link titles
+
+
+Stand Alone Replacment MenuAn alternative for the bootstrap dropdown javascript control using knockout and jquery. Intended to be used alongside bootstrap javascript components, or at least with bootstrap css.
+An arduino library to simply use a PID controller
+Google Calendar Sync for Outlook
+Minimal X11 Window Manager 'winman' from O'Reilly Xlib programming Manual, compile on modern computer
+
+
+Darkgrey with white responsive theme with single color for AnchorCMS.
+Ticket.com is a  web application buy which user can buy bus tickets and rent a car .
+
+SuperScript offers a means of declaring assets in one part of a .NET web solution and have them emitted somewhere else. This project offers the base functionality for relocating assets to an external file while writing an appropriate reference to this fil
+YAWN is a PHP/JQuery based social networking app. YAWN stands for Yet Another Web Network 
+FenixEdu Academic Thesis Component
+Short Rails assignment for creating and storing information on cars in a used car dealership
+BattleShipClient voor > iOS 8
+
+Django App for a Twitter Like App
+java programming with version 8
+A web server implementation for Mono/.NET
+Google chrome browser extension converting price to working hours
+Initial commit for Google App Engine connected Android project.Goal: to use Google Cloud Endpoints to upload an image from the Android Client to Google App Engine. Google App Engine will store the image as a BlobKey.
+Total Backup Script
+xfind is a command line tool written in Go, which is like a subset of find command.
+A Java application to view methods of interpolation.
+Conway's Game of Life w/ HTML, CSS, and JS
+Mockup to Website project
+Chats is a PHP/JQuery Ajax based instant messaging system.
+Search text on website for bible references and create a link to verse on bible.com
+
+A JavaScript wrapper for the Teleduino API used to communicate with ethernet enabled Arduino boards.
+Plug-in like warp to allow players to save locations and teleport to them.  The locations, however, are private to each player.
+App where a user can create, update, edit, or destroy users.
+
+
+A Music Player Daemon web app written in node.js
+Wordpress all in one Docker container
+first attempt on datomic storage using couchbase
+Braintree package for Meteor <deprecated>
+A minimal and static blog engine written in Go.
+JavaScript parser for THU's learn website
+Some sort of Python, Telnet based hacking game.
+A mod made by a few of ZeekdaGeek's geeks for some misc objects that were asked for
+Kodi plugin to automatically shout down application after a specified number of items in playback queue
+[BACKUP] A CGI script to parse Markdown files with the PHP-MarkdownExtended package
+continuing with rails...mostly static for now
+A core data iOS to-do-list, task-management, itinerary app made in Xcode 6.
+Projects start guide for wordpress
+
+Software in RobotC language for 2014-15 FTC game Cascade Effect
+The slots game in jQuery flavored JS!
+Interactive Processing project that simulates an exoplanet passing its sun
+Proof of concept for photo based P&C games (2). Escape from the hackerspace!
+DRY project automation for Node.js and javascript frontend projects.
+
+A tool to manage docker containers. Powered by web2py.
+Serial plot facility for data received through (virtual) serial port
+Tic Tac Toe game written in Java
+get the favourite programming language of a github user
+Docker image to run DB2 LUW
+Baroque is a dark GTK3/2 theme. It's a rather steampunk affair, featuring mahogany dashboards with brass fittings tastefully set with rubies and amethysts.
+Generate a single HTML page of all the php-langspec markdown files.
+PingPong game witen in C#
+A data bender based on the melted bird paintings of Maurizio Bongiovanni
+A library extending Xojo's iOS feature by adding extension modules and classes.
+Created Headspring Rolodex Project
+SuperScript offers a means of declaring assets in one part of a .NET web solution and have them emitted somewhere else. This library contains functionality for making HTML template-specific declarations.
+The website for the Style & Class event series.
+Sample iOS app
+A mod creation tool for Starbound written with C#.
+An implementation of function invocation using variadic templates.  Uses a recursive binding algorithm to turn a set of strings into a function call.
+Atom Editor theme which aims to render exactly like Twilight on TextMate 2
+Interactive project made with Three.js that uses headtracking to create a 3D display.
+Online trainer for the Set card game
+xvfb in docker
+Generate great looking letters from markdown using Pandoc
+R actuarial workshops - Instruction materials, data and source code for R workshops for actuaries
+OpenEddi is a data collection software package
+Ruby on Rails project website 
+Atom package to automatically copy selected text to the clipboard
+This applications was written in order to experiment with the ways a JEE web application must be configured to successfully deploy it to various (free) cloud providers like Heroku or OpenShift.
+github page
+
+
+
+
+Project 3 for Udacity Nanodegree program.
+This is an open source lighting board OS build to work on any x86 capable device.
+Github IO Pages Blog for Web Development
+Implementation of Gost Grasshopper Encryption Algorithm. This program implements the test vectors set provided in the reference document provided by the Standartinform, Moscow, Russian Federation.
+a gradle plugin to execute jython scripts
+Deferred compilation of Angular.js templates for applications that render HTML from asynchronous processes.
+This java program uses the data structures of a linked list, a hash table, and a binary search tree to create a dictionary program that can take multiple data types.  Iterators and wrappers are used to help navigate the data structures.
+Lightweight responsive free Wordpress starter theme with YAML CSS framework and Sass
+TextEdit history from 10.6 thru 10.9
+General pipeline for ATACseq data
+Node.js serialport <-> MQTT gateway
+Utility to find the years for your movie files and rename them accordingly
+Where am I App- HTML5 Mobile
+Send an email with a text file attachment
+An opinionated blank starting set of HTML and CSS for students
+backend api for segue
+Sample Project - Trying to figure out the UIStepper control
+
+A node module for interacting with Amazon S3. All functions use Bluebird promises. 
+A flexible content management system written in and for node.js
+A python controller for batch processing setup.
+Docker base builds of Jane Street Core using the OCaml/OPAM images
+goalietracker site
+Sample Design Implementation
+Blackjack game coded in Java. The game has many unique features as it allows players to bet and it also calculates the probability of winning, losing and getting a card higher than 5 for the player. However, in this game, all the face cards have a value o
+This is an 2-axis gimbal code.
+A hubot script for interacting with Cachet
+A node module for making bots that use the slack rtm api.
+Website for http://abrams.ventures
+A powerful media player with additional tools and functions combined with a good-looking modern design.
+Helpers for vagrant environment variable setting for docker apps.
+Pi-Powered VPN Client Gateway: installation documentation and related files.
+Dev version of access to LinkedIn API via R
+Inject build information (like package version, SHA) into your Ember app.
+This is go4maxsat, a MAX-SAT library for Go under MIT license.
+An LTI tool for embedding Vimeo players in Canvas
+Create playlist from text file
+Ruby wrapper for the Gorilla.io API
+A little C++ 'bank app' that takes input from the console and saves data to a txt file
+Utility for adopt non-linguist Qt program on national languages to Qt Linguist requirements.
+Simulation tool for linear scout races modelled as directed graphs with node capacity. Based on simpy, with matplotlib for plotting
+android app for the Google Student Club
+Heroku buildpack for https://bitbucket.org/liamstask/goose
+StarNub a Starbound server management tool
+A Go package to interact with the Gazelle API / What.CD
+Snippets of SDR-related code
+Create with Yeoman
+Set of functions to mine and organize Riot's API
+Stack and Queue implementation using linked list in Java
+This project help's you decide what underlying big data technology to use based on your data and what you want to do with that data.
+Membuat program data buku dengan menggunakan teknik minimum sorting
+[ C# / Winforms ] Spreadsheet program for CptS 322 (Software Engineering I).
+Bot scripts for RagesossBot, a Wikipedia bot that uses the pywikibot framework
+HTML Class and ID completion for emacs by using ac-html.el and csswatcher projects
+Audio player jQuery Plugin
+Vim settings
+Generate fake random data for fantasy-climate projects. Currently supports only Polish language.
+Folder Monitor is an open source java application that monitors a folder for a specified file type and runs a command on that file.
+Examples for Behaviour Driven Development
+Grab DMs quick and dirty with PHP.
+Parsing out the exception handling information from a binary, for use in identifying the return address.
+Tool for watching prices on Amazon
+Github website
+Using gulp, bower and sass like a boss
+A java program that simulate the operation of a repair office
+Analysis code for UMD Fermilab Test Beam Facility data from Dec 2014
+Grad school portfolio
+A node module for interacting with Amazon S3. All functions use Bluebird promises. 
+C1X website - update to contact page contact email addresses
+Project of Data Mining
+Manuscript for Intro-to-Probability
+Get a text message when your class opens. 
+The purpose of this program is to ask the user to input a series of characters.  The program will then determine whether or not the character is a part of the ASCII character set.  If it is not, the program will disregard the character.  Approved characte
+Boxstarter and chocolatey configurations for Windows-based development machines
+Filterjs is a client-side html element filterer with criteria
+Poker without cards; over internet using socket programming. Used RSA Algorithm and SHA protocol's commutative encryption scheme for encryption and decryption of cards, with an objective to implement an unarbitrated protocol that allows random choice with
+JavaScript NES emulator and emulation library.
+Open Source Android Artifact Parser
+For libraries and other users of library electronic resources (databases). Collect COUNTER compliant usage statistics via SUSHI, analye, and report.
+AdBuddizController is a Python module for accessing and displing ads from an AdBuddiz SDK for Android in Kivy, Python-based apps.
+Serialize and validate data structure
+Aggregator style website created with Ruby on Rails. 
+minimal script to help find script into de nse database
+Data vizualization of life expectancy in Canada by Province
+Node.js bindings for the FluidSynth software synthesizer.
+Modules for ARMstrap Eagle CubeMX Template Projects
+A thin layer between you and your sockets that helps prevent chafing.
+starting structure for flux react app
+Quick and Clean wordpress plugin starterkit ; A plugin boilerplate to add custom codes in wordpress features & theme, an agile alternative to function.php in theme
+LaTeX Report and Thesis Template
+Tiny app for serving up a random video intro. Intended for use with Plex.
+a multi-platform source code translation language and tool
+vim support for efene
+Routing crazy with PHP..
+2015 ESUC website
+Create an email summary of a Trello board.
+Open Web Integrated Development Environment - full stack framework and IDE for bare-metal development in HTML5, CSS3, JS, WebAudio, WebRTC and more. 
+A complete Minecraft-related PHP website package.
+Object Oriented WordPress Plugin
+Grab the passwords of all encrypted email accounts the Zimbra server
+Node.js API helper module
+The purpose of this function is to determine if a character in a file is a punctuator or separator and to use recursion to reverse the order of text words.
+A Polymer element for querying the APIs created with Kimono
+A game with squares
+A vagrant setup to bring up a quick rails server
+A reference implementation for the communicating with the Unity Rest system.
+Mobile Application Development - WINTER 2015
+Playing around with the large number of characters that our sweet George R.R Martin killed on the HBO Serie Game of Thrones.
+Client and Server source code
+The website to accompany the Stanford Open Source Academy's Spring 2015 session SWI-Prolog group
+Mobilie application for smart lighting system (UC Irvine Senior Design)
+server component for dreams and stuff mobile app
+current website
+Slick2D based top down tank shooter
+Code to create a heatmap using location history data from google.com/locationhistory.
+So far this is a generic game engine built with Ogre3D, Bullet Physics, SDL and Raknet. It is built around a component system and uses messaging between components. I aim to build a first person shooter with it that draws inspiration from Halo/Call of Dut
+blog app based on rails guides docs
+Python script to take either single image file or a directory of images and sort by year and date stamp by extracting DateTime EXIF tag from image.
+
+
+Python stock signal interface written for ICS 33 at UC Irvine
+A jQuery slider plug-in that's made to be styleable
+application to help people decide their outfit based on weather
+An android sidescrolling game
+A Markov-chain random text generator.
+Clay Model Ajax Connector for Salesforce API - use with 3vot-salesforce-api
+MAPPIAMO main repository. The geoCMS for mapping site built with <3, openstreetmap, leaflet, bootstrap, php, mysql....
+:thumbsdown: [Deprecated] The 6to5 formatter for library authors.
+Hubot used in #joind.in on freenode
+Dropbox helper for removable drive management
+Tech Blogging Engine
+A separate test suite for boolean path operations in paper.js, comparing results with Java2D's boolean operations.
+A plugin for coverage.py to measure Django template execution
+[Deprecated] [iOS] Flick in a scrollable area in Jailbroken iOS to scroll to that point (concept: http://simurai.com/blog/2012/09/13/flick-scrolling/).
+Helper for Algorithm Competitions
+Grunt wrapper for the filter-java-properties Node pacakge
+
+renders is go template middleware for tango
+A Mongo storage provider for the PropertyGraph.jl package
+Docker image to run DB2 LUW
+A curated list of awesome Architecture software, libraries, resources and shiny things
+The source for samskivert.com
+Draft for 'Quantile Regression for Missing Data with Monotone Dropout'
+A docker project building on koha-base to set up a working koha based on git checkout.
+SikuliX version 2.0.0 to be released in 2016
+Create an ansible user and configure its credentials
+
+Stripe SAAS Rails Engine
+
+IRC server Docker image with config.
+I was tired of all the services that made you pay to host a portfolio.
+An application (Epichrome.app) and Chrome extension (Epichrome Helper) to create and use Chrome-based SSBs on Mac OSX.
+C++ Binding for CLIPS Rules Engine
+
+The MQTT client for Node.js and the browser
+
+Template for Gulp
+Java non-functional testing framework
+interactive treemap with text or image content
+Scripts for working with data from Google Finance
+
+
+A graphing utility for Moodle, see the provided documentation for this exciting plugin for Moodle
+Sample layouts for the Zurb Foundation Framework
+Batyr is a web application that can be used to improve listening skills.
+A script that allows you to control OpenVPN from within XBMC.
+This is an Android app called Iterative App
+/dev/null equivalent of connect-session
+
+Adroid version for the Sage Firefox extension
+A plugin framework to perform image capturing,  colour extraction, post processing and colour output - primarily  for use with lighting systems such as for ambient lighting.
+Table Component for elisp
+backend API server running on Falcon framework and alcohol. Ciders & Lagers not included. 
+Configuring JSP and Thymeleaf side by side using Spring Boot
+Open Source Chat Bot for Twitch and Beam
+
+DicionarioGalego iOS
+Game in swift
+
+Open Source GitHub Chrome Extension.
+Open source web-based sports league management application
+PEDSIM is a microscopic pedestrian crowd simulation system. It is suitable for use in crowd simulations (e.g. indoor evacuation simulation, large scale outdoor simulations), where quantitative measurements like pedestrian density or evacuation time matter
+When I browse a subreddit, I like to open all the new links in new Chrome tabs to cruise through them faster. This opens all of them at once!
+Official repo is in bitbucket: https://bitbucket.org/sillsdev/l10nsharp
+C# application that analyses packets captured from network using libpcap/WinPcap
+Rsync SNApshot baCKUP transfer and replication tools
+distribute log system
+The !CHAOS project, an INFN (www.infn.it - Italian National Institute of Nuclear Physics) project, is aiming at the development of a new concept of control system and data acquisition framework providing, with a high level of abstraction, all the services
+jeen github page
+DEPRECATED: Tools for Documenting JS (and Friends) with Sphinx
+dotfiles
+An improved ft command for Vim
+A reverse proxy cache for Zend Framework 2 applications
+node.js server and Express API for the Monolist application.
+Search pastebin for keywords using python
+NuGet program for sending coverage reports to coveralls.io
+This component provides pose data for a tracked object in the qualisys motion  tracking system. It uses a TCP connection to the QTM server to transfer live  tracking data
+some scripts to generate jenkins usage statistics
+Shumway is a Flash VM and runtime written in JavaScript
+sneaksync program to synchronize large files sets using a smaller cloud-based shared directory (like dropbox)
+This module caches the common Zend\\* classes used by your application into a single cache file, reducing reliance on the autoloader. This greatly improves the performance of ZF2.
+A high-level library for traversing the OS storage model.
+iOS chiptune/module player
+Create and navigate location on a google map by defining a list
+
+A website for converting (and testing) HTML 2 Jade
+performance work for narayana
+Student Psychological Treatment System
+PHP runtime & extensions header files for PhpStorm
+Compute community variograms, carry out null modeling, and and graph results
+A Google Places lib for node.js
+A PHP 5.3 library for creating an EventSource stream.
+Automatically exported from code.google.com/p/repastcity
+When finished, Cookbook will be a resource for working with the Envato Marketplace API. It'll provide code snippets and examples for a variety of languages.
+
+DomainMOD is an open source application written in PHP & MySQL used to manage your domains and other internet assets in a central location. DomainMOD also includes a Data Warehouse framework that allows you to import your web server data so that you can v
+JQuery datatables.net implementation in CodeIgniter
+An extension for Joomla! that put on your site a floating box, that contains social media buttons. The extension also puts buttons into the articles.
+WifiCamera is a Python module for controlling the network camera CS-W07G-CY.
+A Joomla! extension that add a Facebook Like Box on the web site.
+A public API to help answer common questions. Christmas, 2012.  
+A php class for creating trees from database rows.
+Provides a calculated due date for new issues created in redmine
+
+Projeto de tradutor do Script JNS para linguagem NCL
+This is a free APi to create dinamically QR Codes. Support several types of images like PNG, SVG, EPS.
+Calendar Model Class for perl
+A plugin for wordpress to show videos with Flowplayer5
+The Hacker News API that you can GET (and POST)
+FRC Team 612 robot code, 2013 competition
+Not just the fastest Admin finder
+A library that simplifies the exposure of data through REST interfaces in a secure, scope dependent way. Basically transforms internal data into whatever a client of your API has the right to see.
+An extension to display histograms for images
+PegLite implementation for Ruby
+DLLs generated from the framework WSDL files to connect to the openengsb from the c# bridge
+DEPRECATED! (Not supported + code base is not so good) Need to work with vk.com in your Android app? Just use Android-VK-Api library!
+2D jQuery based mapping system for games
+I'm new in ruby scripts! Just say stop siri proxy or stopp siri proxy and your siri proxy will stop immidiatley.
+A c# library for communicating wit the GE NetworX Alarm System using the NX-584
+
+Ejemplo de llamadas entre actividades en Android - FINISHED
+Pronamic Feeds allow you to add RSS feeds to your site, that will enable the copying of content from the remote link to your own posts.
+A revised version of sig2dot (creating PGP signing web-of-trust-graphics) written in python.
+A centralized suite of extensions for the TTYtter Twitter client. These extensions add features such as sound notifications, text to speech, and more.
+Extending default Yii CClientScript class to use multiple subdomains for assets (scripts and stylesheets).
+[Deprecated! Use MenuItemKit instead] UIMenuItem with Image Support
+[DEPRECATED] Write the templates in your Meteor Application using Handlebars and Jade instead of HTML and Handlebars
+Prototype of a Doom3 Bot which acts as a 'hook dll', similar as HPB bot for Half-Life.
+A Ruby on Rails web application for sharing iPhone panorama photos
+A Vim color scheme based on Jason W Ryan's miromiro Vim color file and dark terminal color scheme.
+Plugin to write WordPress themes w Object-Oriented Code and the Twig Template Engine
+
+Justly Done - Open Source Productivity
+This is a UILabel category which allows you to insert Emojis you use in Campfire, GitHub, Basecamp, Turntable.fm, Teambox, Trac and Flowdock without the need to calculate where to insert some UIImages representing the Emojis.
+A set of unix scripts I like to use
+
+Part of the Sparks Framework. A plugin that allows creation and management of upcoming events.
+The documentation for the DDSC Lizard API.
+hymnal app
+Mediator pattern for Halo, a client-side MVC framework.
+Version 2 of chorus, complete re-write, still in development, Considered pre-release and many things might change before first release.... 
+a Web UI autotest framework based on Selenium and TestNg. Now the project has been moved to NetEase https://github.com/NetEase/Dagger
+Originally based on pyjenkinsci... release tree: https://github.com/salimfadhley/jenkinsapi
+IntSeq - Integer Sequence & Transformation library for Scheme
+JWildfire - an image and animation processor written in Java
+turn openssh into a library
+Perl Module: Inline::CPP: Include C++ code inline within Perl code.
+A little IRC bot that when asked nicely will tell you the names of the open cards in a list on a Trello board
+Gidole - Open Source Modern DIN
+Beyond the Standard Model ttbar like events analysis
+Application to assist users in creating a guide for League of Legends
+Packet capture (pcap) file parser written in pure javascript for Node.js
+
+javascript clean code reviewer
+An Uru age database API and web tool
+Herbie and Jamal's Super Rob You Now Adventures
+NextGEN Enhancer Wordpress Plugin
+Vae Platform Local Development Environment
+This is the source of the website at http://cytoplasm.somethingsido.com
+
+
+plot your visitors locations in real time 
+A Django app for generating PDF/DOCX reports from (simple) HTML documents
+A Backbone.Sync replacement for Lawnchair.js based JSON storage
+Ruby RPC backed by Protobufs
+Jekyll website for marran.com
+Automated Functional Testing for ios based on Cucumber
+python module starter
+Free MT4 trade copier - Metatrader4 EA software to copy all trades from one to one or more Metatrader4 terminals written in MQL4 language (*.mq4)
+Registration of point cloud data captured with a Kinect using PCL.
+WordPress Blank Theme
+Human Resources Management System
+this is a CLI script displays bullion prices.
+Android OBD Reader using bluetooth
+HTML forms interface to PostgreSQL database running PostGIS and PhyloDB
+Extensible PHP framework using packages, internal events, resources and much more.
+times loop for your coffee.
+A script for versioned backups using rsync and hard links (or btrfs snapshots) to preserve space. Some advanced features are also available. A remote helper script in order to lock MySQL tables and/or use LVM snapshots as backup source, is also provided.
+Smallish programs written to learn something.
+Python port of git-svn-mirror utility written in Ruby by Eloy Duran.
+just another geodjango project
+this is not a HTTP request lib like the ones you see around, it is REAL BROWSAH!
+C++ AmazonMWS REST Client
+Streaming and REST server implementation
+Suite of tools for high speed programming in Python
+Move blog from CSDN to WordPress 
+The Artsy Engineering Open-Source Developers Blog
+QuickApps CMS pack de traduction multingue
+Boom is an application which is intended to crash, like the Bomb.app application of the first Mac OS X betas. 
+An implementation of a Stock Market in Minecraft. This is the standalone server.
+Time-based statistics for Git/Hg repos
+download, parse & store data from LR PacX ocean crossing
+
+Template for Lepton with look&feel of Kde4
+An implementation of Reiner Knizia's Lost Cities using node.js and socket.io.
+Analytics Aggregation Engine using Redis and Flask
+
+
+statistics system with realtime and trend view. 
+Some websites disallow pasting into password fields. This Safari extension fixes that misfeature.
+A Spotify app that plays a random track when you press a button
+Cold State Web Page
+A web-based program to create and edit family trees
+Serves CSS, javascript and images using rack-combobot to combine Javascript. 
+Track DOM changes made by jQuery
+lit python implementation
+Tesselate is a jQuery plugin to create grid-based (Nivo Slider-like) image transition effects
+Inventory Management and Point of Sale System for IEEE
+
+FreeSWITCH Dynamic config files served by Innate + CouchDB
+A generic template for starting a new perl script...
+Easy to use HTTP requests for iOS - subclass and implement up to 4 methods.
+A new widget to be used with plone.app.relationfield
+Automated tag file generation and syntax highlighting of tags in Vim
+Fathr is a open PHP Framework with a CMS built on top - But you can of course just use the Framework itself. It is inspired by Codeigniter and CakePHP.
+Topgun, developed three years ago as a spare time project, is an android based jet game. You control the plane to dodge the bullets and try to survive as long as possible. I created the game four years ago started without any knowledge in android developm
+
+The mysql connection pooling module for a prefork server (like php). You can limit the number of connections by shariing connections bewteern a parent process and child processes
+
+This is a starting point for creating a serve prototype using the less framework.
+Some javascript to help generate your next band/company name
+JsLint Checker with JsLint4Java for Sublime Text 2
+
+Easier interface to create dashboard widgets in WordPress
+Pf4wp is a framework to help develop plugins for WordPress.
+A blog extension to N2Bootstrap
+
+Some reusable codes for iOS daily developing
+Tubalr's official iOS repo.
+A set of helper functions I've been using in various XCode projects, abstracted for great good!
+C++ Template Meta-programming Prelude Implementation
+Python script for breaking or atomizing OAI-PMH repositories into simpler text formats
+Kaltura video plugin for Elgg 1.8
+Upload data from standard input to Amazon Glacier. Save metadata on Amazon SimpleDB. Needs more testing and documentation.
+Builds a resume from your LinkedIn profile using JasperSoft's tools
+Open Source CRM
+Bash ENV scripts
+a ruby client for ovirt
+Pure Java implementation of ONCRPC/SUNRPC
+Depixeling tool, based on "Depixelizing Pixel Art".
+A PHPUnit test case class with additional functionality.
+Dotfiles for Mac using zsh
+Altai Web GUI
+Open source XML MVC framework for eXist-db
+
+Experiment for using Nancy and WebKit.NET to create a windows desktop application using web technologies.
+A model attribute enums plugin for Rails3.
+A  PHP Library for making OAuth1/OAuth2 Request.
+A text adventure game
+Space fleet programming game
+2nd version of cirru-editor
+Some useful utilities (bash or python scripts) for some routine administrative tasks
+source code for shiplington.com
+
+PHP simpleSAMLphp REST API for managing metadata
+A Vagrant+Chef setup for Ubuntu 12.04.1 (Precise Pangolin). Comes complete with the latest and greatest for PHP Development
+A helper library for cgkit This provides some useful function to handle BVH animation format with cgkit
+The combined context and utilities of an HTTP request and response.
+An implementation of the LiveReload 2.X server in Node.js
+
+Projet Java, simulation d'une fourmiliere
+a darkf implementation of blockeduser's terrible vm
+This program "appelizes" your music collection into a separate directory, by recoding FLAC and OGG and hardlinking all the others.
+
+Audio visual tool - openFrameworks
+Fast and easy task runner for Rails. Got work?
+
+A DocPad Skeleton based off Twitter's Hogan.js GitHub Page
+Genealogical Research Support Tool
+GeoTrellis is a geographic data processing engine for high performance applications.
+Some programs I wrote to make YAPC run a bit more smoothly.
+A extension for Cloud9ide for ZenCoding functionality.
+PhoneGap Bonjour Plugin for iOS
+Man in the middle tool
+Debianization tools
+Provides useful features to Doctrine 2 projects
+
+Windows version of libmincrypt library
+SOM 3.2 XPO Trigger Class
+slackbuild scripts for several packages
+Implementation of the game Can't Stop using ServiceStack
+A node.js app that dynamically builds and serves JavaScript files
+poky for translation
+
+Online documentation for freistilbox
+A javascript based database for local memory based storage of data or resources
+code for setting up Planet Python India 
+Implementation of OAuth2 in JavaScript using CORS
+This daemon enables you to make easy backups of your different systems. The clients are basically platform independent - as long as they support rsync.
+Ethernet client with Dhcp and DNS support
+
+just grab it from corporates...
+
+
+ai intro assgn 1
+
+A multi user realtime canvas application using Node.js and websockets using Socket.IO
+Used to create wrappers and proxy libraries for Windows binaries.
+
+rails template using bootstrap from twitter
+
+Rump client for iOS devices
+
+
+An emacs minor mode for developing in Ruby on Rails
+Party component
+data mining with python
+
+
+One finger touch in the browser with Javascript - get direction, distance and speed of a swipe from both mouse and touch events.
+open-source app for managing generalised "like" lists
+
+Implementation of a cxf proxy web service with service authentication using the Mule Spring Security Manager
+Rails Excel strategy to write xlsx files through writeexcel gem
+Source for my blog.  Blog hosted on GitHub Pages at msgehard.github.com
+JOverflow is a remake of a very old AMIGA game called Overflow.
+
+Haml to erb conversion tool
+tv guide with fast loading times
+
+Micro animation framework using requestAnimationFrame with setTimeout fallback.
+
+
+Matches translatable messages to text extracted from program screenshots
+
+A Google Plus extension for docking YouTube videos.
+(perl) - Make your module be a dummy - optionally
+Javascript Library for ShowClix Search API
+HTML Word Counter for Coda
+The rails app programmed from the book
+Like Buzzwords, without the buzzwords
+Stream of consciousness web app decouples act of writing from content by denying you the opportunity to fix typos, see most of what you've written, or view any posts less than 1 hour old
+A blog application for django projects
+Encargo de RBZ
+The pit system used by Team 4977 for scouting/LordScout server
+Notes management program written in python pygtk2
+
+A supybot module that interfaces with Last.FM.
+Pong for 2 Players displayed on a LoL Shield for the Arduino microcontroller
+Remote backup tool written in Python 3
+Ruby gem that scrapes gulesider.no. Can be used to lookup phone numbers
+
+Android build tools (ant tasks)
+Silly app for getting info about your age
+A chess engine I wrote some time ago. I like chess and this seemed like a fun project. The engine isn't complete, it doesn't know about pawn promotions, and the AI isn't all that strong. But it does work, to some extent.
+Todo.txt manager in Node.js
+Black Jack like game I made to learn Java
+A sample webapp and acceptance test project that demonstrates some features of REST-driver.
+Team Management for Distributed and Offshore Software Development with MongoDB and .NET
+A ZK component like JQuery Chosen
+Code (prototyping) for a research project concerning the information capacity of the human motor system at HIIT.
+FastPdfKit extension to add any content and interactivity over the page.
+
+GUI engine
+Ruby approaches to Project Euler
+This module aims to provide protection from aggressive clients by blocking or reporting them with a script.
+For finding "points of interest" i.e. waist, hips, top of head, bottom of feet, etc. where measurements can be taken
+
+
+c++ port of truetype-tracer (font to G-code/DXF converter)
+component tester
+Recipe Project
+
+
+
+Ext for PHP
+use flask on google app engine
+A code igniter module for role based access which can also be based on groups
+Liquid theme for Rusic's help buckets
+Leiningen project to try Clojure code
+A GWT application that allows people to create stock portfolios and tracks them.
+Library of commonly-used helper functions for Haskell
+Add the jquery-fancybox jquery plugin to your rails 3.1 app.
+Sikuli script to autplay the netflix "next episode" button.
+Enhance the boring New Tab Page with widgets!
+Generate chorales from the bach corale dataset
+Translation Error Rate (TER)
+
+Tabletop engine in OCaml
+hacky Scala/Jena blog engine
+A script to keep track of files, check integrity and find duplicates
+Third version of MobileMedia implemented using COSMOS*
+Parallel Primes (P^2): a parallel implementation of a prime number generator
+TerrariaServer with client code removal and additions from the TShock team.
+
+Some useful extensions to ASP.NET MVC
+rumble all-purpose data butler
+Dev repo for b2g js ril while I figure out where to put it in m-c
+A concentration / matching game written for the iPad
+Supports all three PS3 controllers via Bluetooth using the USB Host Shield from http://www.circuitsathome.com/ - This is the old version of the library. The newest one can be found at the following link: https://github.com/felis/USB_Host_Shield_2.0
+Qt4 gui application generating plants using mathematical functions
+Somewhere to keep any Jquery plugins we develop.
+django based framework for rapid deployment of insurance products to the web and to facebook
+
+Extension for Google Chrome to keep track of your great non-smoking life!
+
+
+
+Open Source XHTML, CSS, PHP and Javascript for WordPress sites built by Loud Feed
+A Responsive Boilerplate Theme for WordPress
+
+An experimental alternative take on a graph library for Haskell (inspired by fgl and the Boost Graph Library)
+Unix config file editor written in javascript
+A disk cleanup tool that thoroughly scans your computer for unnecessary and invalid files no longer being used by the system. Removes items missed by Windows Disk Cleanup and popular tools like CCleaner.
+
+Backgammon with AI in java
+simulates media queries to run javascript code
+A distributed object language for node.js with multiple backends (e.g. redis, mysql, ...)
+autotest-growl for pure network-based growls
+
+Chat application that doesn't require login or anything installed. Written in Node
+Nette component for fast creating mini calendar 
+Unofficial campaign creator for The Battle for Wesnoth. Written in Python
+jquery ticker
+A tool to help people who take medication keep track of it. You can buy it for $5 on my website or if you're geeky enough, build it from source!
+In this challenge you will work on a simulation problem with a hydrographic theme. You will be asked to progressively fill an underground cave with water. The cave sports a particular topography of rock formations that will affect the way in which the wat
+an iRODS implementation in the Twisted framework
+backup from inception with photos update but disqus distorts
+
+
+Advanced music shuffle library
+
+It is the module for Joomla! that add social media/networks buttons on your site.
+Listagem de produtos
+
+
+Sample Application
+
+Deck of Cards for Android
+
+
+LocationReminder is an application where the user can store tasks connected to a specific location.
+A game which is a combination of a Fruit/Slot Machine and a Puzzle game where matching patterns is required
+\N
+
+UTSA Vizwall Website
+
+Karpinski Practice Website
+Use markdown for outlining in vim
+A Makefile template for compiling web sites
+Tools On Python
+simulacion de perfil en flash
+
+
+Hacky tools for downloading public Proust stories
+C# library for running cron jobs on .NET
+Jeff Doolittle's github pages
+StratoSpera BSM-2 board schematics, firmware and web tracker.
+
+Oil Standard is a greasemonkey script that converts all US Dollar prices on every webpage into the equivalent value in barrels of oil, with a live price feed from the New York Mercantile Exchange. A commission of Turbulence.org.
+A BrowserCMS module to integrate a google mini search appliance into CMS site.
+
+A jQuery Plugin that allows different objects to move in a parallax motion around the page as it is scrolled.
+Control principal y control de actitud
+The Now app from Beginning Android 4
+bash history collector.  Web (php/mysql) component plus bash functions
+Machine Learning (6.867) project on differentiating written dialects of a language
+Network Programming Assignment @SFC, 2011f
+
+game idea implmented with twitter/ruby
+Group video organization and discussion tool
+A plugin for Melody and Movable Type that allows administrators to publish a site to a different directory for the specific purpose of creating a version of the site appropriate for offline distribution (e.g. a USB key fob)
+C++ week 5-10 miniprograms assembled to a single X-code project.
+http tunnel
+A tool to generate PlantUML source files from java sources
+Tool to assist in the creation of ODF files, template-based for a magazine project at school.
+A math library for graphics operation providing vector and matrix algebra and some other useful classes for describing colors, dimensions, points and rectangles. All classes are available in mutable and immutable variants.
+
+This plugin allows you to execute custom scripts when you POST a Redmine's URL
+Profile (aka. CV, Resume) generator for IT freelancers (multi-format, multi-language)
+A chat client I am building from scratch.
+A Manager theme for MODx Revolution
+NXT-PLC: PLC-like distributed control system framework for Lego Mindstorms NXTs
+Plugin that allows Uni to also create Lectures for a Course
+A win32 console app that watch keys in your registry and change them back if something update them.
+Extensiones de la anterior
+An android app made for fun
+A server using source port of  UDP packets to transfer a message payload 
+Final project for CS 230 Data Structures.  Keeps track of all the books and patrons in a citywide library system.  As of the last Dec 15th commit, I met all my goals for the class project; I've spent too much time on it to give it up that though.  Look fo
+
+Eclipse RCP version of pms-optical-shop.
+A practice management software suite for managing patients and orders. 
+Library for managing public-key-based identity
+Tool to facilitate script combination and minification
+Importing CSV data file into an iOS app via email attachment
+files/theme setup & plugins playground
+A slider plugin for jquery
+
+\N
+Parse and extract data from Tracker files in the browser
+Calibrate a camera in C++ using OpenKraken. An exercise for IMAC (Engineering school). You select identical points in different photographies and the application finds the coordinates in 3d of these points. Useful !
+Site perso
+SimpleErl is the simplest yet flexible and managable static site engine. Written in Erlang, executed by YAWS.
+Your task is to write a Logo-like program that is capable of producing ASCII art. You will be provided with an input file containing a list of commands which when parsed and executed should produce an ASCII drawing.
+
+Esto es una prueba de github
+
+A python module to work with molecular data related to Transcription Factors
+Find out which of your friends are "sneaky"
+semestral work for MKR course (CTU FEE mobile and cooperative robotics course)
+Projet du cours de compil
+
+A geographical content management system as a DeepaMehta 4 module. A rewrite of Kiezatlas 1.6.
+
+Gravitar component for Appcelerator Titanium
+Provides a global persisted key value store for BrowserCMS that can be used to keep configuration key value pairs
+Submits your clipboard text to PasteBin.com and gives you the URL to the paste, doing everything without requiring you to open your web browser.
+Script to send SMS messages via http://unisender.com api
+Set of components used to create a complete CMS dashboard.
+
+
+
+Scripts to install HPCC deps for build.
+One-click switcher between Yandex and Google SERPs
+Backup of all packages to install  a server with PHP, MySQL, PhpMyAdmin, ...
+
+
+JOMC is an object management and configuration application programming interface with corresponding reference implementation and tools for managing object management and configuration code.
+Mac OS X Diagnostic Script
+
+Various projects, mostly including hardware design
+Server for EGON NPP simulator
+
+Performance Test Server Component
+Juego de poker web
+Rails Development Toolkit
+
+hxtml is an HTML/CSS parser + renderer written in pure haXe
+C# library for sending and receiving data over HTTP(S). Or a peon to do your HTTP bidding.
+
+flood module for coscms
+
+
+AsyncEventEmitter is an asynchronous implementation of EventEmitter found in Node.js
+jQuery Select Box Plugin
+A internal ruby DSL for Quizzes design
+iOS Structure (iStructure) MVC Framework
+Plataforma de entrenamiento de Ajedrez
+
+Pull information about a Code Repository into your PHP application. (Okay, really just Git for now.)
+
+
+
+PHP / Zend Framework sample code
+Utileria para emitir Comprobantes con CBB
+Git hosting tools
+
+Minimal Lisp Interpreter written in Python
+
+New interface for the seedbox and a content network
+The Offensive (Web, etc) Testing Framework (aka owtf) is an OWASP+PTES-focused try to unite great tools and facilitate pen testing
+Generates a zipfian distribution from the word frequency list extracted from a webpage.
+A website for travellers.
+Vim-like keybindings for Kanbanery
+Howto use aspects with Spring Data Neo4j
+A simple, lightweight, flexible and multi-purpose (X)HTML/XML Web scraper to be used in Python solutions.
+Application for the Department of Recording Arts (Indiana University)
+
+
+
+Controle de eventos e atividades do M
+NOTE: Has moved to: https://github.com/amplify91/RAW-Gdx
+A 2d jump'n'run game which auto-generates its worlds
+
+Chrome extension that runs on WordPress.org plugins pages.  It adds a link to the plugin's SVN repo below the .zip file download link.
+A library supporting an Smalltalk translation of ML-style sum and product types, with Scala-style extractors..
+
+Our Server for the Warlords of Hell Runescape Private Server Project Developed by DarkSlayerz (Mostly Server work) and Three Omar (Mostly Client Work) and WTF Ur Zerk for some help and Harlan is getting he's credits aswell.
+Template for a Noir app for Eclipse and Counterclockwise
+Alarm developed code for the 2012 FIRST season
+A GUI Application for Linux that show SMS Messages from the SMS Message Backup Android App
+
+Next version of apt-spy
+A second try at the Sequtus engine
+\N
+\N
+Desktop application for jugchennai.in
+Node.js data and content management platform with plugin and component architecture
+School related work
+
+Cluster Control 2
+Python helper classes to access CouchDB
+
+javascript army list editor engine for all ArmyCalc apps to use.
+WordPress geotagging plug-in
+A memory game, which is very similar to simon. Can't miss one or you will lose!
+Code to run the custom Two Photon microscope built by the Functional Optical Imagain Lab at University of Texas (BME dept)
+Boilerplate setup for App Engine using Go
+Motivated to not be a too damned time consuming activites, I create this framework implementing Microsoft IUI style application. Focused heavily on database desktop application.
+universal vim plugins
+
+Quick scaffolding of new .net class libraries and web projects using PowerShell.
+A web based powerpoint presentation project using impress.js library 
+
+Visit the website for more info: 
+
+Mozilla: Common BIPostal storage libraries
+[WordPress Plugin] Move your Pages/Posts/Custom Post Type admin links from the sidebar to a Content menu that nests everything where it should be
+Tempi is a dataflow programming C++ library aimed at multimodal sampling.
+java based postgis visualisation engine
+
+
+AI android app
+\N
+Rdefs is a tiny Ruby script that extracts class, module, method, attribute definitions from a given Ruby source code.
+Python implementation of Efron, Turnbull, and Narasimhan's R function locfdr v1.1-7, which computes local false discovery rates. See http://cran.r-project.org/web/packages/locfdr/ for more information.
+grails application for the storage of a/v metadata
+Various tools and configs usable for OpenIndiana mirrors
+A set of utilities for the play! framework
+Web API server which expands multiple shortened URLs recursively.
+Bukkit Dispenser Loader plugin
+
+sblgnt greek data api written in go
+Research project implementing a open source DCXP solution for the MediaSence-framework.
+The helper is a library where a specific function can do in plug and play.
+Python API for accessing Aleph library systems
+Contented aims to be an exceptionally stable and well-tested Rails app to serve as a basis for launching new apps (particularly ones that need content such as a blog, etc.) quickly without having to reinvent the wheel every time.
+This is a php command line tool for getting data from www.getclicky.com. It uses the Clicky API and downloads the data in batches.
+A dead JavaScript framework I wrote ages ago.
+Easy Attributes for Ruby
+Tools for the role playing games master.
+Advanced Calculator Gnome Shell Extension
+Paster template for creating your pycms site
+Plugin to ban a player on death
+A static-file Markdown blogging engine.
+Turntable Plus - a fan-made Chrome Extension!
+Client library to Solum API. See: https://wiki.openstack.org/wiki/Solum
+Providing consistent APIs for interacting with your DirecTV Set-Top-Box (STB), because someone had to do it.
+TV notification service. Reimplementation of seriesly without Google's App Engine or Django
+A JavaScript Development Tool
+An Etherpad based on node.js - Our goal is to make collaborative editing the standard on the web
+Turnitin Direct plugin (version 2) for Moodle
+LINQ-like access to databases (Oracle XE support OOB)
+A set of C++ libraries based on different premises than the STL/Boost libraries
+\N
+A command line tool for contact management, in python, with optional git-syncing
+The Solidity Contract-Oriented Programming Langauge
+A Gravity Force / Turbo Raketti / Thrust game clone and platform
+HPC clusters data guzzler for usage statistics and metrics
+Task execution system (general)
+Emacs.d setting for HTML / CSS / JS programming
+client for idepositbox service
+Java Library for FullContact API
+A python script which leverages git to help you organize and archive your openFrameworks projects.
+An extension of the mustache text template engine for .NET.
+Python script to convert SVG to points, and then to CDFs and the like.
+[OBSOLETE] Create your own framework on top of Symfony
+A one stop shop for collecting data from a network device using NETCONF or SNMP
+Raspberry Pi Home Automation System
+Website source
+JCore is a Proof of Concept and the code name of the next PressObjects version
+
+This is a prototype iPhone app that checks you in and out of the Lunatech Office.
+Maven useful plugins development repository.
+
+A playground app for testing and live rendering of Twig templates
+Solutions to question in Crack Code Interview 5th Edition, written in C# with MonoDevelop
+Python library for caching
+An open-source Airbrake read client for iOS.
+ROS node that acts as a proxy server for Interactive Markers, caring about message demultiplexing and some tf transforms.
+Boilertek is a generic scafolding tool with some customization options and a user-frendly command line interface.
+iOS lined note textview. It's a quick start for those who plan to create a lined note in iOS. It uses block based call back for menu actions in note.
+
+Scripts for extracting and plotting statistics from an IMAP account
+Sinatra::Mapping extension is a minimal module that is useful for create map names for Sinatra web application.
+Gaelyk plugin implementing a reusable administration interface to browse datastore entities
+Statistical Machine Translation implementation with Python: especially IBM Model1, 2, and phrase-based machine translation.
+OpenDocument Text to DAISY format
+common components used in yii framework.
+IRC java bot in use on AndIRC
+Arduino Libraries used in the RoboRover project
+Excite: External Citation processor. Use LaTeX like post-processing to organize your references in a word processing document.
+CakePHP 2.1 plugin for easy REST JSON API
+A custom Scrum process implementation
+A C++ library for numerical evaluation of cosmological quantities.
+pentest floating repo, based off git submodules), and some useful scripts i wrote
+Parser written in python generating Mininet python topologies from Internet Topology Zoo .graphml files.
+Use WaniKani's (http://www.wanikani.com/) API in your Ruby applications
+A CGI script to manage a directory full of download files sorted by version and types
+A Google Appengine project template using zc.buildout
+tinyproxy - a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems
+
+
+Make your sharing widget! Sharrre is a jQuery plugin that allows you to create nice widgets sharing for Facebook, Twitter, Google Plus (with PHP script) and more.
+create laravel
+This is a cross-platform, CUDA-based C++ implementation of the framework proposed in our paper "GPU Accelerated Time-of-Flight Super-Resolution for Image-Guided Surgery".
+
+[UNMAINTAINED] A JavaScript type checking/casting library
+The UI Automation COM-to-.NET Adapter makes it possible to use the new Windows Automation API 3.0 COM interfaces, with their improved reliability and performance, while still using the same System.Windows.Automation classes as in earlier versions of UI Au
+Simple-to-use C/C++ library to play PC-98 PMD chiptunes
+1-st psd to html on github
+Declarative data-binding for React based on MarsDB. Inspired by Relay
+LocalStorage storage implementation for MarsDB
+LocalForage storage implementation for MarsDB
+This is the API Evangelist reciprocity provider research site.  
+app academy prep blogger
+Wrapper script and config files to use neovim+konsole as a normal gui text editor
+sf-ntp extension periodically runs ntpdate program to synchronize the local time on current machine with a set of trusted time servers.
+This is an additional module for Stab which lets you use Github-comments on your own hosted copy of Stab.
+
+An arduino-based sms notifier for postal mailbox
+Web App to find and share recipes
+Quickly add bulk cards to your PucaTrade Haves list.
+Liferay FMS Portal Theme
+Builing a Hobby OS, with http://intermezzos.github.io/book/
+Re-creation of the Gliese 876 system
+
+A helloworld application written in Java using the Maven build system
+powershell scripts
+
+Full-stack web app inspired by Meetup built on Rails, React/Flux, jQuery, HTML/CSS
+Android List View which shows Title,No. of Forks and No. of Stars of ur git repo
+A set of utilities
+The dot grid planner builder using react (and devise)
+Framework to print data in a text table
+Knockout validation framework. Do one thing. Do it Well.
+A scaffold to allow the quick development of new Janus applications.
+helper for tkinter
+An API server template written in TypeScript 
+Sums up all your steam transactions given the generated HTML of https://store.steampowered.com/account/history/
+AI agents that are built based on the game Antics, used in the AI class at the University of Portland
+Java backend for shortURL project.
+Java SpringMVC frontend application for frontend-shortURL.
+A collection of tools for internationalizing Python applications
+An application for tracking the movements of your mouse on the screen to see how much you eventually have covered.
+ xmonad.hs, custom modules, xmobar config, etc. 
+A pokemon game made in javascript.
+Particle Photon microcontroller code for sensing and publishing moisture and temperature data with an analog moisture sensor and a DS18B20 temperature sensor.
+Blaze select input component to use with the Inspinia Bootstrap Admin Theme
+PDF File Fixing Tool
+Generic skeleton for turn-based games written using Cinch
+websocket helpers for rails, http://maxpleaner.github.io/socket_helpers
+Securely upload temporary files on your server
+Zomcure website template
+Redirect images url from http to relative path
+An engine that keeps track of concurrent edits on a file
+A Sweave / LaTeX template for Transportation Research Board Annual Meeting papers
+new project site
+:watch: Read news abstracts on your Pebble, more feeds coming soon.
+i made a website i'm a CS now!! 
+Remote copy of folders/files using socket.io
+Plugin for GitBooks that provides analytics (via Clicky) for your documentation.
+A dict-like object supports recursive merge operation for python
+Generate a podcast RSS feed from files stored in Azure Blob Storage
+The W3C Geometry Interfaces implemented in JavaScript and polyfilled.
+Website for F2Pictures
+randomadventure is a really badly coded Python script, that will pick a random episode of Adventure Time and open the episode for streaming, using a popular streaming/file indexing website.
+Second version of the SAFE Network's Potential Apps Website
+python module to to interact with the Pi-LITEr 8-LED Raspberry Pi shield
+LvL 99 Lua scripts backup.
+IRC Bot written in Python 3 with circuits
+Swift code projects for Code Path
+
+rancher-agent for RancherOS + SpotInst.com with a #cloud-config user data.
+Android nutrition app that generates food equivalencies.
+Tool to make display overrides files for OS X custom retina mode
+Goes through each row of all child csvs in the a directory and removes ones that match a regex.
+
+Text editor in assembly language
+This android app is to remind good things which you have done in your life.Later your mind will be happy after reading those good things which you have done.
+Final GBA project for CS 2261. A tough Super Meatboy like platformer that also adds dimension shifting to the mix.
+A school notice board type thing.
+Python program that plays Boggle
+Python tricks and tweaks presentation files
+This program takes in an array of stock prices, one for each hypothetical day and returns a pair of days representing the best day to buy and the best day to sell. Days start at 0.
+A python 2, openCV project that analyzes how busy a location is through image or video analysis
+To be used with the mobile quiz library
+Very easy to use image loader for swift
+Yeoman generator for an isomorphic JavaScript library.
+A C++ conversion and quality overhaul of some android tools used with RockChip image files.
+
+Hybrid Mobile App using Visual Studio Tools for Apache Cordova + Kendo UI
+A list of recipes to testing your React code
+Horizontal and vertical scrollbars designed for the canvases - specifically, the tkinter library of Python 3.5. However, if the tkinter specific commands were changed it could easily be used for other canvas based objects as the theory behind the GUI is t
+C# classes for generating SemanticUI elements
+A program made for my school CS class that allows you to build a logic gate circuit and execute it using the console, written in Java.
+Unofficial tool for IO-DATA HVL-A2.0
+local-nginx docker container with everything built locally
+
+Android Studio Game Development by j DiMarzio
+A MTG Life Total application for Android.
+Markdown to PDF conversion server on node.js, POST *.md, retrieve *.pdf result
+Loopback Admin Component
+Log when you work during the day.
+A Haskell API to google Sheets 
+
+Implements Kruskal's algorithm for finding the Minimum Spanning Tree (MST) of a graph in Racket (specifically in Advanced Student Language). The graph API is also contained in this file.
+An Android Mobile app produced to work with the MEMI bracelet
+A turn-based strategy game spanning multiple generations.
+Open Source DLP/SLA Host control and slicing application, inspired by projectlayer, using Slic3r for slicing.
+Return a clean list from a comma separated values string
+TensorFlow scripts for evaluating generalization capacity
+Random snippets of HTML (et al) for very little, if any, reason
+Barebones Symfony3 framework - a micro framework which can grow into a full framework
+Helper provider to assist in general crud functions of a restful controller
+Emulate In-memory storage like database
+
+
+A Nukkit plugin which adds some useful commands in game like '/sethome'
+Test-Driven Development, from the very beginning, with Python (Django app)
+Book reader that stores history and can plan
+GitChecker is an open source tool which aggregates statistics about Github projects
+Using PHP to generate a social network web application; MySQL was used in the back-end.
+
+
+An intuitive, action-based, chainable helper library for Protractor
+import data from excel or csv and calculate using statistic function
+A CCNet trigger plugin created to respond to Github's web hooks.
+Plugin for unicode character entry in Sublime Text, targeted at LuaTeX.
+UNIX-like OS written in go
+A Google App Script to read the movie year and title from Google Spreadsheet and fetch the metadata for the media through the OMDB API
+Web development with careerfoundry
+Source code for "Unsupervised Lexicon Discovery from Acoustic Input ", Lee et al, 2015 TACL
+Play Mafia Game on PocketMine Server!
+
+A lightweight transmission torrent client docker image.
+Game created for a 48 hour game jam with friends in June of 2015
+Parse react source file and generate html or markdown table
+
+EASI Programming Language Source Code
+Mac OS Installation Helper is a tool to that can help you install Mac OS to any supported laptops.
+fonts to use with athena based projects
+Himesama is a YhavaScript library for building user interfaces.  Its just like React, except components re-render in response to a single global state (like in redux) rather than states distributed to each component.
+UIkit components built with React (Meteor package)
+Log Combiner & Processor project in perl for VOIP client log processing  
+PHP library for working with BillPlz API
+Win the Clue board game every time with this logical reasoning deducer. Written in Ruby.  
+reindent code, whilst preserving git blame
+Installer for the open fpga toolset for Lattice processors. This tool has been created so that it can be translated to any languages.
+Redactor plugin for copy formatting of text in editor and applying to another text in editor
+Airbitz CSV export to Quickbooks QBO/OFX file import format
+code for game, codeCombat.
+Library to create UI elements for Browser based games
+Locates all files in directory hierarchy that match some criteria
+InsomniaX - Keep your Mac awake the easy way
+REST API for scraped J! Archive data (Jeopardy categories & clues) (node.js)
+A Telegram bot that uses Markov chains to learn to speak from a chat.
+System made to play the game Street fighter II from the SNES based in a Neural Network Machine Learning
+Generate makefiles for projects with subfolders
+Python project using LastFM and Spotify APIs that allows user to create Spotify playlist with their LastFM loved tracks.
+iOS Attributor
+less than realtime game library for the web
+Expose matplotlib figures over http
+A RESTful API + websockets framework for managing containers over a set of Docker Nodes. 
+FreeCodeCamp Basejumps API projects
+pipsi-tool is set of helpers for pipsi.
+just for fun, "double color balls" lottery game prediction. use perl fast ANN library.
+
+Transform and inject resources into HTML template.
+This is the project site for API monetization
+Traffic Lighter Source Code for Wokshop Addon
+Instantly Encodes/Decodes in and out from base64 as you type.
+SAKURA Cloud API client for Go
+Mariadb docker image with some customizable variables.
+Generates Mazes using Algorithm from Data Structures
+Syntax Highlighting support for Environment (.env) Files
+A jekyll template made to serve content in JSON format. Administered your content with Github or prose.io and deploy your JSON API to Github pages. 
+This is the project site for API evangelism.
+A free framework for Unity that will help drastically increase the development speed and feature set of your games.
+
+
+I implemented the game breakout using C++ and the X window library
+Plethora is an open-source PHP framework which gives a set of tools to create web-applications.
+The data upload tool for SwitchON, based on the JQuery File Upload and the Flask File Upload tool.
+A Command Line Utility made in Python that downloads subtitles for a Video File using its Hash and then opens VLC Media Player with the Subtitle Loaded.
+Front-End JavaScript Frameworks: AngularJS from HK University
+This tool will help you to generate a Config.ttc file with your own connection stuff.
+Old school project, for a connect-4 solver and AI.
+A Facebook word cloud game 
+This minimal Arduino based clock was created to replace our faulty bedroom clock until we purchase a new one :P
+Flask-powered responsive version of the web site for Curves+.
+Server for storing touch data received from Android devices with touchlogger installed on
+
+Python application to take images from Raspberry Pi camera(s) at configurable intervals - ideal for time-lapse photography
+A NLP module that reads local files (.txt) from a folder or webpages (.html) from a bookmark file and displays the 20 most popular words, indicating the interests and e-hobbies of the user.
+Pyed is the abbreviation of Python Event Driver. It offers user a rapid development for a event system using tcpserver, timer etcd
+Aqua Theme for Bludit
+reading and processing file system trees in sbt console
+API for mobile application
+
+Android Application for TotoCafe 
+A perlin for Java, include several types random generator.
+movie converter script for your ipad based on ffmpeg
+A library useful to implement BAAS (Backend As A Service) in Java (strongly based on Spring)
+A Nominet-compatible EPP client written in C.
+User & Admin session in PHP
+type.js - a wysiwyg editing framework
+Back-up to your Stack storage
+Translation module for meteor astronomy
+This is the second angular application based on sports store delivery
+Smart grocery list manager in Kotlin for Android
+A Java application for finding Polydivisble numbers
+vk Document app, help read, look, change document in your android phone
+Wordpress Theme for BD Guide
+rawgit button extension for firefox
+Play steam games inside a docker container.
+Java-API which helps programmers to create Kafka Consumer and Kafka producer and Integrate with their apps easily
+Contains whole scripts which has been made by me
+A Super Mario project developed in C for the university TUHH in Germany
+Use your Xiaomi MiBand for Geocaching!
+
+https://tools.wmflabs.org/contact
+developed using PHP/MySQL
+Migrate JTS version control from SVN to GIT
+A backup tool for GitHub repositories
+Web scrapper on nodejs platform
+
+Interactive visualisations of the data available from the Indian government.
+Bluez5 and PulseAudio in a docker for recieve and send sound via a2dp
+Provides Syncthing Debian packages from <http://apt.syncthing.net/>.
+A command line tool for managing font data on a single svg file
+A Laravel Application for storing all your contacts
+npm install react-native-pageview
+PHP package for encrypting and decrypting files
+Reads your xbox one gamer tag video rss feed and displays the videos and screenshots onto your website. You can now save images and videos now
+rails-dev docker-image w/ related gem bundled
+Sponge plugin that handles some things for the server The Unknown.
+Pin entry component for react-native
+A tool for managing live and recorded youtube videos between different users
+Common Plugin for DotoQuiz
+A Python bot that queries every AppID on the steam store for given passwords the user enters for the Steam Winter Sale 2015/2016 ARG
+Check certificates in a java keystore without having to know the keystore password
+Read CERT output files in one directory, calculate the overall means and convert the means to a csv file
+OData server on top of MySQL
+Google App Invites for React Native
+A Command Line Utility made in Python for Windows to Rename the Song as "Artist Name-Song Name" and make the first Google Image Search Result of "Artist Name-Song Name" as the Album Art of the Song
+
+
+Generates new pairs of randomly generated Sudoku puzzles and solutions
+The editor for the WinBox engine
+Javascript based web app uses d3 library for representing languages used by user on repositories
+Node.js module to manage SSH Configuration files in a sane way.
+Create a Unix-like permissions string from an `fs.stat` file or directory `mode`, eg `0777`to `-rwxrwxrwx`
+
+Just a quick flask site. With a postgreSQL db (hopefully). 
+WordPress site for http://www.schome.org/. License required for theme (templatemonster.com 52176).
+A Google Chrome extension for WorkFlowy to add markdown support and syntax highlighting in notes
+BZFlag map development tool
+Just Another Competitive Scorer. It takes input, filters the files to be checked, and Scores them on Ten  
+Experimenting with string escaping and byte string -> text encodings
+Robot Framework Test Case Editing and Running Development Environment with Web.
+A python script to retrieve current weather and forecast data from openweathermap.org for your current position as well as any city arroudn the world. The Data can be loaded in a conky config file.
+ToDo List using MEAN Stack + AngularJS
+Ionic component for collapsible comment threads
+Mirror-based reflection for Objective-C
+
+A helper for organising Our Christian Life And Ministry Meeting
+Chatbot plugin for Indigo Server
+Converting Meteors Todo tutorial to typescript while using react for rendering
+Blog develop by php
+[0.0.2] Extract emails from a text
+scripts and configuration of the ledger-cli
+
+Tool for generating random api response based on schema
+
+Automatic docker configurations for osx
+Vue BEM Directive - A vue.js directive for automatic BEM class generation when creating components. A very rough example can be found here: https://jsfiddle.net/at1h1z1z/6/
+
+An HTTP download server optimized for podcasts
+Chatango Chatroom And Pms Client
+movableui theme
+A django app to be used with django_netjsongraph to show network stats
+Application for taking notes, written in rails.
+Library to connect to Stanford NER local Server, send in the Raw Text and get back Entity JSON
+ruby json server
+Cross-platform notes application made with Electron and Angular.
+A framework for pragmatic web systems development
+Cloud Block Storage as a Service
+express view engine for partial react views
+tools for playing streams and embedded videos live on the raspberry pi.
+Morra game built for a project in the university
+
+HTML5 Clock jQuery Plugin
+Final content of the system of the group project
+Web-based app to systemacically review your queued tasks in Todoist task manager.
+An authentication server for PostgREST
+Some guy wanted my vesa code, so here it is
+Automatically created docker image for php
+
+A JavaScript library to work with weather information and forecasts data provided by Open Weather Map.
+A storage application for malt and hops built in Django.
+Android implementation of Conway's Game of Life using AnimatedVectorDrawables
+ A Traybar Application for WhatsApp written in C++
+Ruby JSON-only client for QuickBooks Online API v3. Built on top of the Faraday gem.
+Android App to display Google Calendar on a Nook eReader
+This is the repository that holds the application that we need for authorizing users for our comment-app.
+[0.0.2] Extract plain text from any kind of document
+Single page angular web app for EigenMusik.
+A helper Android library to extend a Map class to make it multi-key.
+Parses csv and creates a plot of all the points. Currently very specific to the table format I'm using.
+Blog system built on Node.JS using LEAF framework for front end design.
+Lightweight framework for old-school RPG GUI in web!
+GUI/Software for collaborating with a team real-time via Socket.io/Node.js, designed for tablets in mind.
+This is about to bring all educational arena in one spot.
+staging website
+Quick & dirty, but restores URL from a given file (pinned tabs)
+
+
+A python program to organize cave topography data and create maps
+TuxMath is an arcade game that helps people practice their math facts.
+A openwrt build environment using docker
+
+Blank gulp-based project for fast start
+Arch install script
+A subtley elegant ghost theme
+You don't know Jack.
+An implementation of Ant Colony System in Java
+Abox lite version
+R helper package for creating, manipulating, and visualizing Atlantis input files and data
+A Python script to help you write more human readable config files for TextMate
+nodejs docker ci
+A MongoDB storage driver for Botkit
+cross-platform bin manager; list and empty all your bins!
+Chrome extension to prevent you from scrolling down on Facebook too much
+VS 2015 syntax highlighting for Lolcode
+
+
+
+Capistrano 3 build and copy strategy for git (checkout branch, apply build steps and deploy to server)
+Spring MVC 4 RESTFul Web Service
+Scabbia2 LightStack Component
+Scabbia2 Scanners Component
+python script for mirroring youtube videos
+Scabbia2 Yaml Component
+Scabbia2 Formatters Component
+Scabbia2 Helpers Component
+Scabbia2 Router Component
+Scabbia2 Services Component
+FreeCodeCamp exercises from http://www.freecodecamp.com/
+Scabbia2 Testing Component
+
+Amazon data parser
+B.U.R.N is an Url Redirectioni &Longernizer service standing on a single webpage without the need of a server-side interpreter.
+
+Blogging Web App in CodeIgniter (Php Framework)
+Some docker images and convenience scripts for g-2 development
+
+A light Weight App for Testing Multiplayer Game Dev Using Lidgren
+Custom Section plugin for Impress Pages CMS
+Python scripts from the 'Raspberry Pi Cookbook for Python Programmers' Tim Cox (2014)
+PenBox - A Penetration Testing Framework - The Tool With All The Tools , The Hacker's Repo
+A bunch of self-hosted services packed into one Docker host
+
+
+Be a library hijacker: using LD_PRELOAD for setting safe home-made memcpy
+CV3 is an eCommerce platform. This serves to act as an additional resource for personal use. If it helps you, enjoy.
+Yet another productivity application
+Capistrano 3 build and copy strategy for git (checkout branch, apply build steps and deploy to server)
+Library and multi-object file format for storing and managing data between machines, https://www.hdfgroup.org/products/hdf4/
+popover component for angular applications
+todo app
+A website which states your geolocation
+Set of tools for dealing with time data
+
+Text Mining with Java tf-idf and more
+web-based tool usage timer for maker space. server implemented in flask python web framework. Runs on linux, and PC
+
+A toolbox for (micro)benchmarking of C programs on x86_64.
+A @p5xjs game, made by @sergeography and @danbernier. Eat some flies!
+The Ninja Tracker application created by following Meteor + React
+Enhanced Start - Program Launcher
+Customizable sticky notes for the web. Chrome extension
+
+This repository contains executable applications created by Changing Places Group, MIT Media Lab.
+Gulp plugin that improves your site with modern web standards.
+
+
+Collection of tree data structures and iterators for each.
+A file system is designed using C Language where the sector size is 512 Bytes. It is a CUI where we can create, open and delete a file or directory and read, write and seek from a file.
+Contact list app with ActiveRecord exercise for W3D2 of lighthouselabs.com web development bootcamp
+Congressional App Challenge ~2015-2016 (Vikram Sharma, Michael Chen, Sahaj Putcha, Nishant Yadav)
+:truck: Mimetype + data -> React Component
+Angular captcha is a angular directive. It is providing captch functionality without server integration
+eXeLearning with native saving in standard ePUB files and pure HTML/Javascript interaction templates (iDevices).  Work in progress.
+A jQuery/Backbone application in which users can make wolf versions of themselves
+
+Ensure all lines in a CSV contain placeholders for missing columns. Solution for 'missing column' errors when using postgres COPY command
+
+Some Low level stuff with linux using C and python
+Program which makes a double column list of of NIST vulnerabilities
+reproducible pipeline to go along with work for semantic-image-comparison
+A OkHttp 3 client implementation for Retrofit 1.
+A website template layout
+Ever wished to play a MU* from the comfort of your IRC client?  Well now you can!
+A library that interfaces with SharedPreferences and makes it easy to store data across devices including Android Wear syncing
+K-Way Merge Sort, implemented using both a Heap, and a conventional, slower method. Written in Python.
+Brooke Burnside Ceramic Art | Architecture Portfolio Site
+Simplified backup tool written in python
+Program to get and solve astronomical pictures from an DSLR camera
+
+Monokai Extended dark syntax theme for Atom editor
+Tools for competitive programming: downloader, code template, autotester
+
+Material Design implementation with style guide
+Program to maintain a database of your own personal comic collection, with comic details from GCD (comics.org).
+An open-source alternative to Synthesia
+Webpack Typescript React Testing with Karma
+weewx extension that POSTs live wx data to remote RESTful endpoint
+Docker scripts to create lambdacube development environment
+screenshare chrome extension for tokbox
+Pixi.js template using ES6/2015
+Turn 2-Dimensional SVG Paths into 3-Dimensional STL Meshes
+Default scripts for wormbot
+A dockerized Jupyter server for data science.
+Python project for calculating and storing class statistics.
+
+textlint rule that check spell using SJSJ(Simplified JavaScript Jargon).
+Simon Says game to learn object-oriented programming
+A utility for building a list of breadcrumbs from chopped URL's.
+
+http://pace-calculator.amartynov.ru
+
+A program to parse Minecraft Forge recipes, and turn them into FTB Wiki templates
+Maintains a local copy of the eeDomus database
+Temperature Monitor based on Adafruit HUZZAH ESP8266
+client side scripts to help maintain our websites and online tools
+API for Astronomy Pics of the Day site. Written in Node.js
+uses latest yahoo finance site to retrieve data into mongodb or dynamically for analysis
+Use of built in arrays, but now I used multidimensional arrays to store students grades
+Machine for doing OpenStack contributions.  This saves you having to do all the prerequisite stuff on your development machine, so you can just get right to fixing code/docs and submitting.  Some minor tweaking needed to individualize. 
+Turbot scraper for http://missions.opencorporates.com/missions/779/
+Programming data structures using C plus plus
+An Android application that takes notes
+Docker project for creating teamspeak servers.
+ruby 2.3.0 development
+A core implementation of all WakaTime C#-driven plugins for IDE such as VisualStudio, Xamarin Studio, Monodevelop etc
+A JQuery plugin to interact with Axilent ACE
+
+A searchbot that quickly searches stuff for you on the web
+View status of VNX Mirrorview mirrors via web or email report
+This game is modeled after the traditional game snake. The object of the game is for the snake to eat a piece of food that appears randomly on the screen. As the snake, eats a piece of food it grows in length making the game more difficult. The score and 
+Django Project Git
+Hobby project for sharing songs
+c++ and openGL chess program
+
+An Opal library for creating view models that use Knockout.js for dynamic HTML DOM updates and event handling.
+Fluid dynamics component of Chemical Engineering Design Library (ChEDL)
+Repo for .js roguelike development
+Portfolio Website
+Paramalyzer - Burp extension for parameter analysis of large-scale web application penetration tests.
+2-cycle MIPs CPU implemented in Logisim.
+Comment Parser for Casey Neistat 2015 Giveaway
+Royal Blue Wordpress theme
+Wordpress Theme Freifunk 
+An app for tracking the progress your work
+python tools for genetics analyses
+Arduino code for controlling a garage door motor
+Babel plugin to automatically install missing dependencies as you work.
+MarsDB storage implementation based on LevelUP
+This project will be an Open ID, .net 5, MVC6, React, Dapper, and Breeze base project.
+A little hours program for work hours
+Express.js module for VK server authentication
+
+App website for the Family Medicine Study Guide
+Django-based LDAP user registration service
+Generate a docker-compose yaml definition from a running container
+A set of scripts we use with Docker and Amazon ECS/ECR to manage things.
+5th-class-laravel-3-Happysk created by Classroom for GitHub
+
+Find dates inside text using Python and get back datetime objects
+This script enables system admins and Linux/Unix users to create cron jobs that run according to the Hijri calendar and can be related to prayer times.
+Checking out react
+Managana 2.X core classes
+Add the pigpio library to kodi on the raspberry pi 2 for I/O purposes
+
+The essential files for our site theme, based on the free Wordpress theme "Edin"
+Final project of 520 Intro. to AI. Naive Bayesian, Perceptron & Neural Network Classifiers for handwrite digits and faces.
+Password Storage
+
+Adapts Lamba Router Requests and Responses to NodeJS HTTP Request and Responses
+An alternative API endpoint service for NASA's APOD data.
+Photo Bombers project from Treehouse "Build a Photo Browser iPhone App"
+micropython class for Si7005 relative humidity/temperature sensor
+Designing Restful API Final Project -https://www.udacity.com/course/designing-restful-apis--ud388
+
+Flickr photo gallery with ES6, jQuery and promises
+Assignment 1 for 520 Intro. to AI. A Star Search
+Easy configuration setting and getting for Laravel projects ("persistent settings")
+Reference architecture for a todo-application built on HTML5/Angular 2/Bootstrap.
+A Cisco IP phone config generator written in PHP
+a3 config manager
+Creating an object oriented program to generate Java byte code for any TinyPL program
+This repo is useful for iOS developers who wants to animate label on the text field.
+Vim bindings to the HaRe haskell refactoring tool
+Java library and examples of using LEGO WeDo with Processing 3.
+Hayashi Empirical Work
+Easy-to-use collection of Guarantee types
+A plugin for Unreal Engine 4 that lets you integrate Parse.com native features into your project.
+The Nethunter Linux Root Toolkit is a collection of bash scripts which install Nethunter onto a supported device.
+
+Puppet Module to install and configure etherpad
+A quick guessing game I made for a Powershell class at Bellingham Technical College
+Created a 3d environment for a music folder. 
+
+Is the ground shaking from an earthquake or just a truck driving by? After moving to CA, its hard to tell
+Node.js bindings for several USB scales (Pitney Bowes, Dymo, etc.)
+Hayashi Empirical Work
+Reader for the binary ".wbm"-extension format created by NCH Software programs such as Wavepad. Implemented in Python.
+(C#) Application to handle horse show riders, and print reports of the classes
+Sartorial Genius app
+Exigo corp wordpress
+A Ruby scraping script/API query ready for Heroku scheduler & cron setup notes
+Verify New Torrents Scraper
+create your graph and run Dijkstra to get the shortest path between 2 nodes
+A skeleton of a react web application.
+a url search based on the Coursera API, by the Johns Hopkins University - MD
+Run command in vim with current buffer and see the result side-by-side
+DES encryption & decryption ( python )
+Interactive tool which allows you to generate terrain and save it as a prefab
+Vagrant setup that creates a  ci server for all sorts of languages and tools
+A clean version of our swerve drive code designed to be easily integrated into a new project.
+Mob timer written in JavaFX
+NMMSO: The R Implementation
+Scrape daily currency exchange rates from website
+React-Redux-ES6-Webpack version of Book Catalog
+Budget First is an open source budget application based on the envelope budgeting or zero-sum budget approach, in which income is partitioned in various categories and spending only occurs from these categories.
+
+
+QR code editor
+Blog Development
+Stress consistency snapshot isolation in various relational databases. See also: https://johann.schleier-smith.com/blog/2016/01/06/analyzing-a-read-only-transaction-anomaly-under-snapshot-isolation.html
+Java library to add multiple users conversation mecanism to your app.
+A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.
+Remember that stupid game you used to play on your old Nokia all the time?
+A node.js server farm with everything you ever dreamed of
+JavaScript bitmap processing filters for images, video and canvas supporting HTML5 Web Workers.
+php chat
+Automated test harness for performing demo playback regression tests for DOOM source ports that implement demo logging.
+A Windows 10 PDF reader app. Goals include 1) No options, 2) Touch and mouse friendly
+Interactive visualisations of the data available from the Indian government.
+
+
+node's net api in react-native
+
+A java-based bot API for http://turntable.fm/
+A four-day Agile project to create an online store in Rails
+A set of challenges for jump starting your understanding of monads.
+Android application which uses OCR to extract text from images of receipts and documents and backs them upto Google Drive.
+Gesture recognizers written in Kotlin
+A python extension wrapper for avro-c
+Circuitscape is a free, open-source program which borrows algorithms from electronic circuit theory to predict patterns of movement, gene flow, and genetic differentiation among plant and animal populations in heterogeneous landscapes. Circuit theory comp
+Todd's primary github public page repo.
+EF Core reference console application to try out various things with Entity Framework Core. Implements features of a student enrollment application.
+A Rails Engine that makes it easy to create shortened URLs for your rails application
+Set of tools for initializing and deploying Wordpress sites
+DEPRECATED: USE MAPBOX.JS
+Automatic offload of user-written Spark kernels to accelerators
+
+Tool for managing list of authorized USB devices on Linux.
+Outil de calcul de medecine pour smartphone
+Android repo for Steer Clear App
+Chris Johnson's HTML project template
+Grove is a way for developers to share git repositories directly over HTTP, without needing a central service like GitHub to connect them. Developers can share as many repositories as they like, and don't need to push their changes or branches in order to
+a PHP API for converting online (HTML) timetables into JSON, XML and more. Currently only supports versions of the Untis timetable software.
+App to display and allow downloads from RootzWiki forum OPs
+A tool to assist in the publication of biodiversity data
+Custom Puppet Modules/Facts/Functions etc I've cleaned up and feel like sharing....
+Download upstream tarballs and fetch changes from the github API
+A browser game built with HTML5 and JavaScript
+Buildstep uses Docker and Buildpacks to build applications like Heroku
+This is a WIP server tools system for Garry's Mod.
+Helper library for working with VMware from python
+Support for using Spring when developing native Android applications.
+Command Line Interface for the development of Homey Apps
+A ruby script to download all files from your classic Basecamp account
+Pull to refresh ListView like iPhone has, derived from Johan's work
+Change Ruby I18n localize to use parsi digits and jalaly dates in farsi locale
+VATSIM traffic viewer for Android
+[Deprecated] use locomotive cms or similar http://locomotivecms.com
+DynaMechs rebuilt with CMake. Original project website: http://sourceforge.net/projects/dynamechs/  (This link has been down for a while, then some unknown guy resurrected it). DynaMechs is orginally developed by Scott McMillan. Current version has been t
+Data-oriented game engine written in Rust
+A string extensions library for node.js
+A jQuery plugin for displaying a favicon on links.
+
+An old iOS application which displays the latest software updates from MacUpdate. Never published - No longer developed nor maintained.
+Atmos iOS is an open source project for crowdsourcing user and sensor generated data about the weather on iOS devices.
+OMeta: an Object-Oriented Language for Pattern Matching. PHP implementation of OMeta/JS.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HTML validator for emacs using flymake and validator.nu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+360 Wordpress Plugin
+Drives 8 LEDs using a MSP430G2231 microcontroller at a user selected rate.
+will be a data packaging management tool - WIP
+Sound-to-light system for Hue
+Sublime Text 2/3 Snippets for CakePHP
+A little help to viewing ArcGIS Server, Geocommons, Arc2Earth, CartoDB, GIS Cloud, etc. vector data in a Leaflet map
+\N
+Bachelor Relation system
+Keep tabs on expensive Ruby garbage collection. Support for NewRelic RPM and Rack.
+empty mdogo skeleton app
+Auburn University math department syllabus template
+
+Parses an initialisation (ini) text file and returns a ColdFusion structure of properties.
+Data winners is a data collection application supporting multiple channels like sms, web and smartphone. Goal is to enable seamless data collection, reporting and visualization.
+Go package for interacting with The Google Geocoding API.
+A Penn Treebank-style parsed corpus of historical Greek from Homer through the Greek New Testament.
+Making diploid assembly becomes common practice for genomic study
+Play music using the Tikitag RFID reader
+Ruby library for Microsoft Bing Search API
+
+A procedural RPG in C
+Generic notification system for Django, with multiple input types and output backends
+A lightweight, client-side scripting library.
+
+YCanvas is an open source 2D tile renderer library written in ActionScript 3. It provides high performance solution for rendering world maps. The library also contains Stage3D (GPU) accelerated implementation based on Starling.
+Profiler is a software component to easier the investigation of the performance issue. It provides some tools to report the CPU usage and call times of the profiled places.
+An Xposed mod to add a button to the app info window for installed apps that takes you to the Play Store page for that app
+Set expiry dates for users in WordPress
+A lightweight browser extension that scrobbles the music you listen to on the web.
+TwEater (short for Twitter Eater) is a tool designed to help you archive long-term Twitter search queries. TwEater supports a variety of backends, from flat files to MySQL databases, and it's easy to plug in your own storage code. TwEater is released unde
+A Node.js wrapper around the SauceConnect jar file
+Cross-platform game engine written in C++.
+Create Vim colorschemes with Ruby
+A pyrocms module that adds Facebook page or profile photo albums to your website
+libomegle is a little C++ (or python with provided bindings) library for interfacing with the 'Omegle' random-pairing instant messaging service.
+A social news website (YARC - yet another reddit clone)
+This repo will contain the 3.4 kernel for Sony Xperia MSM8960T devices
+some common TD Learning algorithms
+Sample Rootkit for Linux
+Sublime Text 2 command to format long SQL statement to a more readable form (also available via Package Control)
+For a given Parameterized Project, this plugin shows the builds sorted by the parameters used to execute the builds
+Kujua Lite is a web based SMS data collection and analytics tool focused on community health care workers in rural environments. We help large health organizations collect and analyze data sent from health care workers using ordinary mobile phones.
+Framework for building WSGI apps in which requests and responses are just dictionaries.
+rename files with numbered filenames
+Example WINAPI WebKit example
+Public Suffix List module for Python
+IronBee Development Tools
+Plugins of Construct 2
+1% of what a mature configuration management tool does, written in bash
+A distributed data scraper for consuming Blizzard's WoW API
+Plugin for BigBrotherBot that enforces text file banlists
+The official PHP API Client for XMWS
+Switcher - A WiFi Open Source Power Switch
+Erlang Redis Client Pool for eredis
+\N
+Communicate in Morse Code using Arduino, Twilio, node.js and a lamp.
+The AmazonS3 Drupal module allows the local file system to be replaced with S3. Uploads are saved into the drupal file table using D7's new file/stream wrapper system.
+Erlang HTTP linked-in driver
+
+Python Implementation of the TrueSkill, Glicko and Elo Ranking Algorithms
+ip2location library bindings for node.js
+
+:computer: A school project using Google App Engine and Google Maps. :skull:
+This repository contains scripts that can be used to control extreme feedback devices for the Jenkins Continuous Integration server
+JRuby desktop application for managing, manipulating and transforming data assets
+Various tips I collect.
+
+Use your own class object to easily load and save configuration settings to App/Web/Custom .config or .xml file.
+ATLAS good runs list reader and command-line tools
+Squid report tool: Generate flexible reports for your squid server in realtime. Written in PHP5
+Auxiliary plugin of RealtimeRender for transferring files by Secure Copy (SCP).
+PHP-based parsing library for aviation METAR weather reports and TAF forecasts.
+HyperDB is an advanced database class that supports replication, failover, load balancing, and partitioning.
+GnuPG - GNU Privacy Guard - tool for secure communication and data storage
+Functions to calculate student growth percentiles and percentile growth projections/trajectories for students using large scale,          longitudinal assessment data.  Functions use quantile regression to estimate the conditional density associated      
+A script to help cutting releases of your projects in a single step (following some conventions).
+Etherton One Name Study using JSF
+Vim Config for C and C++
+Notes and scripts for setting up a Ubuntu backup server
+Fast and fuzzy file opener for Bash in Go
+Enhanced configuration file related tools for Python
+Java implementation of a Disk-based LRU cache which specifically targets Android compatibility.
+Use social profile data from your Janrain Engage application to prefill forms
+An Angry Birds-like programmed in Java as a school project
+
+Extended SharedPreferences Class for Android
+An OpenSoundControl (OSC) server to dynamically instantiate and control Java objects. Its main application is a GUI library for SuperCollider.
+Erlang LSM BTree Storage
+Twitter component for Apache Camel
+A SimpleDB Administration web-interface
+A remote monitoring application using Node.js, MongoDB, and Twitter Bootstrap.
+
+
+This library hopes to provide a helper class to be used by any Java based reporting tool like Jasper/Pentaho
+Sample sketch app using HTML5 Canvas that demonstrates lineTo drawing techniques, as well as brush images.
+Port of xbill game to JavaScript
+
+Latex 2 CNXML Transformation
+FortiGate automatic backup script.
+Functional test library for F# / C# / VB.NET
+Python Meta Programming 
+JavaScript source code visualization, static analysis, and complexity tool
+Replicating intriguing numerical properties of the Qur'an with easy-to-follow, open source procedures
+Similar syntax highlighting to GitHub 
+HTTPS client implementation for httplib and urllib2 based on PyOpenSSL
+
+A source code dump for OneButton FTP, an old OS X FTP client.
+Calaos Web App - HTML5 (based on AngularJS) Application for calaos home automation system
+CakePHP2: Deprecated parent controller class that adds a helper _respond() method for ajax requests
+Enhances your ActiveRecord model to export its data to a sitemap in an intuitive way
+A program which allows several people to queue music to a single computer for use on example LAN parties or at the office.
+General tools for Neil
+The qWikiOffice Web Desktop is an open source project committed to providing an online experience that is unique and user friendly.  Ajax technology combined with the EXT-JS library and cutting edge graphics allow qWikiOffice and the web applications with
+zip module for appcelerators titanium mobile
+
+A client-server tool that locks/unlocks TCP/UDP ports on a remote machine.
+forked from http://redmine.the.re/git/puppet-rsnapshot.git
+OWS web app changed from unstructured javascript to Backbone and Underscore JS
+Codeigniter 2 class for google analytics api
+
+
+Twitter like NavigationController
+A lightweight RESTful router component for PHP 5.3+
+The diff washing machine. See your code changes clearly.
+Separated groovy template engine for the Play! framework
+Java(TM) based open graphics 2D
+Creates notification to launch alarm clock from status bar.
+Enhances the PuTTY's features, can support stop/start/find for serial, and support adb(android debug bridge)
+NSFormatter subclass for iphone-like phone number field
+Core52: Rapid development MVC Framework for PHP - Official Repository
+Interprocedural Static Analysis Engine for Scala
+User page
+Node.js module to list all files in a directory or any subdirectories.
+just trying various things with Ember.js
+DO NOT USE. Riakkit. An ORM for Python Riak for RAD. Similar to mongokit and couchdbkit. This is about to be deprecated by kvkit
+A C# .NET example using MongoDb to create and display scary dragons! Uses a repository pattern and business layer to access data in the cloud via MongoLab.
+The simplest Chef recipe that could possibly work.
+
+HAProxy monitor library for node.js
+
+
+A node.js module for reactive webcrawling
+A system to better manage UITableView data source classes, because they can be reusable too! 
+notifies android phones from irc private messages
+A libnoise port to Java
+A gem allowing an active_record model to have previous, next based on single column
+node.js tumblr API client (incomplete)
+
+Tiny Ruby library to work with Maven's pom.xml files.
+FatBox CORE API Client
+A wrapper for Swing aiming to provide more concise syntax and extra functionality. Still in heavy development, syntax may change radically.
+
+iOS application deployment helpers
+An installation created in collaboration with Thomas Lock and Robin Rimbaud (Scanner)
+A Ruby program that can parse plain text files to generate probability tables and then generate random names using these tables.
+command-line interface helper utility for ruby
+Alternative calendar export plugin for Moodle 2
+php site to monitor alarm events from python-alarm
+Powershell Scripts
+Pagelime Rails Plugin
+Breakout is a free, completely open-source iOS 7 jailbreak.
+Utility code for for AVR app development, generally tailored for the Teensy 
+DB classes for node JS
+This includes a set of documents rewritten in LaTeX to understand the language and to give a better and elegant look to them
+A brand new PHP framework which aims to make coding simpler
+generates iTunes Music Library xml files
+Timelab is a C API for writing stand alone sound synthesis algorithms. It is intended for deployment on embedded systems, but can run on a computer just fine. The purpose of timelab is to provide a framework for a novel approach to synthesis based on nume
+Objective-C wrapper around the Sparkling API
+Web app for work
+The website for the xylophone framework
+pencil tool for drawing on scalable vector graphics
+A custom home page with a search engine and other helpful widgets.
+This version actual has files in it!
+R package to help manage the datasets, models, and processes of behavioral model development.  VERY early in development.
+Python solution to make lines of text in a file a JavaScript array
+A Chrome DevTools theme based on @kkga's Spacegray theme.
+A maven plugin for data-driven, template-based code generation
+LWIP implementation of MQTT stack
+Open source library for SPI/I2C control via FTDI chips
+
+miniKanren with declarative copy term (copyo)
+RatLang is an open source programming language that wants to replace your calculator. It strives for the most concise syntax and the most useful language constructs to make writing calculations faster.
+A C program that calculates e to the 10,000th place. 
+A TeamCity plugin for the Trigger.io command-line build tools
+Make any image into ascii art with jQuery on Crossrider as a cross-platform browser extension
+Complete (in theory...) documentation for Ractive.js
+Adds a menu to the WordPress admin bar that consists of helpful webmaster links.
+Gen Y Edu Game(Cocos2d-x, Box2D)
+is a form of data analysis that extracts models describing important data classes. Such models, called classifiers, predict categorical (discrete, unordered) class labels.
+Test Plugin for WordPress that allows users to add Global Message anywhere on the blog.
+Android library implement drag GridView item to change with animation
+A super lightweight visual HSL, RGB and hex color picker with a responsive, touch-friendly and customizable UI. Compatible with jQuery or Zepto.
+PoC for canopy style testing framework for winforms/win32 etc using System.Windows.Automation
+Javascript Function Parser
+The framework behind the server.
+A Game Template I developed that is similar to games like Mafia Wars. (Not 100% complete)
+
+Unlimited* cloud storage
+Ex8, co-written with Dylan Otto Krider was an open-ended assignment from our Games Programming class using Java and OpenGL
+RPM build scripts for PrestoDB
+An iOS component for sighting a point using the camera and compass.
+iPenTest (previously a Metasploit iOS POC)
+an iOS component for drawing on an image
+Safe process variable for Node App Engine
+
+open source http server
+An extension for Brackets that generates the 'base HTML code' much like DreamWeaver does.
+A Firefox extension for better tab handling.
+Background service to collect android application's usage 
+Jenkins buddy to create jenkins easily, require jenkins-job-builder
+Special version of the new Robot Builder (version 0.0.2) that compiles code that uses WPILibExtensions
+Adds functionality to jQuery deferreds that act like normal deferred methods but also can pass along properties on the deferreds when they are piped.  Probably most useful for ensuring your AJAX deferreds keep their XHR methods as you use the deferred cha
+Internationalize is a ruby library for transfering your local Rails (-version > 3.0 ) project to an I18n format.  It will automatically extract hard-coded text from your ERB view file, then choose a proper key and replace them with the I18n.translate meth
+Bash scripts to verify directory structure, file permissions, or command output.
+Various inventory management tools for Minecraft servers running CraftBukkit
+implementation of the 4 row game
+Vpn for android
+Access Flickr's API via Jsonp from your browser
+Implement text ellipsis effect without CSS(CSS ellipsis only can make one line, but it overcomes limitation) in mobile environment used by jQuery
+AngularJS + Rails 4 running on PostreSQL. RSpec for testing.
+Loja Virtual com Cake Php
+PHP Forum Facebook Style
+Distributed graph storage based on Akka and Scala
+A WIP Adminmod for Just Cause 2 Multiplayer
+CiviCRM extension with custom searches for De Goede Woning
+CiviCRM extension for the specific API wrapper De Goede Woning
+CiviCRM extension De Goede Woning synchronization with First Noa
+Replaces script references with Google CDN ones
+Gala night web site code
+markdown-site
+A web server for an online chatroom implementation
+Django Navigation App (helper for django-sitetree)
+
+!WARNING! Application not finished! Realtime chat with moderation mode - moderators can publish only hand-picked messages, which can be useful in Q&A sessions. Node and Angular.
+SublimeLinter plugin for php, using phpmd.
+Santa is an arcade video game where the player has to open some gifts and avoid some others.
+Display recent Google contacts list with their Name, Email and Phone numbers.  
+TwitCasting-rb is a TwitCasting API wrapper in Ruby implements.
+An extension methods to simplify javascript.
+The card game Blackjack written for Rails
+"Guess the Number" JavaScript challenge repo
+A Location Based Micro-Blogging Application for UC Santa Barbara
+Export your database as a Laravel Migration. And export your DB data as a seed file. Finally sync all this with your remote server.
+Read Debian control files with node
+O2 Version Started
+Qt5 port of https://gitorious.org/heebo
+SlopeGraph Extension for QlikView (using D3).
+A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
+Convert a folder with images to an ePub file. Great for comics and manga!
+The PHP script that ran the old Raspberry Pi mirror system that lived at downloads.raspberrypi.org
+Helper scripts for UltimateFishbot
+A chrome extenstion to add list navigation item to top nav in chrome
+some pentesting tools (scripts, modules, etc.)
+Recursively locks all files in a given SVN directory. (For migrating source code over to git ;))
+Guadalinex v9 meta package with compiled version of firefox 24.2.0
+Flickr: Tools for downloading, munging, analyzing Flickr data
+SiteForge is a powerful static website generator built on Node.js
+Modification of WPExplorer's Tetris WP Theme
+This is a file server that has an email user interface (EUI).  It uses IMAP and SMTP
+A tool for watching changes in files. Written in coffee as a substitute for inotify, makes use of the fs.watch commands.
+Strip comments from JSON. Lets you use comments in your JSON files!
+GnuCash Python helper script to import transactions from QIF text files into GnuCash's own file format
+A Ruby script that opens many programs at the same time. Used for when turning on my machine in the morning
+Elegant Line Graphs for iOS (charting library)
+Tray icon to list/start/stop VMs
+An android tank game.
+Think gnome-keyring but using gpg-agent instead of a buggy daemon. Intended for use OfflineIMAP, mutt, or similar applications
+Copy changed blocks from one file to another
+A RequireJS plugin for loading and compiling (with r.js) JavaScript files containing JSX.
+Ruby client for finn.no ads REST API
+Use yeoman to generate a handlebars helper that can easily be used with Assemble.
+Yield the first async value returned for the co generator library
+Session store container which provides transparent access
+A Pebble Application Development Kit for Drupal Websites.
+Homebrew tap for power_fixer https://github.com/binchewer/power_fixer
+Console tool written in Ruby to export Google Trends data
+The Lappland.io blog and website.
+A JavaScript library for Firefox OS application development, consisting of WAI-ARIA-driven accessible widgets, a lightweight app framework, and convenient utility functions.
+unity3d rewrite of the original Warcraft III custom game Island Troll Tribes
+A Chrome extension that allows you to study and take notes on a selected directory of bookmarks.
+Read temperatures from a digitemp output file and insert to a DB
+A standalone HTTP proxy written using asio.
+Grab a list of game prices from a website
+2013 Scala workshop and 2014 Scala workshops (maintained by Robert White) at The University of Manchester
+A repo to create simplified GeoJSON regions so we can display map-based visualisations without having to load tiles all over the place.
+A Docker Cassandra container
+A javascript player for soundcloud
+nfo files and rename scripts for Chaos Communication Congress recordings so XBMC can add them as a show
+A Free Cross-platform Multi-protocol VPN Software, developed by SoftEther VPN Project at University of Tsukuba, Japan.
+Decrypt Passwords used in TeraTerm Macro TTL files using function getpassword
+A Go client library for todo.txt files (http://todotxt.com)
+AngularJS module for working with browser local storage
+AngularJS module for advanced working with arrays in JS
+A client library for communication with XlentMatch.
+Find all open DNS recursors on your (or other) networks.
+This repository contains docker recipes to create predefined containers
+Cloud music player built on Flask with Dropbox Core API
+Notes, instructions, and scripts for moving sunpig.com from Movable Type to Wordpress
+keep vim settings add  shell script
+Udacity CS253 - Web Development
+A template for Bash scripts to avoid typing the same code in every script I create
+Helper for launching applications while reinstall frequently.
+Python library for the programmatic generation of markdown text
+JSON RPC Server for Bridge Buddy - a Bridge Card Game Helper
+JavaScript game engine
+Game launcher that installs the game client by torrenting it. This allows for customization of what is being downloaded while still using a default well seeded torrent.
+Android application for FamilyTracker project
+A tool allowing you to serve resources from your local machine as if they came from the external server.
+
+Ruby on Rails App that displays random quotes
+Laravel Based Text Classifier using Naive Bayes
+River of Life Prayer Guide
+Source code for the WhoAmI series of posts
+A Feature Rich set of tools to start you of on your new project.
+Website Code
+Extensions 'n' Tools for C with addional database access modules
+Yeoman generator to improve and speed up the development workflow of an AngularJS application.
+Confirming that async mocha tests written qunit style to run in proper order as long as they aren't nested.
+A javascript native encode/decoder for ttyrec files/records
+Just a copy of the ITU-T STL2009 with a working build chain for (l)unix [make]
+nonchip's web framework
+Convert cunit xml test report to junit format
+A project template for developing games using Node.js, Grunt and javascript libraries.
+1Cloudy Website
+An ack.vim alternative mimics Ctrl-Shift-F on Sublime Text 2
+Vim syntax highlighting for pal calendar files.
+Combines SVN logs from multiple paths into a single log for use with Gource.
+Remote picture viewer tool
+A script to encode image files as base64 text. 
+vim plugin that makes vim syntax highlighting engine available in pandoc
+responsive jQuery slider
+A dependency-free Object Schema library for Ruby
+An iOS app created using "iOS Programming: The Big Nerd Ranch Guide"
+Status Page for ESRGC Dashboards
+TrueTime-HSF is an extended version of TrueTime which implements two level hierarchical scheduling. The original TrueTime is developed by department of automatic control at Lund University: http://www3.control.lth.se/truetime/
+[Deprecated] Row-based multi-tenancy for SQLAlchemy
+Fix Position is a jQuery Plugin that fixes an element in place after the screen is scrolled to a certain vertical point.
+Crack HTML-Logins with Bruteforce
+Verify that your sass functions generate the css you expect.
+Seed project for single page Angular.js applications running on a Node.js/Express server.  Includes tests with jasmine-node on server and karma-jasmine on client.  Sample files can be overwritten or deleted - most exist simply for demonstration of the pro
+A nodejs-based web-client for Media Player Daemon (MPD)
+fluent interface for building web controls in c#
+Build a local copy of a Flickr photoset
+Game of Life implementation in JavaScript
+generate cluster pxe files from a flat config file
+Nights! Nights! Wordpress theme
+Store Data in Keychain
+An iterator-like collection library for doing Bing queries in Scala.
+A library to work with quantities and units.
+Some Haskell list operations implemented in Java. 
+sqlalchemy dialect adaptor for gevent to work in non-blocking mode
+Program implemented to find voids in the space, based on Carlos Hervias Caimapo's algorithm.
+
+Script for calculating the number of occurrences of a, or all, values given n dice with m sides.
+University Projects
+Interface for a server side script to call javascript events/actions
+An Arduino library for managing range settings for groups of servos. 
+Split huge mbox file(giga byte)  to many .eml(.emlx) file.
+helper script to merge dash youtube videos using youtube-dl and MP4Box
+I could not find a function for optimizing a function that took a vector input and returned a scalar value in scipy.optimize, so I have attempted to create a class that does this.
+KDE4 KIO slave for displaying recent used folders
+Skookum School App
+Maven based Java Wrapper for the DiffBot API
+Gitflow Maven Plugin that uses Groovy Gitflow
+Modified version of the Vortex Box Deck that behaves more like an app!
+Openpay Javascript bindings
+A gamemode for Garry's Mod that allows you to have virtually infinite ammo and overpowered stats!
+iOS Tweak that thins notification banners down to size!
+Dave Shinsel's robot projects
+For now, just a static homepage
+Module to hold and serialize the in-memory relationship between urls and objects and users.
+numbers.js is a client-side javascript library that adds some advanced mathematics functionality to the standard Math library.
+Forum/Community about hypermiling written in Python using Django.
+https://kath.io/
+Solar System written on HTML/CSS
+An implementation of similating fireworks using C++/SFML
+An extension that hides components that can be triggered by a button
+A Project to make MySQL data backup using Ruby on Rails
+
+Crafity HTMl UI elements
+Source etc related to Clarion for Windows
+A PHP framework for accessing or testing a pump.io server
+Slick2D / jBox2D game development.
+Proof of Concept iOS application developed on behalf of Office of Information Technology for Alaska Native Language Center, to request for further funding on behalf of ANLC to build a full blown Multimedia enabled application for the purpose of teaching a
+Work to develop a group settings control workflow for University of Alaska System. The code is incomplete and need be completed. But there are some good examples on interaction with google group settings API.
+A script that sends SMS messages using email. 
+This repository contains scripts that are used by the maintainers of the library. Useful scripts and daemons.
+Its a application in C# which helps to download an entire video series from the web given the link of a single video of the series.
+A JavaScript based application for University of Alaska Tuition Estimator, with an interface that is built to make the financial decision which part of coming the decision to go to school easy. Compare cost across various study plans and compare it with n
+Node.js In Action shoutbox app
+A little web page app showing what to feed ducks.
+Used to create Lua scripts, which can in turn create an element in The Powder Toy
+An iOS home application for Arctic Region Supercomputing Center. This application was built in collaboration from Bob Torgerson. This was my first iOS application.
+
+
+Remember Pi application. Try to remember. Get told what the next are. Try to go as far as you can! (Don't know how many digits)
+Opensource Reddit like website. This project was built using: java, MySQL, redis, Angular.js, Bootstrap
+A work in progress Chrome Extension to show contextual information as a popover when an article hyperlink is hovered over
+A GUI version of uphold-server
+Tools to keep a git integration branch up to date
+
+Python script to parse and convert dfxp (subtitle) to ass
+Tools for managing multiple versions of text files and content transclusion.
+Catarse as a full, non-namespaced Rails engine.
+A custom knockout 3.0.0 binding for the googleMaps API
+Reliable File System (college Operating System course exercise) - low level filesystem tier with fdisk, striping, ...
+An exception hierarchy to represent HTTP errors and redirections
+I needed to create an AWS marketplace AMI at work, so the instances needed to get their authorized_keys set from the keypair specified to AWS.
+General libraries for the D Programming Language
+A Django class-based view utility library
+RaspberryPi LCD Info script
+Library for Adafruit ILI9341 displays
+Shell script en Bash para subir archivos(mayormente imagenes) a uploadpie.com desde la linea de comandos.
+A really old, bad, incomplete implementation of the Cycle System task management for Android. Only staying around because I'm sentimental.
+
+JavaScript/CoffeeScript implementations of safer stack and queue data structures
+static html page
+Minebuilder Mod Script Engine
+A set of client applications for issuing measurements to the RIPE Atlas network
+Ansible role that compiles and installs Ruby 1.9.3 (https://www.ruby-lang.org) and Bundler (http://bundler.io).
+Use octet counting to frame data through a stream
+C++ Program implementing complex number arithmetic
+This is Alistair's development version of ZhuangLab/matlab-storm.  For release version, please see Zhanglab/matlab-storm.
+Wallmart Text Scraper with navigation support. List the products returned by Wallmart.com for a given search query
+Random JavaScript code. Drawn from katas, text, and general experimentation.
+Python related tools
+Zaphire framework is a framework which takes cues from other frameworks like Zend to create a family basis on which to build your high performace web applications.
+Code for http://beer.opensourcery.com.
+Resellerclub API in Python
+Virtual Memory implementation in Pintos Operating System
+an extranet application for ruby on rails
+toy scala lisp implementation
+Post your Google+ Posts to Facebook with PHP
+A public IP API service.
+Brushes for IOS App
+Tool for updating the GAC of a server from a client
+This should check for changes on the Billboard's Hot 100 and send an e-mail with the new music that appears each week.
+DiffBot client written on pure C
+A set of SolidWorks macros with UI, for quick creation of some standard primitives.
+Back up your Simplenote account to a git repo or gist!
+
+
+A generic server for use with Derby apps
+Php Windows DLL extension Phalcon 1.2.4 for PHP 5.5 ts (Thread Safe) & nts (Non thread safe) VC11 64 Bit
+Ansible playbook for deploying the client registry of the OpenHIE stack
+Magic: The Gathering life counter in jQuery
+PHP Code kit
+Jenkins plugin for Capitomcat
+Time tracking module for the atomic company management system.
+Cinch (codename) WordPress developer framework
+An open source, survey-based matchmaking program
+An advanced template for NodeJS projects.
+Implementation of akka-persistence storage plugins for mongodb
+Web site for CS 460 at BYU
+A Cocoa timer class for iOS and OS X offering a choice of behaviors, so you can use the right one.
+An app which monitors manifesto PRs, and decides if consensus has been reached
+Calibrate multiple rtl-sdr dongles concurrently and make them work together on GSM
+A plugin for creating a custom checkbox or radio button
+.DS_Store manipulation and creation from node.js
+create deployment timelines - api written in golang
+a script to detect browser and device for mobile applications to enable responsive design
+A Thinkful project 
+LuaJIT2 sources, binaries and build scripts
+A boilerplate for WordPress custom post types
+Just like a doodle but for pizzas
+A tower defense game in Lua
+web of fhs
+RSS attachment downloader written in Go
+Hackathon idea to create an app to facilitate RIPAS blood bank information
+Easy to use class to connect to different database (actually MySQL and SQLite) using same methods
+Source code for the playcanvas-based game Chartreuse Warden.
+C# Tetris Implementation 
+Sample storage engine for MySQL
+Legacy library hours module from staff site.
+Helper plugin for adding member icon/badges next to username for members.
+Tiled map engine using Rails, Javascript, and HTML5
+jQuery plugin that allows images to enlarge full size of its container
+ControlaTIC App
+An open source system for creating RDF from various source data such as spreadsheets and CSV files.  It is based around use of the Ruby ERB templating system.
+Google V3 Geocoder Service Wrapper
+An Node.js-based Open Sound Control (OSC) library for Flocking
+
+This is web application in which any user can other user to view their posts ..
+BNS Body Classes WordPress Plugin
+Development repository for Chef Cookbook for Apple XCode
+A plugin for importing raw SVG into the svg.coffee library 
+Expressive testing tools for creating assertions over the NUnit testing framework.
+theppl: the successor of the markov thebeast probabilistic programming platform
+This is an implementation of cat that will add colour highlights to supported types of source code.
+A library for adding transformations to Java source code.
+Tools in use during the development of the prototype 360 Giving Standard. Now archived. 
+program to generate SGF properties from Specification file
+A mobile app for sending georeferenced image and voice recordings from an Adroid phone to an email address. For more information, please go to http://sautiyawakulima.net/ojovoz
+Subtitles Translation Helper
+ProtoType Magic: Programming Mastery
+Complementary module for Dolibarr ERP/CRM : resource management
+An R package to help manage R projects (e.g. Sweave reports) where multiple versions are created based upon a single source repository. For example, a monthly report where each versions is identitcal with the exception of easily definable parameters (e.g.
+A JavaScript library that makes observing changes to the DOM easy
+A tool to turn a Greasemonkey user script into a Firefox (XPI) extension.
+The configuration backup and restore app allows an administrator to take a snapshot (archive file) of all configuration settings of the system, allowing easy restoration in the event data is lost.
+
+Home Page
+A utility that reminds your android app's users to review the app.  Port of iOS appirater with additional features for Android. 
+
+C language wrapper for RE2 the regular expressions library from Google
+A C# client framework for consuming HTTP/REST services
+SSL and SSH certificates used in development
+A collection of specialized monitors for gollector
+A library of objects and routines which will allow you to interface with i2c serial eeprom devices.
+This is a plugin for tshock
+Open data on 4,000+ social media apps from oneforty.com #hubspot-open-source
+
+A LINQPad driver to perform queries againt Azure Table Storage.
+An android application which can be used by teachers to take attendance of students , keep track of students , send a message to an absentee etc.,
+.NET WebSocket Client
+Google App Engine website monitor based on https://code.google.com/p/cron-tab/
+text analyser software for market research
+The Flatterline website.
+Proyecto 3 de Graficas I
+
+Provide better search functionality by capturing all matched line
+Extend, inherit and clone
+The website for the new WhatCounts user interface.
+A server for deciding which tracks to play next.
+clojure interface to interact with (java-)objects in the hibernate ORM
+Perl module implementing prime number tools in C++ with the Sieve of Eratosthenes.
+EmberJS preview and build tool for Node.JS
+
+An open-source application built on the Google App Engine
+chat. no javascript.
+Real Time Information App for Dublin bus for the Sailfish Operating System on the new Jolla smartphones
+Dumps the content of an Artifactory Maven repo.
+blindparser is an all purpose RSS/ATOM feed parser that parses feeds into a common format so that you do not have to care if they are RSS or ATOM feeds
+An image gallery application for Django framework
+A program which takes a brainfuck program as input, and interprets it.
+
+A random assortment of TextMate bundles as used by USM
+
+
+check the dbl and zen list for domains and ip's
+A copy of the mozilla.org PHP site.
+
+IPC::Concurrency::DBI - Control how many instances of an application run in parallel, using DBI as the IPC method.
+Custom Event/Messaging system for JavaScript re-packaged for Meteor
+Perl Module to Analyze Text Databases
+NBi is a testing framework (add-on to NUnit) for Microsoft Business Intelligence platform and Data Access. The main goal of this framework is to let users create tests with a declarative approach based on an Xml syntax. By the means of NBi, you don't need
+Safari Extension extracting information from a Mantis issue and adds it to a GitHub issue
+WordPress.org Plugin Mirror
+Pantera is a tool to test the resilience of cloud applications.
+Generic Disease Modelling System
+
+Seth Ladd's excellent box2d intro migrated to a modular structure with requirejs.
+Clase para utilizar la pasarela de pagos redsys, sermepa.
+Seventh version of MobileMedia implemented using COSMOS*-VP
+A styleguide generator based on kss (https://github.com/kneath/kss), but built in node.js
+HTTP middleware for Go that facilitates some quick security wins.
+
+System level ROS Tools
+Visualize and control real-time streams in a browser-based interface
+A mailSender component
+Rails without the data loss.
+A Yii ActiveRecord behavior to keep a backup of the loaded values for an ActiveRecord instance
+Zend Framework 1 Measure package
+Zend Framework 1 Acl package
+Zend Framework 1 Cloud package
+Zend Framework 1 XmlRpc package
+Zend Framework 1 Application package
+A wizard to create wrappers to easily add GOG.com DOSBOX and ScummVM games to Steam
+site implementing websockets using tornado and future implementation of mongodb
